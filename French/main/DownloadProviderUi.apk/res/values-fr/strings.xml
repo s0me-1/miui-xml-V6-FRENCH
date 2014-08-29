@@ -82,7 +82,6 @@
   <string name="determine">Confirmer</string>
   <string name="cancle">Annuler</string>
   <string name="period_of_validity">"Durée de validité : "</string>
-  <string name="one_month">Un mois</string>
   <string name="menu_all_task_pause">Tout mettre en pause</string>
   <string name="menu_all_task_start">Tout démarrer</string>
   <string name="download_list_open_xl_ok">Ok</string>
@@ -94,7 +93,7 @@
   <string name="turn_off_xunlei_tips">Accélérateur Xunlei inactif</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Accélérateur Xunlei actif</string>
   <string name="open_xunlei_speed_service">Activer l\'accélérateur Xunlei</string>
-  <string name="dredge_xunlei_account">Accéder à mon compte Xunlei</string>
+  <string name="dredge_xunlei_account">Souscrire à une offre Xunlei</string>
   <string name="auth_activity_title">Compte Xunlei</string>
   <string name="bind_xunlei_account">Associer un compte Xunlei ></string>
   <string name="download_list_get_hightspeed_flow_sucess_head">"Compte Xunlei d\'essai créé, "</string>
@@ -114,20 +113,19 @@
   <string name="package_filter">PAQUETS</string>
   <string name="other_filter">AUTRES</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Paiement effectué</string>
-  <string name="choose_open_time">Veuillez sélectionner la date de début</string>
+  <string name="choose_open_time">Veuillez sélectionner la durée</string>
+  <string name="valid_in_this_month">seulement valide ce mois-ci</string>
+  <string name="free_speedup_exp">Service de téléchargement à haute vitesse Xunlei</string>
+  <string name="xunlei_gaosu">Service de téléchargement à haute vitesse Xunlei</string>
+  <string name="download_list_intoAuth">Authentification...</string>
+  <string name="get_account_dialog_msg">Chargement des informations...</string>
+  <string name="one_month">Un mois</string>
+  <string name="member_cost">Un an</string>
+  <string name="get_order_fail_msg">Échec de la commande, une erreur s\'est produite</string>
+  <string name="get_order_dialog_msg">Chargement de la commande...</string>
+  <string name="immediately_a_renewal">Renouveler immédiatement</string>
 <!-- à traduire  -->
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
-  <string name="xunlei_gaosu">Xunlei Highspeed service</string>
-  <string name="free_speedup_exp">Free Xunlei Highspeed service</string>
-  <string name="valid_in_this_month">only valid in this month</string>
   <string name="high_speed_channel">Highspeed channel</string>
-  <string name="immediately_a_renewal">Immediately a renewal</string>
   <string name="mi_money">Mi money</string>
-  <string name="member_cost">Account annual fee</string>
-  <string name="original_price">(Original_price</string>
-  <string name="mi_money_">mi_money)</string>
-  <string name="get_order_fail_msg">Get Order Fail</string>
-  <string name="get_order_dialog_msg">Getting Order Info</string>
-  <string name="get_account_dialog_msg">Getting Account Info</string>
-  <string name="download_list_intoAuth">Are entering miui authorization page</string>
 </resources>
