@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">il y a %d min</item>
+        <item quantity="one">il y a %d min</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">il y a %d heures</item>
+        <item quantity="one">il y a %d heure</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y a %d jour</item>
+    </plurals>
+</resources>

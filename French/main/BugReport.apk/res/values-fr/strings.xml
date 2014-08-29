@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <string name="signal_problem1">Aucun signal</string>
+  <string name="signal_problem2">Signal faible</string>
+  <string name="network_err">Connexion de données indisponible, veuillez vérifier vos paramètres ou réessayer plus tard.</string>
+  <string name="systemui">Barre de notification</string>
+  <string name="screen_lock">Écran de verrouillage</string>
+  <string name="nonsystemapp_description">Décrivez le problème (en anglais)</string>
+  <string name="suggestion_description">"Description (en anglais) :
+ I hope you'll add X feature, because…"</string>
+  <string name="title_hot_problem">Bugs courants</string>
+  <string name="loading_apps">Chargement…</string>
+  <string name="hot_problem">Voir les bugs courants</string>
+  <string name="loading_hot_problem">Chargement…</string>
+  <string name="err_type_signal">Réseau</string>
+  <string name="err_type_systemapp">Applis système</string>
+  <string name="err_type_bluetooth">Bluetooth</string>
+  <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_camera">Appareil photo</string>
+  <string name="err_type_nonsystemapp">Autres applis</string>
+  <string name="err_type">Type de retour</string>
+  <string name="action_submit">Envoyer</string>
+  <string name="app_label">Rapports</string>
+  <string name="btn_send">Envoyer</string>
+  <string name="description">Décrivez le problème (en anglais)</string>
+  <string name="discard_draft_dialog_button_cancel">Annuler</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Le rapport a été modifié, appuyez sur le bouton OK pour supprimer le brouillon.</string>
+  <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
+  <string name="err_type_power_consuming">Consommation</string>
+  <string name="err_type_reboot">Redémarrages</string>
+  <string name="err_type_suggestion">Suggestions</string>
+  <string name="menu_attach_screenshot">Joindre une capture d\'écran</string>
+  <string name="menu_copy">Copier</string>
+  <string name="menu_discard">Ignorer</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_content">Vos commentaires seront envoyés lorsque le réseau mobile sera disponible</string>
+  <string name="network_unavailable_dialog_title">Réseau indisponible</string>
+  <string name="packaging_dialog_content">Le rapport est en cours de génération, veuillez patienter…</string>
+  <string name="report_miui">Rapport de crash</string>
+  <string name="section_description">Description</string>
+  <string name="section_err_type">Type de retour</string>
+  <string name="section_screenshot">Captures d\'écran</string>
+  <string name="status_msg_collecting_log">Collecte des journaux…</string>
+  <string name="status_msg_pending_upload">%d commentaires en cours de téléchargement…</string>
+  <string name="toast_description_required">La description est nécessaire avant d\'envoyer</string>
+  <string name="toast_feedback_pending_wlan">Vos commentaires seront envoyés lorsque le Wi-Fi sera disponible</string>
+  <string name="toast_feedback_submitted">Le commentaire a été soumis avec succès</string>
+  <string name="toast_pending_log_collection">Collecte des journaux, veuillez patienter…</string>
+  <string name="toast_report_copied_to_clipboard">Rapport copié dans le presse-papiers</string>
+  <string name="toast_report_sent_failed">Impossible d\'envoyer le rapport !</string>
+  <string name="toast_report_sent_succeed">Rapport envoyé avec succès !</string>
+  <string name="wlan_unavailable_dialog_button_ok">Attendre</string>
+  <string name="wlan_unavailable_dialog_button_sent">Envoyer</string>
+  <string name="wlan_unavailable_dialog_content">L\'envoi du rapport requiert l\'usage de %s de données. Pour n\'envoyer le rapport que lorsque vous serez connecté à un réseau Wi-fi, appuyez sur Attendre.</string>
+  <string name="wlan_unavailable_dialog_title">Usage des données</string>
+  <string name="action_cancel">Annuler</string>
+  <string name="action_confirm">Sélectionner</string>
+  <string name="refresh">Actualiser</string>
+  <string name="app_empty">Aucune application téléchargée</string>
+  <string name="app_title">Centre de rapports de bugs</string>
+  <string name="non_system_app_select">Applis téléchargées</string>
+  <string name="system_app_select">Applis système</string>
+  <string name="toast_feedbackservice_in_submit">Envoi du rapport de bug…</string>
+</resources>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <string name="accessibility_add_attendee">Ajouter un participant</string>
+  <string name="accessibility_add_reminder">Ajouter un rappel</string>
+  <string name="accessibility_all_day">Toute la journée</string>
+  <string name="accessibility_pick_end_date">Date de fin</string>
+  <string name="accessibility_pick_end_time">Heure de fin</string>
+  <string name="accessibility_pick_start_date">Date de début</string>
+  <string name="accessibility_pick_start_time">Heure de début</string>
+  <string name="accessibility_pick_time_zone">Fuseau horaire</string>
+  <string name="accessibility_reminder_privacy">Confidentialité</string>
+  <string name="accessibility_reminder_showmeas">Ma disponibilité</string>
+  <string name="accessibility_reminder_time">Heure de rappel</string>
+  <string name="accessibility_reminder_type">Type de rappel</string>
+  <string name="accessibility_remove_attendee">Supprimer participant</string>
+  <string name="accessibility_remove_reminder">Supprimer le rappel</string>
+  <string name="accessibility_repeats">Récurrence</string>
+  <string name="accessibility_sync_cal">Synchroniser l\'agenda</string>
+  <string name="accounts">Comptes et synchro</string>
+  <string name="acct_not_synced">Ce compte n\'est pas synchronisé. Il est possible que vos agendas ne soient pas à jour.</string>
+  <string name="acessibility_cal_notification">Notification de l\'agenda</string>
+  <string name="acessibility_selected_marker_description">Événement sélectionné</string>
+  <string name="acessibility_snooze_notification">Notification de répétition d\'alarme</string>
+  <string name="add_account">Ajouter un compte</string>
+  <string name="agenda_today">AUJ., %1$s</string>
+  <string name="agenda_tomorrow">DEMAIN, %1$s</string>
+  <string name="agenda_view">Mon planning</string>
+  <string name="agenda_yesterday">HIER, %1$s</string>
+  <string name="alert_title">Notifications de l\'agenda</string>
+  <string name="app_label">Agenda</string>
+  <string name="attendees_label">Invités</string>
+  <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
+  <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s !</string>
+  <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire !</string>
+  <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
+  <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
+  <string name="birthday_notification_title_today">Anniversaire de %1$s</string>
+  <string name="calendar_refresh">Actualiser</string>
+  <string name="change_response_title">Modifier la réponse</string>
+  <string name="copy_db">Envoyer la base de données</string>
+  <string name="copy_email">Copier l\'adresse mail</string>
+  <string name="copy_number">Copier le numéro de téléphone</string>
+  <string name="create_an_account_desc">"Tirez le meilleur parti de l\'agenda en utilisant un compte Mi ou Google.
+
+• Accédez-y depuis n\'importe quel navigateur Web.
+• Sauvegardez vos événements en toute sécurité."</string>
+  <string name="creating_event">Événement créé.</string>
+  <string name="creating_event_with_guest">Les invitations vont être envoyées.</string>
+  <string name="custom">Personnalisé (non paramétrable depuis le téléphone)</string>
+  <string name="daily">Quotidien</string>
+  <string formatted="false" name="date_time_fmt">%s, %s</string>
+  <string name="day_view">Jour</string>
+  <string name="day_view_new_event_hint">+ Nouvel événement</string>
+  <string name="delete_label">Supprimer</string>
+  <string name="delete_recurring_event_title">Supprimer l\'événement \"%s\" ?</string>
+  <string name="delete_this_event_title">Supprimer cet événement ?</string>
+  <string name="description_label">Description</string>
+  <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
+  <string name="discard_label">Annuler</string>
+  <string name="dismiss_all_label">Tout supprimer</string>
+  <string name="do_not_check">Ne pas cocher -&gt;</string>
+  <string name="does_not_repeat">Événement ponctuel</string>
+  <string name="done">OK</string>
+  <string name="edit_event_all_day_label">Journée entière</string>
+  <string name="edit_event_calendar_label">Agenda</string>
+  <string name="edit_event_from_label">De</string>
+  <string name="edit_event_label">Infos</string>
+  <string name="edit_event_show_all">Tout afficher</string>
+  <string name="edit_event_to_label">À</string>
+  <string name="edit_label">Modifier</string>
+  <string name="email_guests_label">Envoyer un mail aux invités</string>
+  <string name="email_picker_label">Envoyer un mail via</string>
+  <string name="email_subject_prefix">"Re : "</string>
+  <string name="empty_event">Événement vide non créé.</string>
+  <string name="event_create">Nouvel événement</string>
+  <string name="event_delete">Supprimer l\'événement</string>
+  <string name="event_edit">Modifier l\'événement</string>
+  <string name="event_info_organizer">Organisateur :</string>
+  <string name="event_info_reminders_label">Rappels</string>
+  <string name="event_info_title">Afficher l\'événement</string>
+  <string name="event_info_title_invite">Invitation à une réunion</string>
+  <string name="event_view">Afficher l\'événement</string>
+  <string name="every_weekday">Jours ouvrés (lun–ven)</string>
+  <string name="gadget_no_events">Aucun événement à venir</string>
+  <string name="gadget_title">Agenda</string>
+  <string name="goto_today">Aujourd\'hui</string>
+  <string name="hide_controls">Masquer commandes</string>
+  <string name="hint_attendees">Invités</string>
+  <string name="hint_description">Description</string>
+  <string name="hint_what">Nom de l\'événement</string>
+  <string name="hint_where">Lieu</string>
+  <string name="jump_date">Aller</string>
+  <string name="jump_date_full">Aller à la date</string>
+  <string name="loading">Chargement…</string>
+  <string name="local_calendar_display_name">Calendrier local</string>
+  <string name="local_owner_account_name">Compte local</string>
+  <string name="menu_about_preferences">À propos de Google Agenda</string>
+  <string name="menu_general_preferences">Paramètres généraux</string>
+  <string name="menu_preferences">Paramètres</string>
+  <string name="menu_select_visible_calendars">Agendas à afficher</string>
+  <string name="miui_menu_create_event">Nouveau</string>
+  <string name="modify_all">Modifier tous les événements de la série</string>
+  <string name="modify_all_following">Modifier cet événement et tous les suivants</string>
+  <string name="modify_event">Modifier uniquement cet événement</string>
+  <string name="month_medium_january">Jan</string>
+  <string name="month_medium_february">Fév</string>
+  <string name="month_medium_march">Mars</string>
+  <string name="month_medium_april">Avr</string>
+  <string name="month_medium_may">Mai</string>
+  <string name="month_medium_june">Juin</string>
+  <string name="month_medium_july">Juil</string>
+  <string name="month_medium_august">Août</string>
+  <string name="month_medium_september">Sept</string>
+  <string name="month_medium_october">Oct</string>
+  <string name="month_medium_november">Nov</string>
+  <string name="month_medium_december">Déc</string>
+  <string name="month_view">Mois</string>
+  <string name="monthly">Tous les mois</string>
+  <string name="monthly_on_day">Mensuel (même jour)</string>
+  <string name="monthly_on_day_count">Mensuel (chaque %1$s %2$s)</string>
+  <string name="more_string">+ %1$s</string>
+  <string name="new_event_dialog_label">Nouvel événement</string>
+  <string name="new_event_dialog_option">Nouvel événement</string>
+  <string name="no_calendars_found">Avant d\'ajouter un événement, vous devez ajouter au moins un compte Google Agenda à votre appareil et activer la visibilité de cet agenda. Pour cela, appuyez sur "Ajouter un compte", ou sur "Annuler" si vous pensez qu\'au moins un agenda est activé (vérifiez que c\'est bien le cas). Si vous venez d\'ajouter un compte, patientez jusqu\'à la fin de la synchronisation, puis réessayez.</string>
+  <string name="no_syncable_calendars">Pas d\'agenda</string>
+  <string name="no_title_label">(Sans titre)</string>
+  <string name="not_synced">non synchronisé</string>
+  <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
+  <string name="preferences_about_title">À propos</string>
+  <string name="preferences_alerts_popup_title">Notification par pop-up</string>
+  <string name="preferences_alerts_ringtone_title">Sonnerie</string>
+  <string name="preferences_alerts_title">Notifications</string>
+  <string name="preferences_alerts_vibrateWhen_title">Vibreur</string>
+  <string name="preferences_build_version">Version</string>
+  <string name="preferences_category_account_title">Compte</string>
+  <string name="preferences_category_general_title">Général</string>
+  <string name="preferences_clear_search_history_summary">Supprimer toutes les recherches effectuées</string>
+  <string name="preferences_clear_search_history_title">Effacer l\'historique de recherche</string>
+  <string name="preferences_default_reminder_dialog">Rappel par défaut</string>
+  <string name="preferences_default_reminder_title">Rappel par défaut</string>
+  <string name="preferences_general_title">Paramètres d\'affichage de l\'agenda</string>
+  <string name="preferences_hide_declined_title">Masquer évèn. refusés</string>
+  <string name="preferences_home_tz_default">Europe/Paris</string>
+  <string name="preferences_home_tz_title">Mon fuseau horaire</string>
+  <string name="preferences_reminder_title">Notifications et rappels</string>
+  <string name="preferences_show_week_num_title">Afficher numéro semaine</string>
+  <string name="preferences_title">Paramètres</string>
+  <string name="preferences_use_home_tz_descrip">Afficher les agendas et les événements dans votre fuseau horaire habituel, même en déplacement</string>
+  <string name="preferences_use_home_tz_title">Mon fuseau horaire</string>
+  <string name="preferences_week_start_day_dialog">1er jour de la semaine :</string>
+  <string name="preferences_week_start_day_title">1er jour de la semaine :</string>
+  <string name="presence_label">Ma disponibilité</string>
+  <string name="privacy_label">Confidentialité</string>
+  <string name="quick_response_custom_msg">Réponse personnalisée…</string>
+  <string name="quick_response_dialog_title">Sélectionner une réponse rapide</string>
+  <string name="quick_response_email_failed">Impossible de trouver un programme de messagerie électronique.</string>
+  <string name="quick_response_settings">Réponses rapides</string>
+  <string name="quick_response_settings_edit_title">Réponse rapide</string>
+  <string name="quick_response_settings_summary">Modifier les réponses par défaut lors d\'envoi de mails aux invités</string>
+  <string name="quick_response_settings_title">Modifier réponses rapides</string>
+  <string name="reminders_label">Ajouter un rappel</string>
+  <string name="repeats_label">Fréquence</string>
+  <string name="response_maybe">Peut-être</string>
+  <string name="response_no">Non</string>
+  <string name="response_yes">Oui</string>
+  <string name="save_label">OK</string>
+  <string name="saving_event">Événement enregistré.</string>
+  <string name="saving_event_with_guest">Les mises à jour vont être envoyées.</string>
+  <string name="search">Rechercher</string>
+  <string name="search_history_cleared">Historique des recherches effacé.</string>
+  <string name="search_title">Rechercher dans mes agendas</string>
+  <string name="select_synced_calendars_button">Agendas à synchroniser</string>
+  <string name="select_synced_calendars_title">Agendas à synchroniser</string>
+  <string name="select_visible_calendars_title">Agendas à afficher</string>
+  <string name="show_controls">Afficher commandes</string>
+  <string name="show_day_view">Afficher le jour</string>
+  <string name="show_newer_events">Appuyez sur l\'écran pour afficher les événements après le %1$s</string>
+  <string name="show_older_events">Appuyez sur l\'écran pour afficher les événements avant le %1$s</string>
+  <string name="snooze_all_label">Tout répéter</string>
+  <string name="snooze_label">Répéter</string>
+  <string name="synced">synchronisé</string>
+  <string name="tardis">TARDIS</string>
+  <string name="template_announce_item_index">Événement %1$s sur %2$s</string>
+  <string name="timezone_label">Fuseau horaire</string>
+  <string name="today">Aujourd\'hui</string>
+  <string name="today_at_time_fmt">Aujourd\'hui %s</string>
+  <string name="tomorrow">Demain</string>
+  <string name="tomorrow_at_time_fmt">Demain à %s</string>
+  <string name="view_event_calendar_label">Agenda :</string>
+  <string name="view_event_organizer_label">Organisateur :</string>
+  <string name="view_event_response_label">Participer ?</string>
+  <string name="week_view">Semaine</string>
+  <string name="weekly">Hebdomadaire (chaque %s)</string>
+  <string name="what_label">Objet</string>
+  <string name="when_label">Date</string>
+  <string name="where_label">Lieu</string>
+  <string name="yearly">Annuel (le %s)</string>
+  <string name="yearly_plain">Tous les ans</string>
+  <string name="account_and_calendar">Compte et Calendrier</string>
+  <string name="account_and_calendar_to_display">Compte et Calendrier à afficher</string>
+  <string name="button_day">J</string>
+  <string name="button_week">S</string>
+  <string name="button_month">M</string>
+  <string name="default_reminder_mode">Mode de rappel par défaut</string>
+  <string name="event_account">Compte</string>
+  <string name="event_all_day_label">Toute la journée</string>
+  <string name="event_hide_more">Masquer</string>
+  <string name="event_info_descrip">"Description : "</string>
+  <string name="event_info_repeat">"Récurrence : "</string>
+  <string name="event_info_when">"Date : "</string>
+  <string name="event_info_where">"Endroit : "</string>
+  <string name="event_show_more">Plus d\'options…</string>
+  <string name="today_no_events">Aucun événement</string>
+  <string name="lunar_date">Date lunaire</string>
+  <string name="time_zone">Fuseau horaire</string>
+  <string name="widget_events">Événements à venir</string>
+  <string name="widget_no_events">Aucun événement à venir</string>
+  <string name="widget_select_style">Sélectionner le style de widget</string>
+<!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
+  <string name="work_day_indication">" "</string>
+  <string name="rest_day_indication">" "</string>
+  <string name="event_lunar_month">Mois</string>
+  <string name="refresh">Actualiser</string>
+  <string name="tab_local">Local</string>
+  <string name="tab_online">En ligne</string>
+  <string name="tab_category">Catégories</string>
+  <string name="huangli_label">Huang Li</string>
+  <string name="holiday_label">Fête</string>
+  <string name="pref_title_no_remind">Aucun rappel</string>
+  <string name="pref_title_notification_remind">Notification de rappel</string>
+  <string name="pref_title_alert_remind">Pop-up de rappel</string>
+  <string name="pref_title_alarm_remind">Alarme de rappel</string>
+  <string name="event_date_format">dd/MM</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
+  <string name="pref_error_no_ringtone_select">Aucune sélection</string>
+  <string name="cta_notice_title">Avertissement</string>
+  <string name="cta_notice_message">"Les rappels d'anniversaires de vos contacts requiert l\'accès aux contacts.</string>
+  <string name="cta_notice_checkbox">Ne pas redemander</string>
+  <string name="cta_notice_ok">Accepter</string>
+  <string name="cta_notify_settings">Rappeler lors de l\'accès aux contacts</string>
+  <string name="text_year">Année</string>
+  <string name="week_view_today_toast">Semaine en cours</string>
+  <string name="alarm_label">OK</string>
+  <string name="edit_event_confirm_message">Ignorer les modifications de l\'événement ?</string>
+  <string name="action_text_today">Aujourd\'hui</string>
+  <string name="action_text_new_event">Ajouter</string>
+  <string name="event_action_delete">Supprimer</string>
+  <string name="event_action_edit">Modifier</string>
+</resources>

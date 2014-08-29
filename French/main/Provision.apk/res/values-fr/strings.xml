@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <string name="input_method_category">Il existe diverses méthodes de saisie, vous pouvez sélectionner celle appropriée en fonction de votre utilisation, si vous êtes novice il est recommandé d\'utiliser la méthode de saisie par défaut</string>
+  <string name="input_method_setting">Choisir la méthode de saisie</string>
+  <string name="other_settings">Autres paramètres</string>
+  <string name="other_settings_location">Localisation</string>
+  <string name="other_settings_location_summary">Permet aux applications de vous géolocaliser</string>
+  <string name="other_settings_user_experience">Programme d\'expérience utilisateur</string>
+  <string name="other_settings_user_experience_summary">"Envoyer des statisques anonymes à Xiaomi "</string>
+  <string name="welcome">Bienvenue</string>
+  <string name="other_settings_user_experience_summary1">(politique de confidentialité)</string>
+  <string name="sim_card_detection">Carte SIM non détectée</string>
+  <string name="sim_card_detection_info">Une carte SIM est requise pour créer un compte Mi.</string>
+  <string name="sim_card_detecting">Détection de la carte SIM…</string>
+  <string name="next">Suivant</string>
+  <string name="sim_dectection_next">Continuer</string>
+  <string name="shut_down">Éteindre</string>
+  <string name="sim_redetection">Retenter de détecter la carte SIM</string>
+  <string name="logo_congratulation">Terminé !</string>
+  <string name="congratulation_label">Et maintenant, profitez de MIUI v6 :)</string>
+  <string name="congratulation_next">Commencer à utiliser MIUI</string>
+  <string name="summary_not_set">Non défini</string>
+  <string name="summary_sim_card">SIM %1$d%2$s</string>
+<!-- à traduire -->
+  <string name="multisim_settings_category">Preferred SIM settings</string>
+  <string name="multisim_settings_title">2 SIM cards detected</string>
+  <string name="pref_title_data_slot">Preferred data SIM card</string>
+  <string name="pref_title_voice_slot">Preferred voice SIM card</string>
+</resources>

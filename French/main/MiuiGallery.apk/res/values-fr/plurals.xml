@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more dufos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <plurals name="confirm_delete_has_cloud_image">
+      <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_image">
+      <item quantity="other">Supprimer %s photos ?</item>
+      <item quantity="one">Supprimer %s photo ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_video">
+      <item quantity="other">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_video">
+      <item quantity="other">Supprimer %s vidéos ?</item>
+      <item quantity="one">Supprimer %s vidéo ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_image">
+      <item quantity="other">Supprimer %s photos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_video">
+      <item quantity="other">Supprimer %s vidéos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+  </plurals>
+  <plurals name="number_of_items_selected">
+      <item quantity="other">%1$d sélectionnés</item>
+      <item quantity="zero">%1$d sélectionné</item>
+      <item quantity="one">%1$d sélectionné</item>
+  </plurals>
+  <plurals name="number_of_pictures">
+      <item quantity="other">%1$d</item>
+      <item quantity="zero">%1$d</item>
+      <item quantity="one">%1$d</item>
+  </plurals>
+  <plurals name="number_of_images">
+      <item quantity="other">%1$d images</item>
+      <item quantity="zero">%1$d image</item>
+      <item quantity="one">%1$d image</item>
+  </plurals>
+  <plurals name="number_of_items">
+      <item quantity="other">%1$d éléments</item>
+      <item quantity="zero">%1$d élément</item>
+      <item quantity="one">%1$d élément</item>
+  </plurals>
+</resources>

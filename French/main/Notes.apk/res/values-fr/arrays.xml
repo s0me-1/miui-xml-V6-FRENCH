@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+  <string-array name="contact_entries">
+      <item>Nom</item>
+      <item>Surnom</item>
+      <item>Téléphone</item>
+      <item>Mail</item>
+      <item>Organisation</item>
+      <item>Messagerie Instantanée</item>
+      <item>Téléphone SIP</item>
+      <item>Anniversaire</item>
+      <item>Site Internet</item>
+      <item>Adresse</item>
+      <item>Note</item>
+  </string-array>
+  <string-array name="font_size_names">
+      <item>Petite</item>
+      <item>Par défaut</item>
+      <item>Grande</item>
+      <item>Maximale</item>
+  </string-array>
+  <string-array name="welcome_notes_content">
+      <item>"Notez simplement et rapidement des idées, des pensées ou des mémos.
+"</item>
+      <item>"Ajoutes-y des photos ou des contacts
+"</item>
+      <item>"Validez vos tâches avec un glissement de doigt
+"</item>
+      <item>"Et d'autres fonctionnalités tel que :
+  - Synchronisation avec Mi Cloud
+  - Définir des rappels
+
+Pour en savoir plus visitez :
+http://www.miui.com/forum.php?lang=1
+"</item>
+  </string-array>
+</resources>
