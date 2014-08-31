@@ -195,8 +195,6 @@
   <string name="cit_tool_modem_bugreport">Forcer le Coredump du modem</string>
   <string name="cit_tool_modem_exit_ftm">Quitter le mode FTM</string>
   <string name="cit_tool_modem_offline_log">Ouvrir/Fermer le journal hors-ligne</string>
-  <string name="cit_tool_modem_pcap_switch">Activer/désactiver la sortie de données</string>
-  <string name="cit_tool_modem_pcm_switch">Activer/désactiver la sortie PCM</string>
   <string name="cit_tool_wifi">Outils de test Wi-Fi</string>
   <string name="cit_tool_wifi_band_24">bande: 2.4G</string>
   <string name="cit_tool_wifi_band_5">bande: 5G</string>
@@ -272,12 +270,12 @@
   <string name="cit_tool_nfc_st_confreq">freq :</string>
   <string name="cit_tool_nfc_st_run">Test</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
+  <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
 <!-- à traduire -->
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-  <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
 Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
@@ -295,5 +293,4 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
   <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
-  <string name="cit_tool_modem_cta_test">>Open / Close Protocol Conformance Test</string>
 </resources>

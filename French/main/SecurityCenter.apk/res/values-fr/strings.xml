@@ -549,7 +549,6 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="root_apply_step_5">Accorder le droit root à %s ?</string>
   <string name="button_text_accept">Autoriser</string>
   <string name="button_text_accept_timer">Autoriser (%d)</string>
-  <string name="network_forbidden">%s (bloqué)</string>
   <string name="button_text_reject">Refuser</string>
   <string name="button_text_reject_timer">Refuser (%d)</string>
   <string name="button_text_next_step">Suivant</string>

@@ -89,7 +89,7 @@
   <string name="error_app_unsupported_hfr_720p">Le 720P peut prendre en charge jusqu\'à 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Seul l\'encodage vidéo H264 est supporté si le HFR est activé.</string>
   <string name="error_app_unsupported_raw_wavelet">Les ondelettes de bruit ne prendront pas effet lors de la capture des images brutes</string>
-  <string name="error_fail_to_start_audio_capture">Impossible de démarrer la capture audio, le micro est peut-être utilisé par une autre application.</string>
+  <string name="error_fail_to_start_audio_capture">Impossible de démarrer le mode de déclenchement audio, le micro est peut-être utilisé par une autre application.</string>
   <string name="exposure_time">Durée d\'expo</string>
   <string name="face_analyze_info">%1$s %2$s années</string>
   <string name="face_analyze_info_female">Femme</string>
@@ -184,7 +184,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Filtre de bande passante</string>
-  <string name="pref_camera_audio_capture_title">Capture audio</string>
+  <string name="pref_camera_audio_capture_title">Déclenchement audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Désactivé</string>
   <string name="pref_camera_auto_focus_title_entry_on">Activé</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
@@ -409,13 +409,14 @@
   <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
-  <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
+  <string name="simple_mode_button_text_audio_capture">Quitter le déclenchement audio</string>
   <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
   <string name="simple_mode_button_text_face_beauty">Quitter le mode teint de peau</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
   <string name="simple_mode_button_text_slow_video">Quitter le mode fast-motion</string>
+  <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
@@ -432,7 +433,7 @@
   <string name="title">Titre</string>
   <string name="toast_burst_snap_finished_end">Photos prises</string>
   <string name="toast_burst_snap_finished_start">Rafale finie</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque la capture audio est activée.</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque le déclenchement audio est activée.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">"La prise de photos en rafale n'est pas supportée quand le mode beauté du visage est actif."</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto\'."</string>
@@ -466,7 +467,6 @@
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="pref_camera_countdown_title">Compte à rebours</string>
-  <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
   <string name="pref_front_mirror_title">Caméra frontale inversée</string>
   <string name="pref_video_speed_fast_title">Fast-motion</string>

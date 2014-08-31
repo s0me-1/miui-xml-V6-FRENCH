@@ -375,7 +375,7 @@
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
   <string name="search_label">Messages</string>
-  <string name="search_setting_description">Texte de vos messages</string>
+  <string name="search_setting_description">Texte dans vos messages</string>
   <string name="search_show_more_results">Afficher plus</string>
   <string name="secs">s</string>
   <string name="select_audio">Sélectionner un fichier audio</string>

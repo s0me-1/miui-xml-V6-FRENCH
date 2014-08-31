@@ -807,4 +807,5 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="select_voice_call_sim">veuillez sélectionner</string>
   <string name="uplmn_list_setting_add_plmn">Nouveau PLMN</string>
   <string name="uplmn_list_setting_title">Réseaux préférés</string>
+     <string name="network_forbidden">%s (bloqué)</string>
 </resources>

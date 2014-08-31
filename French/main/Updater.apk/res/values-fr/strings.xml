@@ -12,7 +12,7 @@
   <string name="download_whole_rom">Mettre à jour (%so)</string>
   <string name="download_ota_rom">Mettre à jour (%so)</string>
   <string name="apply_later_button_text">Plus tard</string>
-  <string name="apply_update_timer">Redémarrage dans %ds</string>
+  <string name="apply_update_timer">Redémarrage... %ds</string>
   <string name="reboot_now">Redémarrer maintenant</string>
   <string name="reboot_later">Redémarrer plus tard</string>
   <string name="now">Redémarrer</string>

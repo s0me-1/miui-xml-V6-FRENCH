@@ -17,4 +17,19 @@
       <item>Normales</item>
       <item>Longues</item>
   </string-array>
+    <string-array name="list_language_entries">
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+        <item>Japonais</item>
+        <item>Coréen</item>
+        <item>Chinois</item>
+        <item>Hébreu</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Mode TTY désactivé</item>
+        <item>TTY complet</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
 </resources>

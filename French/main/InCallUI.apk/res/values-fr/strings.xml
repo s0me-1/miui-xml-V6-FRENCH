@@ -383,7 +383,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="card_title_on_hold">"En attente "</string>
   <string name="card_title_hanging_up">"Fin de l\'appel… "</string>
   <string name="card_title_in_call">Appel en cours</string>
-  <string name="card_title_in_call_short">In call</string>
+  <string name="card_title_in_call_short">"En cours "</string>
   <string name="card_title_my_phone_number">Mon numéro est le %s</string>
   <string name="notification_dialing">Numérotation en cours…</string>
   <string name="notification_missedCallTitle">Appel manqué</string>

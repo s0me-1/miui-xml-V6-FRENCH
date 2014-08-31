@@ -774,6 +774,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="send_att_title">Alerte</string>
   <string name="downloading_message_body">Chargement du mail, veuillez patienter…</string>
 <!-- à traduire : -->
+  <string name="check_setup_data">Validating server settings…</string>
   <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
   <string name="conversation_overload_toast">This email is too big to load, please go through all on PC later</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>

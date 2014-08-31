@@ -122,7 +122,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   
   <string name="label_balance">"Solde : "</string>
   <string name="label_order_name">"Nom du produit : "</string>
-  <string name="label_order_price">"Quantité : "</string>
+  <string name="label_order_price">"Prix : "</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmer votre schéma</string>
   <string name="lockpassword_input_your_pattern_header">Confirmer votre schéma</string>
@@ -311,20 +311,20 @@ Service client : 400-100-5678"</string>
   <string name="processing">Chargement...</string>
   <string name="denomination_unit">￥</string>
   <string name="btn_finish">Finir</string>
-  <string name="pc_pay_login">Veuillez vous connecter</string>
+  <string name="pc_pay_login">Connectez-vous sur :</string>
   <string name="milicenter_title">Mi Credit</string>
   <string name="unit_value">%1$s MiCredit</string>
   <string name="unit">MiCredit</string>
   <string name="balance_title">Solde</string>
   <string name="payment_actionbar_title">Confirmation</string>
   <string name="recharge_group_familiar">Méthodes de paiement</string>
+  <string name="prepaid_carriers_picker_hint">Sélectionner l\'opérateur</string>
+  <string name="voucher_card_text">Veuillez gratter la partie grise</string>
 <!-- à traduire -->
   <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
-  <string name="voucher_card_text">Please scratch off the coat</string>
   <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
   <string name="msg_telecom_picker_hint_1_2">Automatically contact your service provider.</string>
   <string name="msg_telecom_picker_hint_1_1">After you touch Confirm purchase, your phone will</string>
   <string name="msg_send_parameter_error">"Failed to send message，there's an error in the content."</string>
-  <string name="prepaid_carriers_picker_hint">Select carrier</string>
   <string name="illegal_intent">Illegal intent request</string>
 </resources>

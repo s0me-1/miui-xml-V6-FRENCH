@@ -728,6 +728,7 @@
   <string name="get_new_ticket_failed">Receive failed</string>
   <string name="ticket_source_text">%s</string>
   <string name="voucher_total">Total :</string>
+  <string name="loading_default_text">Chargement…</string>
   <string name="ticket_empty_loading_view_title">Qu\'est ce qu\'un coupon de jeu ?</string>
   <string name="ticket_empty_loading_view_text2">Game voucher is the center of the game pad issued to a Credit Voucher, you can use to Millet game center of combined transport as a cash credit voucher to spend in the online game</string>
   <string name="ticket_detail_desc_text">&lt;font color=#99000000&gt;Astuce : &lt;/font&gt;&lt;br&gt; &lt;font color=#99000000&gt;Game voucher can be offset against the cash in the game&lt;/font&gt;</string>
@@ -749,5 +750,11 @@
   <string name="insert_image">InsertImage</string>
   <string name="message_preview">Message preview</string>
   <string name="account_more_info_vip">VIP</string>
-  <string name="loading_default_text">Chargement…</string>
+  <string name="game_detail_fee">Fee:</string>
+  <string name="game_install">Install:</string>
+  <string name="game_type">Category</string>
+  <string name="install_myriad_time">myriad times</string>
+  <string name="install_time">times</string>
+  <string name="no_network_connect">"no internet
+Please check and refresh"</string>
 </resources>

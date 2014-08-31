@@ -107,22 +107,14 @@
       <item>Vert</item>
       <item>Bleu</item>
   </string-array>
-<!--
-  <string-array name="sogou">
-      <item>Google</item>
-      <item>google.com</item>
-      <item>http://www.google.com/favicon.ico</item>
-      <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-      <item>utf-8</item>
-      <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-  </string-array>
-  <string-array name="google">
-      <item>搜狗</item>
-      <item>sogou.com</item>
-      <item>http://wap.sogou.com/favicon.ico</item>
-      <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomi9&amp;e=1187</item>
-      <item>utf-8</item>
-      <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
--->
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
 </resources>

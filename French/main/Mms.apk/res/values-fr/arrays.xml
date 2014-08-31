@@ -64,9 +64,8 @@
       <item>Note</item>
   </string-array>
   <string-array name="entries_date_type">
-      <item>Afficher l\'heure de réception</item>
-      <item>"Afficher l\'heure d\'envoi
-(horodatage du serveur, peut être imprécis)"</item>
+      <item>Heure de réception</item>
+      <item>Heure d\'envoi</item>
   </string-array>
   <string-array name="select_dialog_items">
       <item>1 seconde</item>

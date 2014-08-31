@@ -52,8 +52,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="vp_VideoView_error_text_unknown">Désolé, le format vidéo sélectionné ne peut pas être lu</string>
   <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
 <!-- remplacer améliorateur ? : -->
-  <string name="menu_item_enable_audio_enhance">"Activer l'améliorateur de son"</string>
-  <string name="menu_item_disable_audio_enhance">"Désactiver l'améliorateur de son"</string>
+  <string name="menu_item_enable_audio_enhance">"Activer l'equalizer</string>
+  <string name="menu_item_disable_audio_enhance">"Désactiver l'equalizer"</string>
   <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>
   <string name="menu_item_disable_3d_mode">Désactiver le mode 3D</string>
   <string name="menu_item_enable_3d_mode">Activer le mode 3D</string>
@@ -225,8 +225,25 @@ la vidéo sur votre box ou TV"</string>
   <string name="clarity_supper">Très haute</string>
   <string name="clarity_high">Haute</string>
   <string name="clarity_standard">Standard</string>
-  
-<!-- à traduire -->
+  <string name="vp_device_list">Périphériques</string>
+  <string name="vp_select_function">Paramètres</string>
+  <string name="vp_media_info">Afficher les détails</string>
+  <string name="vp_hide_media_info">Masquer les détails</string>
+  <string name="vp_screen_shot">Capture d\'écran</string>
+  <string name="vp_scale_screen">Ratio d\'aspect</string>
+  <string name="vp_auto_select">Sélection auto</string>
+  <string name="vp_full_screen">Plein écran</string>
+  <string name="vp_adapt_width">Adapter la largeur</string>
+  <string name="vp_adapt_height">Adapter la hauteur</string>
+  <string name="vp_using_16_9">Forcer 16:9</string>
+  <string name="vp_using_4_3">Forcer 4:3</string>
+  <string name="select_tv">Chaines TV</string>
+  <string name="select_tvs">Chaines TV</string>
+  <string name="forecast">Programme</string>
+  <string name="forecasts">Programme</string>
+  <string name="select_tv_empty_hint">Aucune chaine</string>
+  <string name="forecast_empty_hint">Aucun programme</string>
+<!-- à traduire, pas visible ?-->
   <string name="vp_error_get_play_url_back_to_continue">"Can't find URL for this video."</string>
   <string name="vp_content_description">Content description</string>
   <string name="vp_get_url_error">"Can't find URL for this video."</string>
@@ -234,18 +251,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="vp_milink">MiLink</string>
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_select_ep">Select episode</string>
-  <string name="vp_device_list">Périphériques</string>
-  <string name="vp_select_function">Select function</string>
-  <string name="vp_media_info">View video info</string>
-  <string name="vp_hide_media_info">Hide video info</string>
-  <string name="vp_screen_shot">Capture</string>
-  <string name="vp_scale_screen">Switch aspect ratio</string>
-  <string name="vp_auto_select">Auto select</string>
-  <string name="vp_full_screen">Full screen playback</string>
-  <string name="vp_adapt_width">Fit width</string>
-  <string name="vp_adapt_height">Fit height</string>
-  <string name="vp_using_16_9">Force 16:9</string>
-  <string name="vp_using_4_3">Force 4:3</string>
   <string name="search_online_video">Search online video</string>
   <string name="unfavorite">Unstar</string>
   <string name="recent_play">Recently played: Ep.%d</string>
@@ -269,12 +274,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="all_media">All media</string>
   <string name="update">Updated</string>
   <string name="updatedalready">Updated</string>
-  <string name="select_tv">Select channel</string>
-  <string name="forecast">Forecast</string>
-  <string name="select_tv_empty_hint">No channels</string>
-  <string name="forecast_empty_hint">No programes</string>
-  <string name="select_tvs">Select tv</string>
-  <string name="forecasts">Forecast</string>
   <string name="count_ge_media">%d</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
   <string name="download_percent_hint">Downloading %d%%</string>

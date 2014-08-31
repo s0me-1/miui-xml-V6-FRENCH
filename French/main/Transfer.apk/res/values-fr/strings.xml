@@ -2,8 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
-  <string name="about_to_receive">Réception de fichier(s)</string>
-  <string name="about_to_send">Envoi de fichier(s)</string>
+  <string name="about_to_receive">Réception</string>
+  <string name="about_to_send">Envoyer un fichier</string>
   <string name="add_download_task_failed">Ajout du téléchargement échoué ! Veuillez réessayer</string>
   <string name="add_to_download">Ajouté à la file d\'attente de téléchargements</string>
  <!-- add_to_restore à revoir ?-->
@@ -168,23 +168,23 @@ et peut recevoir des fichiers"</string>
   <string name="send_to">Envoyer à :</string>
   <string name="send_uncompleted">Envoi inachevé</string>
   <string name="sent">Envoyer</string>
-  <string name="settings_auto_pair_sender_summary">Couplage audio automatique avec le receveur/envoyeur</string>
-  <string name="settings_auto_pair_sender_title">Couplage audio automatique</string>
+  <string name="settings_auto_pair_sender_summary">S\'associer automatiquement avec l\'autre appareil</string>
+  <string name="settings_auto_pair_sender_title">Association audio auto</string>
   <string name="settings_connect">Paramètres de connexion</string>
   <string name="settings_label">Paramètres de transfert</string>
   <string name="settings_photo">Avatar</string>
   <string name="settings_photo_camera">Prendre une nouvelle photo</string>
   <string name="settings_photo_pick">Sélectionner à partir de la Galerie</string>
   <string name="settings_photo_remove">Supprimer l\'avatar</string>
-  <string name="settings_receive_confirm_summary">Confirmer la requête de transfert de fichier(s)</string>
+  <string name="settings_receive_confirm_summary">Confirmer la requête de transfert</string>
   <string name="settings_receive_confirm_title">Recevoir une confirmation</string>
   <string name="share">Partager</string>
   <string name="share_history">Historique de partage</string>
   <string name="share_item_not_found">Le fichier partagé n\'a pas été trouvé</string>
-  <string name="share_message">%1$s partage(s) de fichiers</string>
+  <string name="share_message">Fichiers partagés : %1$s</string>
   <string name="share_msg_model">"J\'ai partagé un fichier avec vous :
 %1$s"</string>
-  <string name="share_text">MIUI V5 supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI V5, veuillez télécharger %1$s</string>
+  <string name="share_text">MIUI supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI, veuillez télécharger %1$s</string>
   <string name="shortmessage">Message court</string>
   <string name="start">Démarrer</string>
   <string name="summary_step_one">Envoyer des images, musiques, contacts et autres fichiers divers</string>

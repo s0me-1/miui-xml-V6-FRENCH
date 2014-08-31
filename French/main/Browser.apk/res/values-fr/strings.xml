@@ -195,7 +195,7 @@
   <string name="history_most_visited">Les plus visités</string>
   <string name="history_saved_webpage">Enregistrer la page Web</string>
   <string name="history_track">Historique</string>
-  <string name="homepage_base">https://www.google.fr/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">La page d\'accueil a été définie.</string>
   <string name="http">http://</string>
   <string name="in_incognito">La navigation privée est activée, aucun historique ne sera sauvegardé.</string>
@@ -433,7 +433,7 @@
   <string name="search_button_text">OK</string>
   <string name="search_cancel">&#60;</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
-  <string name="search_settings_description">Favoris et historique Web</string>
+  <string name="search_settings_description">Favoris et historique de navigation</string>
   <string name="security_warning">Avertissement de sécurité</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="send_bookmark_to_home_screen">Ajouter à l\'écran d\'accueil</string>

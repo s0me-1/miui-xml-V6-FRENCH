@@ -5,7 +5,9 @@
   <plurals name="uninstall_dialog_title_format">
       <item quantity="other">Désinstaller %1$s et %2$d autres applis ?</item>
       <item quantity="one">Désinstaller %s ?</item>
-      <item quantity="two">Désinstaller %s et 1 autre appli ?</item>
+   <!-- RM - temp fix "two" was show for "one" when uninstalling app
+   <item quantity="two">Désinstaller %s et 1 autre appli ?</item>  
+   -->
   </plurals>
   <plurals name="uninstall_result_succeeded">
       <item quantity="other">%1$d applis désinstallées</item>
@@ -20,8 +22,5 @@
       <item quantity="other">%1$d icônes sélectionnées</item>
       <item quantity="zero">Aucune icône sélectionnée</item>
       <item quantity="one">%1$d icône sélectionnée</item>
-      <item quantity="two">%1$d icônes sélectionnées</item>
-      <item quantity="few">%1$d icônes sélectionnées</item>
-      <item quantity="many">%1$d icônes sélectionnées</item>
   </plurals>
 </resources>

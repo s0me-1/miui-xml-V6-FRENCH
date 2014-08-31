@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <array name="msd_pc_system_retry_xp">
+     <item>@string/msd_install_retry_connect</item>
+     <item>Réinstaller MiPhoneManager.</item>
+  </array>
   <string-array name="tts_rate_entries">
       <item>Très lente</item>
       <item>Lente</item>
@@ -13,6 +17,13 @@
       <item>100</item>
       <item>150</item>
       <item>200</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+      <item>Par défaut</item>
+      <item>Sans Serif</item>
+      <item>Sans Serif condensé</item>
+      <item>Serif</item>
+      <item>Espace simple</item>
   </string-array>
   <string-array name="priority_storage_entries">
       <item>Stockage interne</item>
@@ -311,8 +322,7 @@
       <item>Linux</item>
   </string-array>
   <string-array name="msd_pc_system_install_summary">
-      <item>"2.L\'assitant d\'installation va apparaitre,
-veuillez le suivre"</item>
+      <item>2. Veuillez suivre l\'assistant d\'installation</item>
       <item></item>
       <item></item>
       <item></item>
@@ -325,12 +335,13 @@ veuillez le suivre"</item>
   </string-array>
   <string-array name="msd_pc_system_retry_linux">
       <item>Utiliser la commande \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
-      <item>Créer un répertoire \"mkdir\" /media/mtp</item>
+      <item>Créer un répertoire \"mkdir /media/mtp\"</item>
       <item>Confirmer les permissions du groupe d\'utilisateur</item>
       <item>Reconnecter</item>
       <item>Accéder à l\'appareil monté : \"mtpfs /media/mtp\" via File explorer; même répertoire local</item>
       <item>"Désinstaller l\'appareil \"fusermount -u /media/mtp\"
-Remarque : pour environnement Ubuntu 8.04"</item>
+
+(pour environnement Ubuntu 8.04 et +)"</item>
   </string-array>
   <string-array name="screen_color_title">
       <item>Chaud</item>
