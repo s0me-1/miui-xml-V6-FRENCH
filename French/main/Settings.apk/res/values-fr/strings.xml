@@ -186,7 +186,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponibles</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
-  <string name="back_key">Touche Retour</string>
   <string name="background_data">Données en arrière-plan</string>
   <string name="background_data_dialog_message">La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan.</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
@@ -893,7 +892,6 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="help_label">Aide</string>
   <string name="hidden_ssid_label">SSID caché :</string>
   <string name="history_details_title">Informations sur l\'historique</string>
-  <string name="home_key">Touche Accueil</string>
   <string name="ime_security_warning">Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?</string>
   <string name="immediately_destroy_activities">"Ne pas conserver d'activité"</string>
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
@@ -1116,7 +1114,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_title">Disponible %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Annuler</string>
   <string name="menu_delete">Supprimer l\'APN</string>
-  <string name="menu_key">Touche Menu</string>
   <string name="menu_new">Nouvel APN</string>
   <string name="menu_restore">Paramètres usine</string>
   <string name="menu_save">Enregistrer</string>
@@ -2581,6 +2578,10 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_screen_key_home">Touche Accueil</string>
   <string name="status_bar_screen_key_menu">Touche Menu</string>
   <string name="status_bar_screen_key_recent_apps">Touche Applications récentes</string>
+  <string name="app_switch_key">Touche Applications récentes</string>
+  <string name="home_key">Touche Accueil</string>
+  <string name="menu_key">Touche Menu</string>
+  <string name="back_key">Touche Retour</string>
   <string name="status_bar_settings_advanced">Paramètres avancés</string>
   <string name="status_bar_settings_all_app_display_loading">Chargement…</string>
   <string name="status_bar_settings_basic_settings">Paramètres basiques</string>
@@ -2637,7 +2638,6 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="wallpaper_live">Fond d\'écran animé</string>
   <string name="button_text_reboot_now">Redémarrer</string>
   <string name="erase_data">Effacer</string>
-  <string name="app_switch_key">Touche Récents</string>
   <string name="toast_need_login">Veuillez vous connecter à votre compte Mi</string>
   <string name="wifi_setting_category">Pour activer votre appareil, veuillez vous connecter à internet</string>
   <string name="lockpassword_pin_fixed_length">Le code doit contenir %d numéros</string>
@@ -2826,6 +2826,10 @@ et lancer le logiciel."</string>
   <string name="power_autorun_empty">Aucune application</string>
   <string name="preferred_sms_warning_message">Utiliser \"%1$s\" comme application SMS par défaut peut compromettre la sécurité de vos données.</string>
   <string name="preferred_sms_warning_use_system">Ne pas utiliser</string>
+  <string name="button_text_login">Connexion</string>
+  <string name="dialog_content_login">Pour recevoir les mises à jour, veuillez vous connecter à votre compte Mi.</string>
+  <string name="dialog_title_login">Information</string>
+  <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>

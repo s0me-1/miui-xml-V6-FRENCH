@@ -211,4 +211,8 @@
   <string name="current_wallpaper">Actuel</string>
   <string name="editing_mode_title_empty">Sélectionnez des éléments</string>
   <string name="gadget_mtz_label">Widgets Mi</string>
+  <string name="disable">Désactiver</string>
+<!-- à traduire -->
+  <string name="disable_auto_start_format">Disable %s auto start</string>
+  <string name="disable_auto_start_message">Disable auto start on boot.</string>
 </resources>

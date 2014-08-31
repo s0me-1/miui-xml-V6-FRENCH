@@ -74,8 +74,8 @@
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">Limite de stockage atteinte !</string>
   <string name="micloud_user_space_usage">Espace utilisé</string>
-  <string name="micloud_web_discription_01">Vous pouvez accéder à votre cloud personnel</string>
-  <string name="micloud_web_discription_02">depuis n\'importe où via i.mi.com</string>
+  <string name="micloud_web_discription_01">Accédez à votre cloud personnel via i.mi.com</string>
+  <string name="micloud_web_discription_02">pour gérer vos fichiers depuis n\'importe où</string>
   <string name="micloud_full_influence_title">Lorsque votre Mi Cloud est plein</string>
   <string name="micloud_warn_low_title">Espace de stockage faible !</string>
   <string name="micloud_warn_low_sum">Espace de stockage rempli à 90%.</string>
@@ -85,7 +85,7 @@
 
 Si vous perdez ou endommagez votre téléphone, vos données seront toujours en sécurité.
 
-Lorsque votre compte MiCloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
+Lorsque votre espace Mi Cloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
 
 Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou acheter de l'espace de stockage supplémentaire."</string>
   <string name="micloud_upgrade_space">Augmenter l\'espace de stockage</string>
@@ -115,4 +115,37 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="cmcc_micloud_dspt">Utilisez Mi Cloud pour synchroniser vos données,</string>
   <string name="micloud_sec_dspt">localiser votre appareil et partager avec des amis.</string>
   <string name="micloud_dspt_provision">Utilisez Mi Cloud pour synchroniser vos données, localiser votre appareil et partager avec des amis.</string>
+  <string name="micloud_storage_usage" formatted="false">Utilisé : %s/Total : %s</string>
+  <string name="storage">Espace de stockage</string>
+  <string name="setting">Paramètres</string>
+  <string name="sync_setting">Économie des données</string>
+  <string name="sync_standard">Normal</string>
+  <string name="only_in_wlan">Uniquement via Wi-Fi</string>
+  <string name="less_flow_mode">Mode de synchronisation</string>
+  <string name="photo">Photos</string>
+  <string name="contact">Contacts</string>
+  <string name="sms">SMS</string>
+  
+  
+  
+<!-- à traduire -->
+  <string name="cloud_sync_setting_summary_standard">Standard: Under WLAN sync photo, video, MMS, app data and contact image, sync other data in mobile network</string>
+  <string name="cloud_sync_setting_summary_wlan">Only in WLAN: Sync all data only in WLAN</string>
+  <string name="enable_cloud_service_notification">"You haven't turned on cloud service"</string>
+  <string name="app_sync_off">app sync off</string>
+  <string name="current">current</string>
+  <string name="data_syncing">data syncing</string>
+  <string name="detail">detail</string>
+  <string name="flight_mode">flight mode</string>
+  <string name="full_space">space full</string>
+  <string name="internet">internet</string>
+  <string name="internet_disconnected">internet disconnected</string>
+  <string name="micloud">micloud</string>
+  <string name="normal">normal</string>
+  <string name="space">space</string>
+  <string name="sync">sync</string>
+  <string name="system_sync_off">system sync off</string>
+  <string name="wifi">wifi</string>
+  <string name="wifi_disconnected">wifi disconnected</string>
+  <string name="wifi_sync">wifi sync</string>
 </resources>

@@ -1006,7 +1006,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="today">Aujourd\'hui</string>
   <string name="type_incoming">Appel entrant</string>
   <string name="type_missed">Appel manqué</string>
-  <string name="type_mx_msg">Messagerie Cloud</string>
+  <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Appel sortant</string>
   <string name="type_voicemail">Messagerie vocale</string>
   <string name="unknown">Inconnu</string>

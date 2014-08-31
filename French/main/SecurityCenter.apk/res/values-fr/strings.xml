@@ -297,9 +297,9 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="protection_category_dangerous_title">Potentiellement dangereux : %d</string>
   <string name="protection_category_recommend_title">Optimisations recommandées : %d</string>
   <string name="protection_category_security_title">Sûr : %d</string>
-  <string name="title_virus_no">Virus détecté</string>
-  <string name="title_virus_yes">Aucun virus détecté</string>
-  <string name="summary_virus">%2$d virus trouvés</string>
+  <string name="title_virus_no">Menaces détectées</string>
+  <string name="title_virus_yes">Aucune menace détectée</string>
+  <string name="summary_virus">Éléments : %2$d </string>
   <string name="title_permission_no">Gestionnaire de permission inactif</string>
   <string name="title_permission_yes">Gestionnaire de permission actif</string>
   <string name="summary_permission">Protéger ma confidentialité des applis tierces</string>
@@ -507,8 +507,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="button_text_cancel_optimize">Annuler</string>
   <string name="button_text_cancel_clean">Annuler</string>
   <string name="button_text_quick_clean">Optimiser</string>
-  <!-- activity_title_perm_manager ??? -->
-  <string name="activity_title_perm_manager">Licence management</string>
+  <string name="activity_title_perm_manager">Permissions</string>
   <string name="activity_title_auto_start_manager">Démarrages automatiques</string>
   <string name="activity_title_notification_bar_manager">Notifications</string>
   <string name="activity_title_default_apps_manager">Applications par défaut</string>
