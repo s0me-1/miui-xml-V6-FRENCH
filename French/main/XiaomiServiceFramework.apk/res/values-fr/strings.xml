@@ -2,12 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="app_name"> Xiaomi Framework</string>
-  <string name="activate_desc_2_intl_sim_cards">"2 SMS internationaux vont être envoyés afin d\'activer vos cartes SIM"</string>
-  <string name="activate_desc_2_sim_cards">"2 SMS vont être envoyés afin d\'activer vos cartes SIM"</string>
-  <string name="activate_desc_intl_sim_card">"Un SMS international va être envoyé afin d\'activer votre carte SIM"</string>
-  <string name="activate_desc_mixed_sim_cards">"Un SMS international va être envoyé afin d\'activer vos cartes SIM"</string>
-  <string name="activate_desc_sim_card">"Un SMS va être envoyé afin d\'activer votre carte SIM"</string>
+  <string name="app_name">Xiaomi Framework</string>
   <string name="activate_feature_call_log_sync">"Synchronisation du journal d\'appels"</string>
   <string name="activate_feature_find_device">Géolocalisation de votre appareil</string>
   <string name="activate_feature_mms_sync">Synchronisation des SMS</string>

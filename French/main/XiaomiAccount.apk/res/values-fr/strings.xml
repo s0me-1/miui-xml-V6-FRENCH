@@ -2,7 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-<!-- déplacé vers xiaomiserviceframwork 4.8.30, à supp plus tard -->
+<!-- déplacées vers xiaomiserviceframwork 4.8.30 cancro -->
   <string name="activate_phone_failed_notif_title">"Échec de l'activation du service Mi Cloud"</string>
   <string name="activate_phone_failed_notif_title_msim">"Impossible de démarrer Mi Cloud pour SIM %s"</string>
   <string name="activate_status_title_activating">Activation du compte</string>
@@ -74,12 +74,13 @@
   <string name="activate_feature_mms_sync">synchronisation des SMS</string>
   <string name="activate_feature_call_log_sync">synchronisation du journal d\'appels</string>
   <string name="activate_feature_find_device">géolocalisation de votre appareil</string>
+  <string name="sim_unactivated_title">"Votre carte SIM n'est pas activée"</string>
+<!-- supprimées 4.8.30 cancro -->
   <string name="activate_desc_sim_card">Un SMS va être envoyé afin d\'activer votre carte SIM</string>
   <string name="activate_desc_intl_sim_card">Un SMS international va être envoyé afin d\'activer votre carte SIM</string>
   <string name="activate_desc_mixed_sim_cards">Un SMS international va être envoyé afin d\'activer vos cartes SIM</string>
   <string name="activate_desc_2_sim_cards">2 SMS vont être envoyés afin d\'activer vos cartes SIM</string>
   <string name="activate_desc_2_intl_sim_cards">2 SMS internationaux vont être envoyés afin d\'activer vos cartes SIM</string>
-  <string name="sim_unactivated_title">"Votre carte SIM n'est pas activée"</string>
 <!-- -->
   <string name="app_name">Compte Mi</string>
   <string name="show_password">Afficher le MDP</string>
