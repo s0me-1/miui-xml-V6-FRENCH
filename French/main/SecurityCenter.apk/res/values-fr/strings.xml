@@ -238,7 +238,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="last_check_never_checked">Analyse recommandée (1ère fois)</string>
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
   <string name="last_checked_default">Analyse recommandée : la dernière remonte à %s</string>
-  <string name="examination_score_100">Analyse non requise, tout est en ordre !</string>
+  <string name="examination_score_100">Optimisation non requise, tout à l'air en ordre</string>
   <string name="examination_score_80_100">Certains éléments peuvent être optimisés</string>
   <string name="examination_score_80_60">Certains éléments peuvent être optimisés</string>
   <string name="examination_score_60_0">Vous devriez optimiser votre téléphone</string>
@@ -399,7 +399,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="hints_garbage_cleanup_result_safe">Optimal</string>
   <string name="hints_garbage_cleanup_result_risk">Nettoyage recommandé</string>
   <string name="hints_garbage_cleanup_result_danger">Nettoyage recommandé</string>
-  <string name="toast_garbage_list_empty">Analyse non requise, tout est en ordre !</string>
+  <string name="toast_garbage_list_empty">Nettoyage non requis, tout à l\'air en ordre</string>
   <string name="hints_quick_cleanning">Nettoyage…</string>
   <string name="hints_finish_quick_scan">Analyse terminée</string>
   <string name="pref_category_title_cleanup_white_list">Liste blanche</string>
