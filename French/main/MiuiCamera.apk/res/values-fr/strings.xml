@@ -184,7 +184,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Filtre de bande passante</string>
-  <string name="pref_camera_audio_capture_title">Déclenchement audio</string>
+  <string name="pref_camera_audio_capture_title">Déclench. audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Désactivé</string>
   <string name="pref_camera_auto_focus_title_entry_on">Activé</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
