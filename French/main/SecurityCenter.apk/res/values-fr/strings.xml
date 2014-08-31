@@ -426,7 +426,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
   <string name="notification_summary_of_garbage_cleanup">La corbeille excède %s.</string>
   <string name="item_garbage_time_daily">Quotidiennement</string>
-  <string name="item_garbage_time_3d">Tout les 3 jours</string>
+  <string name="item_garbage_time_3d">Tous les 3 jours</string>
   <string name="item_garbage_time_7d">Une fois par semaine</string>
   <string name="item_garbage_time_never">Jamais</string>
   <string name="item_garbage_size_100m">100 Mo</string>
