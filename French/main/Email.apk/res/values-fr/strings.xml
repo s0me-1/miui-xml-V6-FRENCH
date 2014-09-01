@@ -531,7 +531,7 @@
   <string name="system_folders_title">Dossiers système</string>
   <string name="system_folders_trash_dlg">"Sélectionnez le dossier \"Corbeille\" de votre serveur."</string>
   <string name="system_folders_trash_summary">"Sélectionner le dossier \"Corbeille\" de votre serveur"</string>
-  <string name="system_folders_trash_title">Dossier \"Corbeille"</string>
+  <string name="system_folders_trash_title">Dossier \"Corbeille\"</string>
   <string name="tablet">tablette</string>
   <string name="tap_to_configure">Appuyez pour configurer.</string>
   <string name="tap_to_configure_folder_sync">Synchroniser le dossier</string>
