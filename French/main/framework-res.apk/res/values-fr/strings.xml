@@ -143,7 +143,7 @@
   <string name="silent_mode_vibrate">Sonnerie en mode vibreur</string>
   <string name="silent_mode_ring">Sonnerie activée</string>
   <string name="shutdown_progress">Arrêt en cours…</string>
-  <string name="shutdown_confirm">Votre téléphone va s\'éteindre.</string>
+  <string name="shutdown_confirm">Votre appareil va s\'éteindre.</string>
   <string name="shutdown_confirm_question">Voulez-vous éteindre l\'appareil ?</string>
   <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
   <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
@@ -165,7 +165,7 @@
   <string name="permgrouplab_messages">Vos messages</string>
   <string name="permgroupdesc_messages">Permet de lire et de rédiger vos SMS, e-mails et autres messages.</string>
   <string name="permgrouplab_personalInfo">Vos informations personnelles</string>
-  <string name="permgroupdesc_personalInfo">Accéder directement aux contacts et à l\'agenda enregistrés sur votre téléphone</string>
+  <string name="permgroupdesc_personalInfo">Accéder directement aux contacts et à l\'agenda enregistrés sur votre appareil</string>
   <string name="permgrouplab_location">Votre position</string>
   <string name="permgroupdesc_location">Déterminer votre position géographique</string>
   <string name="permgrouplab_network">Communications réseau</string>

@@ -2,9 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="shutdown_confirm_title">Votre téléphone va s\'éteindre.</string>
+  <string name="shutdown_confirm_title">Votre appareil va s\'éteindre.</string>
   <string name="shutdown_progress">Extinction…</string>
-  <string name="reboot_confirm_title">Votre téléphone va redémarrer.</string>
+  <string name="reboot_confirm_title">Votre appareil va redémarrer.</string>
   <string name="reboot_progress">Redémarrage…</string>
   <string name="memory_clear_result">%1$s libérés | %2$s disponibles</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>

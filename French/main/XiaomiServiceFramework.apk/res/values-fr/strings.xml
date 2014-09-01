@@ -75,4 +75,6 @@
   <string name="activate_status_title_activating">Activation du compte</string>
   <string name="activate_status_title_activating_msim">Activation de votre carte SIM %s</string>
   <string name="sim_unactivated_title">"Votre carte SIM n'est pas activée"</string>
+<!-- à traduire, affichée ? -->
+  <string name="xmsf_activate_info">XMSF activate info</string>
 </resources>

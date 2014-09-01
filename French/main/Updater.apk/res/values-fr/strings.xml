@@ -51,7 +51,7 @@
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="file_not_found_error_message">La mise à jour est introuvable.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
-  <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
+  <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement l\'appareil et appliquer la mise à jour.</string>
   <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour commencer le processus de mise à jour</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
   <string name="system_backup_cancel_text">Mettre à jour</string>

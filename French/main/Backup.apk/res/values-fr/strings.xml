@@ -31,7 +31,7 @@
   <string name="backup_failed">Échec de la sauvegarde</string>
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
-  <string name="backup_hint">N\'éteignez pas le téléphone</string>
+  <string name="backup_hint">N\'éteignez pas l\'appareil</string>
   <string name="backup_items_app_tailer">" fichiers de données d\'application "</string>
   <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
   <string name="backup_new">Nouveau :</string>
@@ -132,7 +132,7 @@
   <string name="restore_launcher_layout_hit">(Remarque : Restaure la disposition du lanceur)</string>
   <string name="restore_progress">Restauration…</string>
   <string name="restore_report">Rapport de restauration</string>
-  <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>
+  <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application Téléphone)</string>
   <string name="retry">Réessayer</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="sc_bad_request">Requête incorrecte</string>

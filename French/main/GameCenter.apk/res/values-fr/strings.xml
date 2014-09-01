@@ -757,4 +757,6 @@
   <string name="install_time">times</string>
   <string name="no_network_connect">"no internet
 Please check and refresh"</string>
+  <string name="initial_activation_notification_content">The fastest millet mobile phone with the high game</string>
+  <string name="initial_activation_notification_title">Happiness is in the game center!</string>
 </resources>

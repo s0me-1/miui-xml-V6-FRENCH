@@ -33,7 +33,7 @@
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
   <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo, veuillez le redémarrer"</string>
-  <string name="cannot_connect_camera_twice">"Impossible de se connecter à l\'appareil photo, veuillez redémarrer votre téléphone"</string>
+  <string name="cannot_connect_camera_twice">"Impossible de se connecter à l\'appareil photo, veuillez redémarrer votre appareil"</string>
   <string name="clear_effects">Effacer les effets</string>
   <string name="close">Fermer</string>
   <string name="cloud_album_details">Détails de l\'album cloud :</string>

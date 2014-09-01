@@ -52,7 +52,7 @@
   <string name="search_in_web">Rechercher sur internet</string>
   <string name="search_settings">Paramètres de recherche</string>
   <string name="search_sources">Sources</string>
-  <string name="search_sources_summary">Sélection des sources à explorer sur le téléphone lors d\'une recherche</string>
+  <string name="search_sources_summary">Sélection des sources à explorer sur l\'appareil lors d\'une recherche</string>
   <string name="search_widget">Rechercher</string>
   <string name="system_search_category_title">Téléphone</string>
   <string name="voice_search_hint_quotation_end">"</string>

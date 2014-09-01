@@ -101,11 +101,11 @@
   <string name="HIPS_Perm_Location">Positionnement</string>
   <string name="HIPS_Perm_Location_CellInfo">Obtenir la localisation cellulaire</string>
   <string name="HIPS_Perm_Location_CellLocation">Obtenir la localisation cellulaire</string>
-  <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s applis peuvent localiser votre téléphone</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Source : Réseau cellulaire</string>
+  <string name="HIPS_Perm_Location_Desc">Localiser votre appareil par le biais des réseaux ou du GPS</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s applis peuvent localiser votre appareil</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Source : réseau cellulaire</string>
   <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
+  <string name="HIPS_Perm_Location_Source_Network">Source : réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applis peuvent accéder à Internet</string>
@@ -178,6 +178,7 @@
   <string name="Privacy_App_Trust_Summary_On">MIUI aura confiance en cette application</string>
   <string name="Privacy_App_Uninstall">Désinstaller</string>
   <string name="Privacy_Perm_Count">Autorisé : %1$d Refusé : %2$d</string>
+  <string name="Su_Package_Forbidden">"%1$s n'a pas l'accès root"</string>
   <string name="Su_Enable_Dialog">%1$s tente d\'obtenir la permission ROOT qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, veuillez aller dans les paramètres puis dans la gestion des permissions.</string>
   <string name="Su_Unavailable">La permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version bêta de MIUI pour activer la permission ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Permission de démarrage automatique</string>
@@ -219,7 +220,7 @@
   <string name="HIPS_Perm_DisableKeyguard_Desc">Déverrouiller l\'écran</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s applis peuvent déverrouiller l\'écran</string>
   <string name="HIPS_Perm_AutoStart">Démarrer automatiquement</string>
-  <string name="HIPS_Perm_AutoStart_Desc">Démarrer automatiquement au lancement du téléphone</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Démarrer automatiquement au lancement de l\'appareil</string>
   <string name="HIPS_Perm_AutoStart_Hint">%1$s applis peuvent démarrer automatiquement</string>
   <string name="HIPS_Perm_Notification">Afficher des notifications</string>
   <string name="HIPS_Perm_Notification_Desc">Afficher des notifications dans la barre de\'état</string>
@@ -231,6 +232,6 @@
   <string name="HIPS_Perm_SystemAlert_Desc">Afficher une fenêtre flottante</string>
   <string name="HIPS_Perm_SystemAlert_Hint">%1$s applis peuvent afficher des pop-up</string>
   <string name="HIPS_Perm_Wakelock">Empêcher la veille</string>
-  <string name="HIPS_Perm_Wakelock_Desc">Empêche la veille du téléphone</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Empêche la veille de l\'appareil</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s applis peuvent empêcher la veille</string>
 </resources>

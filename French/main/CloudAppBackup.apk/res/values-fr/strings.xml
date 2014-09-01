@@ -16,7 +16,7 @@
   <string name="cloud_app_backup_title">Sauvegarde sur Mi Cloud</string>
   <string name="cloud_app_just_show_in_current_device">Afficher uniq. les apps de cet appareil</string>
   <string name="cloud_app_mine">Apps téléchargées</string>
-  <string name="cloud_app_backup_summary">Sauvegarder automatiquement les applis et les données utilisateur lorsque le téléphone est en charge et connecté au Wi-Fi</string>
+  <string name="cloud_app_backup_summary">Sauvegarder automatiquement les applis et les données utilisateur lorsque l\'appareil est en charge et connecté au Wi-Fi</string>
   <string name="cloud_app_function_summary">Lorsque vous sauvegardez vos données dans le cloud, vous pouvez les restaurées rapidement sur n\'importe quel appareil.</string>
   <string name="cloud_app_restore_action_bar_title">%1$s de données ont été sauvegardées</string>
   <string name="cloud_app_current_device">Appareil actuel</string>

@@ -187,7 +187,7 @@
   <string name="express_select_addressee">À</string>
   <string name="express_region_pick_title">Choisir la région</string>
   <string name="express_address_warning_no_name">Nom requis</string>
-  <string name="express_address_warning_no_phone">Téléphone Nom requis</string>
+  <string name="express_address_warning_no_phone">Numéro de téléphone requis</string>
   <string name="express_address_warning_no_area">Région requise</string>
   <string name="express_address_warning_no_full_address">Adresse requise</string>
   <string name="exapress_save_address_to_contact">Enregistrer l\'adresse dans les contacts</string>

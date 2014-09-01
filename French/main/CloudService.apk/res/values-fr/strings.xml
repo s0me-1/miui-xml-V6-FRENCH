@@ -47,7 +47,7 @@
   <string name="find_device_success_title">Localisation de l\'appareil</string>
   <string name="find_device_notice_p1">Rendez-vous sur</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre téléphone.</string>
+  <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre appareil.</string>
   <string name="i_know">OK</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
   <string name="find_device_disabled_notice">Vous pouvez l\'activée via Paramètres &gt; Mi Cloud</string>
@@ -65,7 +65,7 @@
   <string name="micloud_proceed">Continuer</string>
   <string name="master_alert_notif_title">Dernière synchronisation il y a %s jours</string>
   <string name="sub_alert_notif_title">Synchronisation non activée</string>
-  <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre téléphone</string>
+  <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre appareil</string>
   <string name="noRemind">Ne pas rappeler</string>
   <string name="restoreSync">Synchroniser</string>
   <string name="enableAll">Tout synchroniser</string>
@@ -83,7 +83,7 @@
   <string name="micloud_warn_full_sum">Les nouveaux éléments ne seront pas synchronisés avec Mi Cloud.</string>
   <string name="micloud_full_influence_dspt">"Toutes les photos, vidéos, notes et applis seront sauvegardés sur Mi Cloud.
 
-Si vous perdez ou endommagez votre téléphone, vos données seront toujours en sécurité.
+Si vous perdez ou endommagez votre appareil, vos données seront toujours en sécurité.
 
 Lorsque votre espace Mi Cloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
 

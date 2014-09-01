@@ -49,11 +49,11 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="install_confirm_question">Voulez-vous installer cette application ?</string>
   <string name="install_done">Application installée.</string>
   <string name="install_failed">Application non installée.</string>
-  <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre téléphone."</string>
+  <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre appareil."</string>
   <string name="install_failed_file_not_found">Le package spécifié a été supprimé avant la finalisation de l\'installation.</string>
   <string name="install_failed_inconsistent_certificates">Un package portant le même nom accompagné d\'une signature différente est déjà installé.</string>
   <string name="install_failed_invalid_apk">Le package semble corrompu.</string>
-  <string name="install_failed_msg">Impossible d\'installer %1$s sur ce téléphone.</string>
+  <string name="install_failed_msg">Impossible d\'installer %1$s sur cet appareil.</string>
   <string name="install_failed_older_sdk">Le package est uniquement compatible avec les dernières versions d\'Android.</string>
   <string name="install_failed_system_incompatible">Cette appli n\'est pas compatible avec MIUI.</string>
   <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
