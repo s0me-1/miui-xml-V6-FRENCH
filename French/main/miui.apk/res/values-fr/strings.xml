@@ -78,7 +78,7 @@
   <string name="label">SDK MIUI</string>
   <string name="license_host_unreachable">Impossible de se connecter à un réseau. Pour afficher ces informations maintenant, accédez à %s.</string>
   <string name="loading">Chargement…</string>
-  <string name="mibi_license">Contrat d\'utilisation de MiCredit</string>
+  <string name="mibi_license">Contrat d\'utilisation de Mi Credit</string>
   <string name="midnight">AM</string>
   <string name="monday">Lundi</string>
   <string name="monday_short">Lun</string>
@@ -152,7 +152,7 @@
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">D</string>
-  <string name="sync_one_time_sync">Appuyez pour synchroniser (%1$s)</string>
+  <string name="sync_one_time_sync">Appuyer pour synchroniser (%1$s)</string>
   <string name="thursday">Jeudi</string>
   <string name="thursday_short">Jeu</string>
   <string name="thursday_shortest">J</string>

@@ -12,7 +12,7 @@
   <string name="impunity_declaration_title">Conditions d\'utilisation</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
   <string name="lrc_searching">Recherche de paroles…</string>
-  <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion Internet mobile</string>
+  <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion internet mobile</string>
   <string name="mediaplaybacklabel">Musique</string>
   <string name="mi_effect">Paramètres du casque</string>
   <string name="music_browser_label">Musique</string>
@@ -29,9 +29,9 @@
   <string name="unknown_album_name">Album inconnu</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="find_ktv">Scanner un code QR KTV</string>
-  <string name="action_item_add">Ajouter</string>
+  <string name="action_item_add">Ajouter à</string>
   <string name="action_item_add_to_current_playlist">Playlist actuelle</string>
-  <string name="action_item_add_to_new_playlist">Nouvelle</string>
+  <string name="action_item_add_to_new_playlist">Nouvelle playlist</string>
   <string name="action_item_remove">Retirer</string>
   <string name="action_item_delete">Supprimer</string>
   <string name="action_item_send">Envoyer</string>
@@ -44,7 +44,7 @@
   <string name="dialog_button_login">Connectez-vous et synchronisez votre musique</string>
   <string name="dialog_button_scan_tracks">Rechercher des chansons sur cet appareil</string>
   <string name="dialog_hint_music_error">Aucun chanson. Vous pouvez…</string>
-  <string name="dialog_delete_descript">Supprimer %s ?</string>
+  <string name="dialog_delete_descript">Supprimer %s ?</string>
   <string name="dialog_hint_network_error">Connexion de données indisponible.</string>
   <string name="dialog_title_add_playlist">Ajouter une playlist</string>
   <string name="dialog_title_name_playlist">Nom de la playlist</string>
@@ -123,7 +123,7 @@
   <string name="eq_rock">Rock</string>
   <string name="no_song_downloaded">Impossible de se connecter au serveur, veuillez réessayer</string>
   <string name="download_processing">Téléchargement…</string>
-  <string name="quit_warining">La lecture s\'arrêtera dans %d minute(s)</string>
+  <string name="quit_warining">La lecture s\'arrêtera dans %d min</string>
   <string name="not_login">Non connecté</string>
   <string name="download">Télécharger</string>
   <string name="account">Compte</string>
@@ -142,7 +142,7 @@
   <string name="payment_fail">Paiement échoué !</string>
   <string name="music_quality">Qualité musique</string>
   <string name="higher_quality_music">Musique de haute qualité</string>
-  <string name="higher_quality_music_summary">Écoutez et téléchargez la musique de haute qualité</string>
+  <string name="higher_quality_music_summary">Écouter et télécharger la musique de haute qualité</string>
   <string name="expired">Expiré</string>
   <string name="enabled">Activer</string>
   <string name="valid_period">"Valable à partir du : "</string>
@@ -160,9 +160,9 @@
   <string name="my_playlist">Mes playlists</string>
   <string name="all_tracks_short">Tous</string>
   <string name="create_playlist">Créer une playlist</string>
-  <string name="tab_track_list">Piste</string>
-  <string name="tab_artist_list">Artiste</string>
-  <string name="tab_album_list">Album</string>
+  <string name="tab_track_list">Pistes</string>
+  <string name="tab_artist_list">Artistes</string>
+  <string name="tab_album_list">Albums</string>
   <string name="list_item_play_all_tracks">Appuyer pour lire toutes les pistes</string>
   <string name="track_main_fragment_tab_track">Pistes</string>
   <string name="track_main_fragment_tab_album">Albums</string>
@@ -171,10 +171,10 @@
   <string name="dialog_button_editor_choice">Recommandations</string>
   <string name="dialog_remove_descript">Supprimer %s ?</string>
   <string name="action_item_download">Télécharger</string>
-  <string name="action_item_add_to_favorite_playlist">Favorite Playlist</string>
+  <string name="action_item_add_to_favorite_playlist">Playlist favorite</string>
   <string name="format_unsupported">Format non supporté</string>
   <string name="avoid_to_use_traffic_summary">Affiche une alerte d\'usage des données mobiles</string>
-  <string name="avoid_to_use_traffic_title">Streamer uniquement via WiFi</string>
+  <string name="avoid_to_use_traffic_title">Streamer uniquement via Wi-Fi</string>
   <string name="download_method">Téléchargement</string>
   <string name="download_auto_after_favorite_summary">Télécharge automatiquement les pistes ajoutées aux favoris</string>
   <string name="download_auto_after_favorite_title">Télécharger les favoris</string>
@@ -190,7 +190,7 @@
   <string name="download_auto_message">"Les pistes favorites seront téléchargées automatiquement lorsque vous serez connecté à un réseau WI-Fi. Vous pouvez modifier cette option via les paramètres. "</string>
   <string name="i_know">OK</string>
   <string name="sleep_mode">Mise en veille programmable</string>
-  <string name="close_music_time">"Dernier nettoyage : "</string>
+  <string name="close_music_time">"Minutes : "</string>
   <string name="sleep_mode_title">Arrêter le lecteur après un temps défini</string>
   <string name="sleep_mode_summary">Utiliser le slider pour définir le délai</string>
   <string name="auto_download_in_wifi">Aucune connexion internet détectée</string>
@@ -201,7 +201,7 @@
   <string name="metered_alert_msg">L\'utilisation de votre connexion mobile pour streamer de la musique aura un impact sur votre quota mensuel, vous pouvez réduire la qualité de streaming et utiliser le Moniteur réseau pour surveiller votre consommation."</string>
   <string name="metered_allow">OK</string>
   <string name="metered_disallow">Annuler</string>
-  <string name="metered_play_toast">Lecture via le réseau mobile de données...</string>
+  <string name="metered_play_toast">Lecture via le réseau mobile de données…</string>
   <string name="no_results_return">Aucun résultat</string>
   <string name="list_item_play_FM_radio">Appuyer pour écouter la radio FM</string>
   <string name="baidu_music">Baidu Music</string>

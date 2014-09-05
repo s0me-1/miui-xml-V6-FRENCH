@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -71,7 +71,7 @@
   <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
   <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
   <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe incorrect.</string>
-  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
+  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode avion</string>
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
@@ -95,4 +95,6 @@ Réessayer dans %d secondes."</string>
   <string name="default_lockscreen_unlock_hint_text">Glisser pour déverrouiller</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par Bluetooth</string>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Le périphérique Bluetooth est trop éloigné pour déverrouiller l\'appareil.</string>
+  <string name="missed_call_text">Appels manqués : %d</string>
+  <string name="wrong_password">Mot de passe incorrect</string>
 </resources>

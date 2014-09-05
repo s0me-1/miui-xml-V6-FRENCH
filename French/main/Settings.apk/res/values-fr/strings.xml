@@ -84,7 +84,7 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
-  <string name="airplane_mode">Mode Avion</string>
+  <string name="airplane_mode">Mode avion</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Afficher l\'écran de veille lorsque l\'appareil n\'est pas en charge engendra une consommation d\'énergie excessive. Voulez-vous désactiver cette option ?</string>
   <string name="alert_show_screensaver_when_not_charging_title">Écran de veille lorsque non en charge</string>
@@ -160,7 +160,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="application_item_disable">Désactiver</string>
   <string name="application_item_permission">Autoriser</string>
   <string name="application_size_label">Application</string>
-  <string name="applications_settings">Applications</string>
+  <string name="applications_settings">Applications installées</string>
   <string name="applications_settings_header">Paramètres de l\'application</string>
   <string name="applications_settings_summary">Gérer les applications, configurer des raccourcis de lancement rapide</string>
   <string name="ask_compatibility">Demander au moment du lancement</string>
@@ -187,7 +187,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="available_size">%s disponibles</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
   <string name="background_data">Données en arrière-plan</string>
-  <string name="background_data_dialog_message">La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan.</string>
+  <string name="background_data_dialog_message">La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion internet en arrière-plan.</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
   <string name="background_process_stop_description">"Ceci est un ancien processus d'application qui peut toujours être exécuté en cas de besoin. Il n'existe généralement aucune raison de l'arrêter."</string>
@@ -282,7 +282,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="battery_sugg_bluetooth_basic">"Désactivez Bluetooth lorsque vous ne l'utilisez pas."</string>
   <string name="battery_sugg_bluetooth_headset">Essayez de vous connecter à un autre appareil Bluetooth.</string>
   <string name="battery_sugg_display">Réduire la luminosité et/ou le délai de mise en veille de l\'écran</string>
-  <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
+  <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
   <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou qu'il n'est pas disponible."</string>
   <string name="bearer">Réseau</string>
   <string name="biometric_weak_improve_matching_title">Améliorer la correspondance faciale</string>
@@ -332,8 +332,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_disconnect_all_profiles">Cela va mettre fin à votre connexion avec :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s sera déconnecté de l\'audio en mains libres.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s sera déconnecté du périphérique d\'entrée.</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">"%1$s sera déconnecté et ne partagera plus la connexion Internet de l\'appareil."</string>
-  <string name="bluetooth_disconnect_pan_user_profile">L\'accès à Internet via %1$s va être interrompu.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">"%1$s sera déconnecté et ne partagera plus la connexion internet de l\'appareil."</string>
+  <string name="bluetooth_disconnect_pan_user_profile">L\'accès à internet via %1$s va être interrompu.</string>
   <string name="bluetooth_disconnect_title">Déconnecter ?</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
@@ -380,9 +380,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_pairing_pin_error_message">Un problème est survenu lors de l\'association à %1$s, car la clé d\'accès ou le code secret saisi est incorrect.</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_request">Demande d\'association Bluetooth</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Utiliser pour l\'accès à Internet</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Connecté à l\'appareil pour accès Internet</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion internet locale partagée</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Utiliser pour l\'accès à internet</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Connecté à l\'appareil pour accès internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s souhaite accéder à vos contacts et à l\'historique de vos appels. Autoriser l\'accès à %2$s ?</string>
   <string name="bluetooth_pb_remember_choice">"Ne plus me demander"</string>
   <string name="bluetooth_permission_request">Demande d\'autorisation Bluetooth</string>
@@ -397,8 +397,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_profile_headset">Paramètres audio de l\'appareil</string>
   <string name="bluetooth_profile_hid">Périphérique d\'entrée</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
-  <string name="bluetooth_profile_pan">Accès Internet</string>
-  <string name="bluetooth_profile_pan_nap">Partage de connexion Internet</string>
+  <string name="bluetooth_profile_pan">Accès internet</string>
+  <string name="bluetooth_profile_pan_nap">Partage de connexion internet</string>
   <string name="bluetooth_quick_toggle_summary">Activer le Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Renommer</string>
@@ -411,11 +411,11 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Afficher les fichiers reçus</string>
   <string name="bluetooth_tether_checkbox_text">Via Bluetooth</string>
-  <string name="bluetooth_tethering_available_subtext">"Connexion Internet de l\'appareil partagée"</string>
-  <string name="bluetooth_tethering_device_connected_subtext">"Connexion Internet de l\'appareil partagée avec un appareil"</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">"Connexion Internet de l\'appareil partagée avec %1$d appareils"</string>
+  <string name="bluetooth_tethering_available_subtext">"Connexion internet de l\'appareil partagé"</string>
+  <string name="bluetooth_tethering_device_connected_subtext">"Connexion internet partagé avec un appareil"</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">"Connexion internet partagé avec %1$d appareils"</string>
   <string name="bluetooth_tethering_errored_subtext">Pas de partage de connexion.</string>
-  <string name="bluetooth_tethering_off_subtext">"Connexion Internet de l\'appareil non partagée"</string>
+  <string name="bluetooth_tethering_off_subtext">"Connexion internet de l\'appareil non partagée"</string>
   <string name="bluetooth_tethering_overflow_error">"Partage connexion impossible au-delà de %1$d appareils."</string>
   <string name="bluetooth_turning_off">Désactivation du Bluetooth…</string>
   <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
@@ -517,7 +517,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="crypt_keeper_button_text">Chiffrer l\'appareil</string>
   <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
   <string name="crypt_keeper_cooldown">Réessayez dans ^1 secondes.</string>
-  <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre appareil chiffrée, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l\'allumez. Vous ne pouvez déchiffrer votre appareil qu\'en rétablissant la configuration d\'usine, ce qui effacera l\'ensemble de vos données.
+  <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre appareil chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l\'allumez. Vous ne pouvez déchiffrer votre appareil qu\'en rétablissant la configuration d\'usine, ce qui effacera l\'ensemble de vos données.
 
 Le chiffrement peut prendre une heure, voire plus. La batterie doit être chargée lors du démarrage du processus, et l\'appareil doit rester branchée jusqu\'à la fin. Si vous interrompez le processus, vous perdrez certaines de vos données, voire la totalité."</string>
   <string name="crypt_keeper_dialog_need_password_message">Vous devez définir un code PIN ou un mot de passe pour le verrouillage de l\'écran avant de lancer le chiffrement.</string>
@@ -533,7 +533,7 @@ Pour continuer d\'utiliser votre appareil, vous devez rétablir la configuration
   <string name="crypt_keeper_final_desc">"Le chiffrement est irréversible, et toute interruption du processus peut entraîner la perte de données. L'opération peut prendre une heure, voire plus, au cours de laquelle l\'appareil sera redémarré à plusieurs reprises."</string>
   <string name="crypt_keeper_low_charge_text">Veuillez charger votre batterie, puis réessayer.</string>
   <string name="crypt_keeper_settings_title">Chiffrement</string>
-  <string name="crypt_keeper_setup_description">Veuillez patienter pendant le chiffrement de votre appareil. ^1 % effectué(s).</string>
+  <string name="crypt_keeper_setup_description">Veuillez patienter pendant le chiffrement de votre appareil. ^1% effectué(s).</string>
   <string name="crypt_keeper_setup_title">Chiffrement en cours</string>
   <string name="crypt_keeper_switch_input_method">Changer le mode de saisie</string>
   <string name="crypt_keeper_unplugged_text">Veuillez brancher votre chargeur, puis réessayer.</string>
@@ -575,7 +575,7 @@ Pour sélectionner le type d\'informations à synchroniser au sein de chaque com
   <string name="data_usage_enable_mobile">Données mobiles</string>
   <string name="data_usage_label_background">Arrière-plan</string>
   <string name="data_usage_label_foreground">Premier plan</string>
-  <string name="data_usage_limit_dialog_mobile">"Votre connexion Internet mobile sera désactivée une fois le seuil défini atteint.
+  <string name="data_usage_limit_dialog_mobile">"Votre connexion internet mobile sera désactivée une fois le seuil défini atteint.
 
 La consommation des données étant mesurée par l\'appareil, celle mesurée par votre opérateur peut différer. Nous vous recommandons donc de définir un seuil plus bas."</string>
   <string name="data_usage_limit_dialog_title">Limitation de la consommation de données mobiles</string>
@@ -716,7 +716,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_dlg_remove_vip">Supprimer de la liste d\'exceptions ?</string>
   <string name="dndm_menu_add_vip_custom">Ajouter une exception</string>
   <string name="dndm_mute_all">Les appels et messages ne sonneront pas</string>
-  <string name="dndm_notification">Mode \"Ne pas déranger\" activé</string>
+  <string name="dndm_notification">Mode \"ne pas déranger\" activé</string>
   <string name="dndm_open">Activer le mode NPD</string>
   <string name="dndm_repeated_call_setting_title">Appels répétés</string>
   <string name="dndm_repeated_call_summary_3min">Si le même correspondant appelle de nouveau dans les trois minutes qui suivent, l\'appareil sonnera</string>
@@ -764,7 +764,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dolby_roomsize_normal">Salle normale</string>
   <string name="dolby_roomsize_summary">Son Surround disponible avec les écouteurs</string>
   <string name="dolby_roomsize_title">Mode Surround :</string>
-  <string name="drive_mode">Mode Voiture</string>
+  <string name="drive_mode">Mode voiture</string>
   <string name="drive_mode_auto_reply">Réponse automatique</string>
   <string name="drive_mode_auto_sms_reply_content">Désolé, je suis actuellement au volant, je ne peux donc pas vous répondre. Je vous recontacterai plus tard.</string>
   <string name="drive_mode_auto_sms_reply_content_title">Contenu de la réponse</string>
@@ -772,10 +772,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="drive_mode_invert_stop_report">Retourner pour arrêter les rapports</string>
   <string name="drive_mode_only_contact_reply">Répondre uniquement aux contacts</string>
   <string name="drive_mode_phone_report">Appels</string>
-  <string name="drive_mode_settings">Activer le mode Voiture</string>
+  <string name="drive_mode_settings">Activer le mode voiture</string>
   <string name="drive_mode_sms_auto_sms_reply">Réponse par SMS automatique</string>
   <string name="drive_mode_sms_report">Messages</string>
-  <string name="drive_mode_title">Paramètres du mode Voiture</string>
+  <string name="drive_mode_title">Paramètres du mode voiture</string>
   <string name="drive_mode_voice_report">Rapport de la voix</string>
   <string name="dtmf_tone_enable_title">Numérotation sonore</string>
   <string name="emergency_tone_summary">Définir le comportement en cas d\'appel d\'urgence</string>
@@ -785,7 +785,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Mode débogage lorsqu\'un câble USB est connecté</string>
   <string name="enable_compatibility">Mettre l\'application à l\'échelle</string>
-  <string name="enable_drive_mode">Activer le mode Voiture</string>
+  <string name="enable_drive_mode">Activer le mode voiture</string>
   <string name="enable_opengl_traces_title">Activer les traces OpenGL</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activer également la connexion au réseau de données mobiles ?</string>
   <string name="enable_snapshot_screenlock">Appui long pour capture d\'écran</string>
@@ -1147,7 +1147,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="msd_install_status_done">Pilote installé</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
-  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi ? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
+  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi ? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
   <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_touch_points_category_title">Tactile multi-point</string>
   <string name="multi_touch_points_preference">Activer (redémarrage requis)</string>
@@ -1312,7 +1312,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="radioInfo_service_off">Signal radio désactivé</string>
   <string name="radioInfo_service_out">Hors-service</string>
   <string name="radioInfo_unknown">inconnu</string>
-  <string name="radio_controls_summary">Gérer le Wi-Fi, le Bluetooth, le mode Avion, les réseaux mobiles et les VPN</string>
+  <string name="radio_controls_summary">Gérer le Wi-Fi, le Bluetooth, le mode avion, les réseaux mobiles et les VPN</string>
   <string name="radio_controls_title">Plus…</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
   <string name="radio_info_call_redirect_label">Redirection des appels :</string>
@@ -1356,7 +1356,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="remove_device_admin">Désactiver</string>
   <string name="remove_from_frequently_fragment">Supprimer "%s" des paramètres communs ?</string>
   <string name="reset_app_preferences">Réinitialiser préf. des apps</string>
-  <string name="reset_app_preferences_button">Réinitialiser apps</string>
+  <string name="reset_app_preferences_button">Réinitialiser</string>
   <string name="reset_app_preferences_desc">"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
 
  "<li>les applications désactivées ;</li>"
@@ -1365,7 +1365,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
  "<li>les restrictions relatives aux données en arrière-plan pour les applications.</li>"
 
  Vous ne perdrez aucune des données relatives à ces applications."</string>
-  <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
+  <string name="reset_app_preferences_title">Réinitialiser les préférences ?</string>
   <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours…</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="retry">Réessayer</string>
@@ -1451,7 +1451,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_about">À propos</string>
   <string name="search_accelerometer">Accéléromètre</string>
   <string name="search_access_control">Contrôle d\'accès</string>
-  <string name="search_airplane">Mode Avion</string>
+  <string name="search_airplane">Mode avion</string>
   <string name="search_android_beam">Beam</string>
   <string name="search_battery_indicator">Indicateur de batterie</string>
   <string name="search_bluetooth">Bluetooth</string>
@@ -1516,7 +1516,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
   <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
-  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
+  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à internet."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
   <string name="show_all_anrs">Afficher FC d\'apps en arrière-plan</string>
@@ -1766,7 +1766,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="unlock_set_unlock_summary">Veuillez activer l\'écran de mot de passe pour valider la protection par mot de passe</string>
   <string name="unmount_inform_text">La mémoire de stockage USB va être désinstallée.</string>
   <string name="untitled_apn">Sans nom</string>
-  <string name="upload_debug_log_summary">Aidez-nous à améliorer MIUI en envoyant anonymement vos rapport de bugs et statistiques d\'utilisation</string>
+  <string name="upload_debug_log_summary">Aidez-nous à améliorer MIUI en envoyant anonymement vos rapports de bugs et statistiques d\'utilisation</string>
   <string name="upload_debug_log_title">Collecte de données anonymes</string>
   <string name="usage_log">Statistiques d\'utilisation de l\'application</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -1838,7 +1838,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_dict_settings_context_menu_delete_title">Supprimer</string>
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
-  <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton d'ajout (\"+\")."</string>
+  <string name="user_dict_settings_empty_text">Votre dictionnaire personnel ne contient aucun mot.</string>
   <string name="user_dict_settings_more_languages">Plus de langues…</string>
   <string name="user_dict_settings_summary"></string>
   <string name="user_info_settings_title">Infos utilisateur</string>
@@ -1910,7 +1910,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Couper le son des notifications</string>
   <string name="volume_restore">Réinitialiser les volumes</string>
-  <string name="volume_restore_alert">Tous les réglages de volume seront réinitialisés, voulez-vous continuer ?</string>
+  <string name="volume_restore_alert">Tous les réglages de volume seront réinitialisés.</string>
   <string name="volume_ring_description">Sonnerie et notifications</string>
   <string name="volume_ring_mute">Couper la sonnerie et le son des notifications</string>
   <string name="volume_system_description">Volume système, pour l\'obturateur photo, l\'écran de verrouillage et les autres notifications système</string>
@@ -1980,7 +1980,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_advanced_mac_address_title">Adresse MAC</string>
   <string name="wifi_advanced_settings_label">Paramètres IP</string>
   <string name="wifi_advanced_titlebar">Paramètres Wi-Fi avancés</string>
-  <string name="wifi_and_mobile_skipped_message">"AVERTISSEMENT : Vous ne pourrez vérifier que vos logiciels sont à jour sur votre appareil que lorsque vous disposerez d'une connexion à Internet."</string>
+  <string name="wifi_and_mobile_skipped_message">"AVERTISSEMENT : Vous ne pourrez vérifier que vos logiciels sont à jour sur votre appareil que lorsque vous disposerez d'une connexion à internet."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Connexion automatique</string>
   <string name="wifi_cancel">Annuler</string>
@@ -1994,7 +1994,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_context_menu_forget">Retirer le réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Éléments du menu Avancé</string>
-  <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
+  <string name="wifi_disabled_network_failure">Mauvaise connexion internet évitée</string>
   <string name="wifi_disabled_password_failure">Problème d\'authentification.</string>
   <string name="wifi_display_details">Paramètres d\'affichage</string>
   <string name="wifi_display_no_devices_found">Aucun appareil détecté à proximité.</string>
@@ -2017,7 +2017,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_empty_list_wifi_off">Activez le Wi-Fi pour voir les réseaux disponibles.</string>
   <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours…</string>
   <string name="wifi_enable">Activer le Wi-Fi</string>
-  <string name="wifi_enable_watchdog_service_summary">Ne pas utiliser les réseaux Wi-Fi avec des connexions Internet de qualité médiocre</string>
+  <string name="wifi_enable_watchdog_service_summary">Ne pas utiliser les réseaux Wi-Fi avec des connexions internet de qualité médiocre</string>
   <string name="wifi_error">Erreur</string>
   <string name="wifi_fail_to_scan">"Impossible de rechercher des réseaux."</string>
   <string name="wifi_failed_connect_message">Échec de la connexion au réseau.</string>
@@ -2025,7 +2025,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_failed_save_message">Échec de l\'enregistrement du réseau.</string>
   <string name="wifi_forget">Retirer</string>
   <string name="wifi_gateway">Passerelle</string>
-  <string name="wifi_in_airplane_mode">En mode Avion</string>
+  <string name="wifi_in_airplane_mode">En mode avion</string>
   <string name="wifi_ip_address">Adresse IP</string>
   <string name="wifi_ip_settings">Paramètres IP</string>
   <string name="wifi_ip_settings_invalid_dns">Saisissez une adresse DNS correcte.</string>
@@ -2070,7 +2070,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_p2p_wps_setup">Définir une connexion Wi-Fi protégée</string>
   <string name="wifi_password">Mot de passe</string>
   <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
-  <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison Internet."</string>
+  <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison internet."</string>
   <string name="wifi_priority_type_title">Définir la priorité PA manuellement</string>
   <string name="wifi_priority_type_summary">Permet de définir la priorité de chaque point d\'accès manuellement</string>
   <string name="wifi_priority_settings_title">Paramètres de priorité PA</string>
@@ -2165,7 +2165,7 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_show_password">Afficher le mot de passe</string>
   <string name="wifi_signal">Intensité du signal</string>
   <string name="wifi_skip_anyway">Ignorer quand même</string>
-  <string name="wifi_skipped_message">"AVERTISSEMENT : Des frais supplémentaires de connexion à Internet peuvent être appliqués par votre opérateur.
+  <string name="wifi_skipped_message">"AVERTISSEMENT : Des frais supplémentaires de connexion à internet peuvent être appliqués par votre opérateur.
 
 La configuration de l\'appareil peut générer une forte activité sur le réseau."</string>
   <string name="wifi_speed">Vitesse de connexion</string>
@@ -2223,7 +2223,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="wifi_wps_failed_tkip">La configuration de sécurité du routeur sans fil (TKIP) n\'est pas compatible.</string>
   <string name="wifi_wps_failed_wep">La configuration de sécurité du routeur sans fil (WEP) n\'est pas compatible.</string>
   <string name="wifi_wps_in_progress">La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes.</string>
-  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole :</string>
+  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton \"WPS\" de votre routeur. Celui-ci peut contenir ce symbole :</string>
   <string name="wifi_wps_onstart_pin">Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes.</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
@@ -2254,7 +2254,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="adjust_3d_depth_title">Ajuster la profondeur 3D des jeux</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3d_help_title">À propos de la 3D stéréoscopique via HDMI</string>
-  <string name="power_mode_balanced_title">Activer le mode Équilibré</string>
+  <string name="power_mode_balanced_title">Activer le mode équilibré</string>
   <string name="usb_host_mode_text">Activer le mode USB hôte</string>
   <string name="usb_host_mode_subtext">Pour utiliser manette, clé USB ou autres périphériques, peut réduire l\'autonomie de la batterie</string>
   <string name="power_settings_title">Performances système</string>
@@ -2276,12 +2276,12 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="open_wifi_connect_title">Connexion au réseau ouvert %1$s</string>
   <string name="open_wifi_connect_summary">Appuyer pour gérer</string>
   <string name="restrict_background_data_title">Données en arrière-plan restreintes</string>
-  <string name="restrict_background_data_dialog_summary">Les applications en arrière-plan ne pourront plus accéder au données, êtes-vous sûr de vouloir désactiver les données en arrière-plan ?</string>
-  <string name="restrict_background_data_notification_summary">Les applications ne pourront pas se connecter au réseaux si les données en arrière-plan sont désactivées</string>
+  <string name="restrict_background_data_dialog_summary">Les applications en arrière-plan ne pourront plus accéder aux données, êtes-vous sûr de vouloir désactiver les données en arrière-plan ?</string>
+  <string name="restrict_background_data_notification_summary">Les applications ne pourront pas se connecter aux réseaux si les données en arrière-plan sont désactivées</string>
   <string name="activate_miui_screensaver">Activer l\'écran de veille</string>
   <string name="bt_hci_snoop_log">Activer l\'observation HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier</string>
-  <string name="preferred_app_settings">Paramètres applis par défaut</string>
+  <string name="preferred_app_settings">Applications par défaut</string>
   <string name="preferred_app_settings_default">Par défaut</string>
   <string name="preferred_app_settings_reset">Réinitialiser</string>
   <string name="preferred_app_settings_reset_message">Êtes-vous sûr de vouloir restaurer toutes les applications par défaut ?</string>
@@ -2350,7 +2350,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="mobile_unknown_sim_operator">Opérateur SIM inconnu</string>
   <string name="mobile_no_provisioning_url">Aucun site Web de configuration connu pour %1$s</string>
   <string name="mobile_insert_sim_card">Insérez la carte SIM, puis redémarrez.</string>
-  <string name="mobile_connect_to_internet">Connectez-vous à Internet.</string>
+  <string name="mobile_connect_to_internet">Connectez-vous à internet.</string>
   <string name="enable_service_title">Utiliser %1$s ?</string>
   <string name="capabilities_list_title">%1$s doit pouvoir :</string>
   <string name="capability_title_receiveAccessibilityEvents">Observer vos actions</string>
@@ -2377,7 +2377,6 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="user_image_choose_photo">Sélectionner une photo dans la galerie</string>
   <string name="user_profile_confirm_remove_message">L\'espace et les données de ce profil vont être supprimés de cet appareil Cette action est irréversible.</string>
   <string name="restriction_nfc_enable_summary">Autoriser l\'échange de données lorsque l\'appareil est en contact avec un autre appareil</string>
-<!-- system_storage à vérifier ? : Systeme storage = Stockage système?? -->
   <string name="system_storage">Mémoire interne</string>
   <string name="touch_sensitive_summary">Accroît la sensibilité de votre écran tactile afin d\'en permettre l\'utilisation avec des gants</string>
   <string name="touch_sensitive_turn_off_summary">Désactiver le mode permettant d\'éviter les erreurs de manipulation ?</string>
@@ -2598,6 +2597,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_show_notificationBar_notification">Afficher notif. du menu déroulant</string>
   <string name="status_bar_settings_show_screenshot_notification">Afficher notif. de capture d\'écran</string>
   <string name="status_bar_settings_show_statusBar_notification">Afficher sur l\'écran de verrouillage</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Les notifications apparaîtront en haut de l\'écran puis disparaitront automatiquement</string>
   <string name="status_bar_settings_show_wifi_name">Afficher le nom du Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Notifications et barre d\'état</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Réduire après un appui</string>
@@ -2705,7 +2705,7 @@ et lancer le logiciel."</string>
   <string name="music_headset_mode_music">Lecture de musique - précédent/suivant</string>
   <string name="music_headset_mode_volume">Ajustement du volume - haut/bas</string>
   <string name="music_headset_no_contected">Casque non connecté</string>
-  <string name="music_headset_settings">Paramètres du casque</string>
+  <string name="music_headset_settings">Écouteurs</string>
   <string name="music_dirac_mode_in_ear">Intra-aur. Xiaomi</string>
   <string name="music_dirac_mode_earbuds">Écouteurs Xiaomi</string>
   <string name="music_dirac_mode_piston_100">Xiaomi Piston-1</string>
@@ -2716,8 +2716,8 @@ et lancer le logiciel."</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-Youth</string>
   <string name="music_audio_effect_settings">Paramètres audio</string>
   <string name="music_headphone_settings">Paramètres écouteurs</string>
-  <string name="music_mi_effect_title">Son Dirac HD</string>
-  <string name="music_mi_effect_summary">"Toujours utiliser Dirac HD lors l'utilisation d'écouteurs"</string>
+  <string name="music_mi_effect_title">Améliorateur Mi Sound</string>
+  <string name="music_mi_effect_summary">"Toujours utiliser Mi Sound lors l'utilisation d'écouteurs"</string>
   <string name="preferred_sms_title">Application SMS par défaut</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
@@ -2733,9 +2733,9 @@ et lancer le logiciel."</string>
   <string name="manage_xiaomi_router">Gestion du routeur Xiaomi</string>
   <string name="xiaomi_router_notif_title">Notification routeur Xiaomi</string>
   <string name="xiaomi_router_notif_summary">Notifier quand un routeur Xiaomi est détecté</string>
-  <string name="xiaomi_router_available_notif_title">Routeur Xiaomi détecté</string>
+  <string name="xiaomi_router_available_notif_title">Mi Routeur détecté</string>
   <string name="xiaomi_router_available_notif_summary">Appuyer pour afficher</string>
-  <string name="connect_to_internet">Connectez-vous à Internet</string>
+  <string name="connect_to_internet">Connectez-vous à internet</string>
   <string name="provision_next">Suivant</string>
   <string name="privacy_mode_dialog_title">Mode invité</string>
   <string name="privacy_mode_dialog_message">Les appels, notes, photos, messages, et les paramètres du lanceur seront masqués</string>
@@ -2745,7 +2745,7 @@ et lancer le logiciel."</string>
   <string name="lockscreen_glogin_checking_password">Vérification…</string>
   <string name="passwordIncorrect">Le mot de passe saisi est incorrect</string>
   <string name="app_feedback">Signaler un bug</string>
-  <string name="app_backup">Backup</string>
+  <string name="app_backup">Sauvegarde</string>
   <string name="google_backup_section_title">Sauvegarde &amp; restauration Google</string>
   <string name="system_backup_section_title">Sauvegarde</string>
   <string name="local_backup_section_title">Sauvegardes locales</string>
@@ -2769,7 +2769,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_preference_connected_devices">Périphériques connectés</string>
   <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
   <string name="bluetooth_unlock_device_matched_text">Utiliser ce périphérique pour déverrouiller.</string>
-  <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique va être remplacé par le nouveau.</string>
   <string name="virus_scan">Anti-virus</string>
   <string name="network_assistant">Moniteur de données</string>
@@ -2792,8 +2792,12 @@ et lancer le logiciel."</string>
   <string name="button_text_login">Connexion</string>
   <string name="dialog_content_login">Pour recevoir les mises à jour, veuillez vous connecter à votre compte Mi.</string>
   <string name="dialog_title_login">Information</string>
-  <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
-
+  <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
+  <string name="lock_settings">Écran de verrouillage</string>
+  <string name="other_personal_settings">Plus…</string>
+  <string name="wireless_on">Actif</string>
+  <string name="wireless_off">Inactif</string>
+  
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>

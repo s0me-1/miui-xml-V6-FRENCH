@@ -34,8 +34,8 @@
   <string name="mipay_setting_forget_password">Réinitialiser le mot de passe</string>
   <string name="mipay_setting_modify_password">Modifier le mot de passe</string>
   <string name="mipay_setting_title_password">Mot de passe de paiement</string>
-<!-- à traduire  -->
-  <string name="mipay_wallet_app_name">Bank cards</string>
+  <string name="mipay_wallet_app_name">Centre de paiement</string>
+<!-- à traduire, non utilisées hors chine ? -->
   <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
   <string name="mipay_bank_cards_item_bank_number">**** **** **** %1$s</string>
   <string name="mipay_button_unbind_bank_card">Unbind</string>

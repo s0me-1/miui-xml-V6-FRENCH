@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -44,7 +44,7 @@
   <string name="analog_gadget">Horloge analogique</string>
   <string name="app_label">Horloge</string>
   <string name="auto_silence_never">Désactivé</string>
-  <string name="auto_silence_summary">Alarme en silence après %d minutes</string>
+  <string name="auto_silence_summary">Alarme en silence après %d min</string>
   <string name="auto_silence_title">Silence automatique</string>
   <string name="battery_charging_level">%d %%</string>
   <string name="cancel">Annuler</string>
@@ -123,7 +123,7 @@
   <string name="label_pref_summary">Nom de l\'alarme</string>
   <string name="menu_edit_timer_item">Modifier la minuterie</string>
   <string name="delete_timer_item_title">Supprimer la minuterie</string>
-  <string name="delete_selected_timer_item">Supprimer la minuterie sélectionnée ?</string>
+  <string name="delete_selected_timer_item">Supprimer la minuterie sélectionnée ?</string>
   <string name="vibrate_when_ringing">Activer le vibreur</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">sec</string>

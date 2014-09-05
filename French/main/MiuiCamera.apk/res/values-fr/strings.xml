@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="pref_camera_facedetection_title">Détection de visage</string>
   <string name="effect_setting_top_text">Effets</string>
   <string name="pref_face_beauty_title">Teint de peau</string>
   <string name="Import">Importer</string>
@@ -28,7 +29,7 @@
   <string name="bg_replacement_message">Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra.</string>
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
-  <string name="camera_label">Appareil photo</string>
+  <string name="camera_label">Appareil photo</string>
   <string name="camera_settings_label">Appareil photo</string>
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
@@ -40,7 +41,7 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Enregistrer les coordonnées GPS des photos ?</string>
+  <string name="confirm_location_message">Enregistrer les coordonnées GPS des photos ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>
@@ -119,7 +120,7 @@
   <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_other_qrcode">Trouver un code QR</string>
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
-  <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
+  <string name="find_web_qrcode">Trouver un code QR de site internet</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
   <string name="find_wifi_qrcode">Trouver un code QR Wi-Fi</string>
   <string name="flash">Flash</string>
@@ -213,11 +214,10 @@
   <string name="pref_camera_default_suffix">" (par défaut)"</string>
   <string name="pref_camera_denoise_title">Mode débruitage</string>
   <string name="pref_camera_exposuretime_title">"Durée d'exposition"</string>
-  <string name="pref_camera_facedetection_title">Détection de visage</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
   <string name="pref_camera_flashmode_entry_on">Activé</string>
-  <string name="pref_camera_flashmode_title">Mode Flash</string>
+  <string name="pref_camera_flashmode_title">Mode flash</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_continuous">Focus continu</string>
   <string name="pref_camera_focusmode_entry_infinity">Infini</string>
@@ -298,7 +298,7 @@
   <string name="pref_camera_scenemode_entry_snow">Neige</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Coucher soleil</string>
-  <string name="pref_camera_scenemode_title">Mode Scène</string>
+  <string name="pref_camera_scenemode_title">Mode scène</string>
   <string name="pref_camera_settings_category">Paramètres appareil photo</string>
   <string name="pref_camera_settings_title">Paramètres</string>
   <string name="pref_camera_sharpness_title">Netteté</string>
@@ -358,7 +358,6 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
   <string name="pref_video_speed_entry_fast">Rapide</string>
   <string name="pref_video_speed_entry_normal">Normale</string>
   <string name="pref_video_speed_entry_slow">Lente</string>
@@ -391,7 +390,7 @@
   <string name="rotate_right">Faire pivoter à droite</string>
   <string name="save">Oui</string>
   <string name="scan_qrcode">Scanner le code QR</string>
-  <string name="secure_access_web_url">Accès Internet sécurisé</string>
+  <string name="secure_access_web_url">Accès internet sécurisé</string>
   <string name="see_app_details">Voir les détails de l\'app</string>
   <string name="see_qrcode_detals">Voir les détails du code QR</string>
   <string name="select_all">Tout sélectionner</string>
@@ -416,6 +415,7 @@
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
   <string name="simple_mode_button_text_slow_video">Quitter le mode fast-motion</string>
+  <string name="simple_mode_button_text_fast_video">Quitter le mode slow-motion</string>
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
@@ -476,4 +476,6 @@
   <string name="pref_camcorder_settings">Paramètres caméra</string>
   <string name="pref_camcorder_settings_category">Paramètres photo et vidéo</string>
   <string name="pref_capture_settings">Paramètres appareil photo</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
+  <string name="pref_camera_front_fb_title">Améliorer le teint de peau</string>
 </resources>

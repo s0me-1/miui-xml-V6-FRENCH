@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -20,6 +20,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+<!-- supprimée 4.9.3 cancroalpha -->
+  <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
+<!-- -->
   <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
@@ -62,7 +65,7 @@
   <string name="add_private_contact">Ajouter un contact privé</string>
   <string name="add_slide">Ajouter une diapositive (après)</string>
   <string name="add_slide_before">Ajouter une diapositive (avant)</string>
-  <string name="add_slide_hint">Appuyez pour créer une diapositive.</string>
+  <string name="add_slide_hint">Appuyer pour créer une diapositive.</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Programmer</string>
   <string name="add_video">Ajouter une vidéo</string>
@@ -196,8 +199,8 @@
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
-  <string name="guild_add_attachments">Appuyez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
-  <string name="guild_add_recipients">Appuyez ici pour ajouter des destinataires du carnet d\'adresse</string>
+  <string name="guild_add_attachments">Appuyer pour ajouter des pièces jointes ou des émoticônes</string>
+  <string name="guild_add_recipients">Appuyer pour ajouter des destinataires du carnet d\'adresse</string>
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Adresse d\'expéditeur masquée</string>
   <string name="hint_search_sms">%d messages</string>
@@ -254,11 +257,11 @@
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable_now">Activer</string>
-  <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
+  <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d Mi Message(s) pour vous (%2$s)</string>
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer Mi Message</string>
-  <string name="mx_enable_popup_msg">Mi Message vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
+  <string name="mx_enable_popup_msg">Mi Message vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
@@ -392,14 +395,13 @@
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
   <string name="send_sms">Envoyer un message</string>
   <string name="send_to">À :</string>
-  <string name="send_to_count">Messages envoyés : %1$s</string>
+  <string name="send_to_count">Messages envoyés : %1$s</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s…</string>
   <string name="sent_label">"Date d'envoi : "</string>
   <string name="service_message_not_found">Le message a expiré ou n\'est plus disponible.</string>
   <string name="service_network_problem">Impossible de procéder à l\'envoi en raison d\'un problème réseau.</string>
   <string name="service_not_activated">Ce service n\'est pas activé sur le réseau</string>
   <string name="set">Définir</string>
-  <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
   <string name="show_all_messages">Afficher tous les messages</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
@@ -513,12 +515,14 @@
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Cette fonction requiert l\'accès à internet.</string>
   <string name="festival_never_remind">Ne pas rappeler</string>
-  <string name="pref_title_festival_networking">Information</string>
+  <string name="pref_title_festival_networking">Avertissement d\'accès à internet</string>
   <string name="user_agreement1">Veuillez lire les documents suivant avant d\'utiliser ce produit.</string>
   <string name="user_agreement2">" Conditions d\'utilisation"</string>
   <string name="user_agreement3">" et "</string>
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="user_agreement5">En appuyant sur OK, vous acceptez les termes de ces contrats.</string>
+  <string name="menu_yellowpage">Afficher %s</string>
+  <string name="menu_more">Plus</string>
 <!-- à traduire -->
   <string name="english_subject_limit">40 character limit</string>
   <string name="app_name">Device Management</string>

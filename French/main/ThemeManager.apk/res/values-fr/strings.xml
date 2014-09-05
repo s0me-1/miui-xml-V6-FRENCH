@@ -121,7 +121,7 @@
   <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>
-<!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
+<!-- à vérifier/Revoir resource_pack_confirm et resource_pack_warning ? -->
   <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
   <string name="resource_pack_discount_info">Économisé : %1$s</string>
   <string name="resource_pack_price_info">Original : %1$s</string>
@@ -266,11 +266,11 @@
   <string name="theme_user_agreement_remind_summary">Ce paramètre prendra effet au prochain redémarrage</string>
   <string name="resource_failed_to_load_list">Échec du chargement de la liste</string>
   <string name="resource_search_list_empty">Aucun résultat</string>
-  <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>
+  <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>
   <string name="resource_clear_search_history">Effacer l\'historique de recherche</string>
   <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_trial_fail_go_settings">Paramètres</string>
-  <string name="resource_comment_rating_star_tips">Touchez les étoiles :</string>
+  <string name="resource_comment_rating_star_tips">Touchez les étoiles :</string>
   <string name="resource_trial_fail_title">Impossible de démarrer la session d\'essai</string>
   <string name="resource_trial_fail_message">Assurez vous que l\'heure de votre appareil est correctement paramétrée.</string>
 </resources>

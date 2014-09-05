@@ -89,13 +89,13 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="giftcard_empty">Pas de carte-cadeau</string>
   <string name="giftcard_expire">Expire le %1$s</string>
   <string name="giftcard_hint">Les MiCredits reçus par carte-cadeau seront\ndépensés en premier automatiquement.</string>
-<!-- les 2 phrases suivantes à revoir éventuellement) -->
+<!-- à revoir les 2 phrases suivantes éventuellement) -->
   <string name="giftcard_push_notification_prime_title">Vous avez reçu un certificat de cadeau</string>
   <string name="giftcard_push_notification_sub_title">%1$s : don de %2$s MiCredit.</string>
   <string name="giftcard_record">MiCredits reçus</string>
   <string name="giftcard_value">" (Carte-cadeau %1$s MiCredit)"</string>
   
-<!-- à traduire ? en attentant l'anglais est mieux que le chinois… -->
+<!-- à traduire ? non utilisée hors de la chine ? en attentant l'anglais est mieux que le chinois… -->
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_complete">Purchased successfully!</string>
   <string name="hfb_confirm">Confirm</string>
@@ -119,7 +119,6 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_succ_result">"Thank you for using our payment services.
 You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
 <!-- -->
-  
   <string name="label_balance">"Solde : "</string>
   <string name="label_order_name">"Nom du produit : "</string>
   <string name="label_order_price">"Prix : "</string>
@@ -235,7 +234,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="recharge_record_empty">Aucun historique de recharge</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">Bons MiCredit</string>
-  <string name="security_setting">Paramètres de sécurité</string>
+  <string name="security_setting">Paramètres</string>
   <string name="summary_lockpattern">Exiger un schéma de verrouillage unique pour MiCredit</string>
   <string name="title_change_lockpattern">Modifier le schéma de verrouillage</string>
   <string name="title_discounts">Réductions</string>
@@ -262,7 +261,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="detail_consume_amount">Montant</string>
   <string name="detail_consume_name">Article</string>
   <string name="detail_consume_order">ID commande</string>
-<!-- detail_consume_time correct ? original : Time -->
   <string name="detail_consume_time">Date</string>
   <string name="detail_consume_title">Historique de paiements</string>
   <string name="detail_giftcard_activity">Promotion</string>
@@ -275,7 +273,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="detail_recharge_amount">Montant</string>
   <string name="detail_recharge_method">Méthode</string>
   <string name="detail_recharge_order">Commande Nº</string>
-<!-- detail_recharge_time correct ? original : Time -->
   <string name="detail_recharge_time">Date</string>
   <string name="detail_recharge_title">Historique de recharges</string>
   <string name="scan_prompt_number">Analyse du numéro de la carte prépayée %1$s</string>
@@ -308,10 +305,10 @@ Service client : 400-100-5678"</string>
   <string name="giftcard_title">Bons MiCredit</string>
   <string name="confirm_title">Confirmation</string>
   <string name="ensure">OK</string>
-  <string name="processing">Chargement...</string>
+  <string name="processing">Chargement…</string>
   <string name="denomination_unit">￥</string>
   <string name="btn_finish">Finir</string>
-  <string name="pc_pay_login">Connectez-vous sur :</string>
+  <string name="pc_pay_login">Connectez-vous sur :</string>
   <string name="milicenter_title">Mi Credit</string>
   <string name="unit_value">%1$s MiCredit</string>
   <string name="unit">MiCredit</string>

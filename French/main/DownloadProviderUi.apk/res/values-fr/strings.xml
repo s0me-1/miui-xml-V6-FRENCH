@@ -57,7 +57,6 @@
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">Attente connexion réseau</string>
   <string name="paused_waiting_to_retry">Attente nouvelle tentative</string>
-<!-- pref_download_settings_title à revoir ? text original : Data usage -->
   <string name="pref_download_settings_title">Utilisation des données</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
@@ -84,6 +83,9 @@
   <string name="period_of_validity">"Durée de validité : "</string>
   <string name="menu_all_task_pause">Tout mettre en pause</string>
   <string name="menu_all_task_start">Tout démarrer</string>
+  <string name="menu_title_resume_all">Tout reprendre</string>
+  <string name="menu_title_pause_all">Tout mettre en pause</string>
+  <string name="menu_title_settings">Paramètres</string>
   <string name="download_list_open_xl_ok">Ok</string>
   <string name="download_list_open_xl_cancel">Annuler</string>
   <string name="Only_the_wifi">Wi-Fi uniquement</string>
@@ -117,15 +119,16 @@
   <string name="valid_in_this_month">seulement valide ce mois-ci</string>
   <string name="free_speedup_exp">Service de téléchargement à haute vitesse Xunlei</string>
   <string name="xunlei_gaosu">Service de téléchargement à haute vitesse Xunlei</string>
-  <string name="download_list_intoAuth">Authentification...</string>
-  <string name="get_account_dialog_msg">Chargement des informations...</string>
+  <string name="download_list_intoAuth">Authentification…</string>
+  <string name="get_account_dialog_msg">Chargement des informations…</string>
   <string name="one_month">Un mois</string>
   <string name="member_cost">Un an</string>
   <string name="get_order_fail_msg">Échec de la commande, une erreur s\'est produite</string>
-  <string name="get_order_dialog_msg">Chargement de la commande...</string>
+  <string name="get_order_dialog_msg">Chargement de la commande…</string>
   <string name="immediately_a_renewal">Renouveler immédiatement</string>
 <!-- à traduire  -->
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="high_speed_channel">Highspeed channel</string>
   <string name="mi_money">Mi money</string>
+  <string name="display_expire_netiv1">Month Owner</string>
 </resources>

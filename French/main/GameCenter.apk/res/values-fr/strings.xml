@@ -481,7 +481,7 @@
   <string name="user_name_or_psw_empty">Saisir le nom d\'utilisateur et mot de passe.</string>
   <string name="psw_invalid">Mot de passe incorrect</string>
   <string name="login_with_xiaomi_account">Veuillez vous connecter à votre compte Mi</string>
-  <string name="txt_xiaomi_id">Xiaomi ID : %s</string>
+  <string name="txt_xiaomi_id">ID Mi : %s</string>
   <string name="no_local_game">Aucun jeu installé</string>
   <string name="mibi_rmb_relation">￥1 = 1 MiCredit</string>
   <string name="nick_name">XM%s</string>

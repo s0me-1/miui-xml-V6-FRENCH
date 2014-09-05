@@ -272,11 +272,7 @@
   <string name="express_inquiry_provider_info">Propulsé par</string>
   <string name="express_info_divider">" / "</string>
   <string name="all_services">Tous</string>
-  
-  
-  
-  
-<!-- à traduire -->
+<!-- à traduire ? affichées hors de la chine ? -->
   <string name="express_inquiry_logistics_empty">Please select logistics.</string>
   <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
   <string name="express_inquiry_number_invalid">"Your input is invalid.
@@ -293,7 +289,7 @@ Please check your tracking number."</string>
   <string name="minimum_price">From %d RMB</string>
   <string name="coupon_bought_count">%d bought</string>
   <string name="app_recommendation_install">Install</string>
-  <string name="shop_recommendation_format" formatted="false">%s : %s</string>
+  <string name="shop_recommendation_format" formatted="false">%s : %s</string>
   <string name="menu_add_to_favorite">Add to favorites</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>

@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+  more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="cit_ac_charger_in">Le chargeur est connecté</string>
-  <string name="cit_ac_charger_out">Le chargeur est déconnecté</string>
+<!-- supprimé 4.9.2 cancroalpha -->
+  <string name="cit_tool_wifi_exit">Quitter</string>
+  <string name="cit_tool_wifi_rx_ap_name">Nom point d\'accès</string>
+  <string name="cit_tool_wifi_rx_ap_not_null">Le nom du point d\'accès ne peut pas être vide</string>
+  <string name="cit_tool_wifi_rx_ap_type">Type du point d\'accès</string>
+  <string name="cit_tool_wifi_rx_ap_type_error">Erreur de point d\'accès, entrez à nouveau les détails du bss/adhoc</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: canal</string>
+  <string name="cit_tool_wifi_rx_count_error">La valeur de sortie n\'est pas un nombre</string>
+  <string name="cit_tool_wifi_rx_error">Une erreur s\'est produite</string>
+  <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
+  <string name="cit_tool_wifi_rx_run">Test</string>
+  <string name="cit_tool_wifi_rx_stop">Arrêter</string>
+  <string name="cit_tool_wifi_rx_total_format">Transféré : %s</string>
+  <string name="cit_tool_wifi_rxbg_test_datarate">Taux :</string>
+  <string name="cit_tool_wifi_rxn_test_mcs">Débit :</string>
+<!-- -->
+  <string name="cit_tool_wifi_txrx_chain_selection">Sélectionner l\'antenne</string>
+  <string name="cit_tool_wifi_chain_1">1</string>
+  <string name="cit_tool_wifi_chain_2">2</string>
+  <string name="cit_tool_wifi_chain_1_2">1+2</string>
+  <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+  <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">Canal :</string>
+  <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+  <string name="cit_tool_wifi_rxn_test_channel">Canal :</string>
+  <string name="cit_tool_wifi_rxn_test_bw">Débit:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Bande passante :</string>
+  <string name="cit_tool_wifi_tx_st_chan">Canal :</string>
+  <string name="cit_ac_charger_in">Chargeur connecté</string>
+  <string name="cit_ac_charger_out">Chargeur déconnecté</string>
   <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si l\'appareil est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
   <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre</string>
   <string name="cit_audio_loopback_check_one_title">Test micro du récepteur</string>
@@ -34,7 +62,7 @@
   <string name="cit_button_light_off">Stopper l\'éclairage du bouton</string>
   <string name="cit_button_light_on">Démarrer l\'éclairage du bouton</string>
   <string name="cit_calibration_fail">Calibrage échoué</string>
-  <string name="cit_calibration_pass">Étalonnage passé</string>
+  <string name="cit_calibration_pass">Calibrage réussi</string>
   <string name="cit_camera_sdcard_error">La carte SD est pleine. Impossible d\'enregistrer les images</string>
   <string name="cit_charger_plugin_check_summary">Vérifier l\'état actuel du chargeur</string>
   <string name="cit_charger_plugin_check_title">Test de connexion chargeur</string>
@@ -107,7 +135,7 @@
   <string name="cit_lcdlight_brightness">Rétro-éclairage</string>
   <string name="cit_lcdlight_brightness_max">Max</string>
   <string name="cit_lcdlight_brightness_min">Min</string>
-  <string name="cit_leds_check_summary">Le test va vérifier le rétro-éclairage, l\'alimentation et les LEDs du flash</string>
+  <string name="cit_leds_check_summary">Le test va vérifier le rétro-éclairage, l\'alimentation et la LED du flash</string>
   <string name="cit_leds_check_title">Test de la LED</string>
   <string name="cit_light_sensor_check_summary">Informations trouvées du convertisseur DAC du capteur de luminosité</string>
   <string name="cit_light_sensor_check_title">Test du capteur de lumière</string>
@@ -196,39 +224,19 @@
   <string name="cit_tool_modem_exit_ftm">Quitter le mode FTM</string>
   <string name="cit_tool_modem_offline_log">Ouvrir/Fermer le journal hors-ligne</string>
   <string name="cit_tool_wifi">Outils de test Wi-Fi</string>
+  <string name="cit_tool_wifi_tx_n">Tx: n</string>
+  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+  <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_band_24">bande: 2.4G</string>
   <string name="cit_tool_wifi_band_5">bande: 5G</string>
   <string name="cit_tool_wifi_band_change">Suivant</string>
-  <string name="cit_tool_wifi_exit">Quitter</string>
-  <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
-  <string name="cit_tool_wifi_rx_ap_name">Nom point d\'accès</string>
-  <string name="cit_tool_wifi_rx_ap_not_null">Le nom du point d\'accès ne peut pas être vide</string>
-  <string name="cit_tool_wifi_rx_ap_type">Type du point d\'accès</string>
-  <string name="cit_tool_wifi_rx_ap_type_error">Erreur de point d\'accès, entrez à nouveau les détails du bss / ad hoc</string>
-  <string name="cit_tool_wifi_rx_chan">Rx: canal</string>
-  <string name="cit_tool_wifi_rx_count_error">La valeur de sortie n\'est pas un nombre</string>
-  <string name="cit_tool_wifi_rx_error">Une erreur s\'est produite</string>
-  <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
-  <string name="cit_tool_wifi_rx_run">Test</string>
-  <string name="cit_tool_wifi_rx_stop">Arrêter</string>
-  <string name="cit_tool_wifi_rx_total_format">Transféré : %s</string>
-  <string name="cit_tool_wifi_rxbg_test">Rx: B/G</string>
-  <string name="cit_tool_wifi_rxbg_test_channel">Canal :</string>
-  <string name="cit_tool_wifi_rxbg_test_datarate">Taux :</string>
-  <string name="cit_tool_wifi_rxn_test">Rx: N</string>
-  <string name="cit_tool_wifi_rxn_test_channel">Canal :</string>
-  <string name="cit_tool_wifi_rxn_test_mcs">MCS :</string>
-  <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
+  <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
   <string name="cit_tool_wifi_tx_bg_txpr">Puissance :</string>
-  <string name="cit_tool_wifi_tx_bg_txrt">Débit MCS :</string>
-  <string name="cit_tool_wifi_tx_n">Tx: N</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">Bande passante :</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">Débit :</string>
   <string name="cit_tool_wifi_tx_n_chan">Canal :</string>
   <string name="cit_tool_wifi_tx_n_txpr">Puissance :</string>
-  <string name="cit_tool_wifi_tx_n_txrt">Débit MCS :</string>
-  <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">Canal :</string>
+  <string name="cit_tool_wifi_tx_n_txrt">Débit :</string>
   <string name="cit_torch_off">Éteindre la torche</string>
   <string name="cit_torch_on">Allumer la torche</string>
   <string name="cit_touch_calib_fail">"Le calibrage de l'écran a échoué, recommencez"</string>
@@ -271,6 +279,7 @@
   <string name="cit_tool_nfc_st_run">Test</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
   <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
+  <string name="cit_vga_camera_calibration">Calibrage</string>
 <!-- à traduire -->
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
@@ -291,6 +300,6 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
   <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
   <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
-  <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
-  <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+  <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test (2.480GHz) mode</string>
+  <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test (2.402GHz) mode</string>
 </resources>

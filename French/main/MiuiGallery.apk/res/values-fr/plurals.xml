@@ -3,28 +3,28 @@
     more dufos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <plurals name="confirm_delete_has_cloud_image">
-      <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
-      <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
   </plurals>
   <plurals name="confirm_delete_has_local_image">
-      <item quantity="other">Supprimer %s photos ?</item>
-      <item quantity="one">Supprimer %s photo ?</item>
+      <item quantity="other">Supprimer %s photos ?</item>
+      <item quantity="one">Supprimer %s photo ?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_video">
-      <item quantity="other">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
-      <item quantity="one">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="other">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéos du &lt;b>cloud&lt;/b> ?</item>
   </plurals>
   <plurals name="confirm_delete_has_local_video">
-      <item quantity="other">Supprimer %s vidéos ?</item>
-      <item quantity="one">Supprimer %s vidéo ?</item>
+      <item quantity="other">Supprimer %s vidéos ?</item>
+      <item quantity="one">Supprimer %s vidéo ?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_image">
-      <item quantity="other">Supprimer %s photos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
-      <item quantity="one">Supprimer %s photo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="other">Supprimer %s photos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s photo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_video">
-      <item quantity="other">Supprimer %s vidéos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
-      <item quantity="one">Supprimer %s vidéo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="other">Supprimer %s vidéos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+      <item quantity="one">Supprimer %s vidéo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
   </plurals>
   <plurals name="number_of_items_selected">
       <item quantity="other">%1$d sélectionnés</item>

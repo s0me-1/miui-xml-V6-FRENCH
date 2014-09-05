@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -169,7 +169,7 @@
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
-  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels de ce contact ?"</string>
+  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels de ce contact ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Supprimer du journal d'appels ?"</string>
   <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
   <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
@@ -317,7 +317,7 @@
   <string name="dialog_new_group_account">Créer un groupe sur le compte</string>
   <string name="dialog_phone_call_prohibited_message">Appel non effectué.</string>
   <string name="dialog_sync_add">Ajouter un groupe de synchronisation</string>
-  <string name="dialog_voicemail_airplane_mode_message">Veuillez désactiver le mode Avion avant d\'appeler la messagerie vocale.</string>
+  <string name="dialog_voicemail_airplane_mode_message">Veuillez désactiver le mode avion avant d\'appeler la messagerie vocale.</string>
   <string name="dialog_voicemail_not_ready_message">Pour configurer la messagerie vocale, accédez à Menu &gt; Paramètres.</string>
   <string name="directory_search_label">Répertoire</string>
   <string name="display_all_contacts">Tous les contacts</string>
@@ -463,7 +463,7 @@
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Pas de contacts en double</string>
   <string name="label_notes">Notes</string>
-  <string name="label_sip_address">Appel Internet</string>
+  <string name="label_sip_address">Appel SIP</string>
   <string name="launcherDialer">Téléphone</string>
   <string name="listCustomView">Contacts en affichage personnalisé</string>
   <string name="listFoundAllContactsZero">Aucun contact</string>
@@ -765,7 +765,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recentCalls_removeFromRecentList">Supprimer du journal d\'appels</string>
   <string name="recentCalls_shareVoicemail">Partager le message vocal</string>
   <string name="recentCalls_trashVoicemail">Supprimer le message vocal</string>
-  <string name="recent_contacts_label">Récent</string>
+  <string name="recent_contacts_label">Récents</string>
   <string name="recent_number">Récent</string>
   <string name="recent_updates">Mises à jour récentes</string>
   <string name="redirect_calls_to_vm_confirm_message">Assurez-vous que votre opérateur supporte cette option. Sinon, vous pourriez ne plus être en mesure de recevoir des appels de ce contact.</string>
@@ -846,7 +846,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>
-<!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
+<!-- à vérifier/Revoir resource_pack_confirm et resource_pack_warning ? -->
   <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
   <string name="resource_pack_discount_info">Économisé : %1$s</string>
   <string name="resource_pack_price_info">Original : %1$s</string>
@@ -914,7 +914,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="shortcutDialContact">"Numérotation directe "</string>
   <string name="shortcutMessageContact">"Message direct "</string>
   <string name="showAllContactsJoinItem">Afficher tous les contacts</string>
-  <string name="simContacts_airplaneMode">Pour importer des contacts de la carte SIM veuillez désactiver le mode Avion.</string>
+  <string name="simContacts_airplaneMode">Pour importer des contacts de la carte SIM veuillez désactiver le mode avion.</string>
   <string name="simContacts_empty">Aucun contact trouvé sur la carte SIM.</string>
   <string name="simContacts_emptyLoading">Chargement depuis la carte SIM…</string>
   <string name="simContacts_title">Sélectionner les contacts à importer</string>
@@ -1142,7 +1142,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_search_list_empty">Aucun résultat</string>
   <string name="solar_calendar">Calendrier solaire</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
-  <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>
+  <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>
   <string name="resource_clear_search_history">Effacer l\'historique de recherche</string>
   <string name="resource_trial_fail_message">Assurez vous que l\'heure de votre appareil est correctement paramétrée.</string>
   <string name="resource_trial_fail_title">Impossible de démarrer la session d\'essai</string>

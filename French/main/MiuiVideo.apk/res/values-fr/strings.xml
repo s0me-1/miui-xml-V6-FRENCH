@@ -2,30 +2,34 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="all">Tous</string>
-  <string name="about_app_name">Lecteur vidéo</string>
+<!-- supprimées 4.9.2 cancroalpha -->
+  <string name="menu_item_about_label">À propos</string>
+  <string name="menu_item_orientation_auto_sensor_action">Activer la rotation</string>
+  <string name="menu_item_orientation_fixed_by_videosize_action">Désactiver la rotation</string>
+  <string name="menu_item_sub_title">Sous titres</string>
   <string name="about_developer_label">Développeur</string>
   <string name="about_developer_name">XiaoMi Inc.</string>
+  <string name="toast_message_set_misound">Veuillez configurer Mi Sound…</string>
+  <string name="menu_item_disable_3d_mode">Désactiver le mode 3D</string>
+  <string name="menu_item_enable_3d_mode">Activer le mode 3D</string>
+  <string name="airkan_video_playing">Diffusion</string>
+<!-- -->
+  <string name="all">Tous</string>
+  <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_title">À propos</string>
   <string name="about_version_label">Version :</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_tips">"Appuyez ici pour lancer
-la vidéo sur votre box ou TV"</string>
-  <string name="airkan_video_playing">Diffusion</string>
-  <string name="airkan_video_playing_in">La vidéo est en lecture…</string>
+  <string name="airkan_tips">"Appuyer pour diffuser"</string>
+  <string name="airkan_video_playing_in">La vidéo est</string>
   <string name="app_name">Vidéo</string>
   <string name="buffering">Mise en mémoire tampon…</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon…</string>
   <string name="loading_video_netplay_label">Chargement, veuillez patienter…</string>
   <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter…</string>
-  <string name="menu_item_about_label">À propos</string>
-  <string name="menu_item_orientation_auto_sensor_action">Activer la rotation</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Désactiver la rotation</string>
-  <string name="menu_item_sub_title">Sous titres</string>
   <string name="nowifi_alert_dialog_continue">Continuer</string>
   <string name="nowifi_alert_dialog_exit">Quitter</string>
   <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
@@ -42,7 +46,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="video_info_audio_bitrate_label">Débit audio :</string>
   <string name="video_info_audio_coding_label">Format de codage audio :</string>
   <string name="video_info_audio_null">Aucun</string>
-  <string name="video_info_frame_rate_label">Images par secondes :</string>
+  <string name="video_info_frame_rate_label">Images par seconde :</string>
   <string name="video_info_length_label">Durée :</string>
   <string name="video_info_resolution_label">Résolution vidéo :</string>
   <string name="video_info_video_coding_label">Format de codage vidéo :</string>
@@ -51,12 +55,9 @@ la vidéo sur votre box ou TV"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Désolé, le format vidéo sélectionné n\'est pas valide pour la diffusion sur cet appareil</string>
   <string name="vp_VideoView_error_text_unknown">Désolé, le format vidéo sélectionné ne peut pas être lu</string>
   <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
-<!-- remplacer améliorateur ? : -->
+<!-- à remplacer améliorateur ? : -->
   <string name="menu_item_enable_audio_enhance">"Activer l'equalizer"</string>
   <string name="menu_item_disable_audio_enhance">"Désactiver l'equalizer"</string>
-  <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>
-  <string name="menu_item_disable_3d_mode">Désactiver le mode 3D</string>
-  <string name="menu_item_enable_3d_mode">Activer le mode 3D</string>
   <string name="vp_select_ci">Sélectionner</string>
   <string name="vp_offline">Hors-ligne</string>
   <string name="vp_next_ci">Suivant</string>
@@ -131,7 +132,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="dlna_list_name">Appareil DLNA</string>
   <string name="download_is_success">Téléchargement terminé</string>
   <string name="receive_mipush">Recevoir les messages push</string>
-  <string name="receive_mipush_summary">Afficher  des notifications en cas de disponibilité de nouveaux contenus</string>
+  <string name="receive_mipush_summary">Afficher des notifications en cas de disponibilité de nouveaux contenus</string>
   <string name="mipush_setting">Push Xiaomi</string>
   <string name="defaults">Par défaut</string>
   <string name="done">OK</string>
@@ -243,12 +244,15 @@ la vidéo sur votre box ou TV"</string>
   <string name="forecasts">Programme</string>
   <string name="select_tv_empty_hint">Aucune chaine</string>
   <string name="forecast_empty_hint">Aucun programme</string>
+  <string name="prefix_countdown">temps publicité restant :</string>
+  <string name="suffix_countdown">sec</string>
+  <string name="ad_moredetail">plus d\'infos</string>
 <!-- à traduire, pas visible ?-->
-  <string name="vp_error_get_play_url_back_to_continue">"Can't find URL for this video."</string>
+  <string name="vp_newest_ep">Newest now</string>
   <string name="vp_content_description">Content description</string>
   <string name="vp_get_url_error">"Can't find URL for this video."</string>
   <string name="vp_select_source">Select source</string>
-  <string name="vp_milink">MiLink</string>
+  <string name="vp_milink">Mi Link</string>
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_select_ep">Select episode</string>
   <string name="search_online_video">Search online video</string>

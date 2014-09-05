@@ -5,7 +5,7 @@
   <string name="find_device">Localisation de l\'appareil</string>
   <string name="app_name">Mi Cloud</string>
   <string name="find_device_stop_noise">Arrêter l\'alerte sonore</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les messages contenants des photos, audio ou autre médias, réduit l\'usage des données</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les messages contenants des photos, audio ou autres médias, réduit l\'usage des données</string>
   <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Wi-Fi uniquement</string>
   <string name="pref_title_sync_my_profile_title">Synchroniser mon profil</string>
@@ -69,8 +69,8 @@
   <string name="noRemind">Ne pas rappeler</string>
   <string name="restoreSync">Synchroniser</string>
   <string name="enableAll">Tout synchroniser</string>
-  <string name="micloud_title_dspt" formatted="false">"Espace total %s
- utilisé %s | restant %s"</string>
+  <string name="micloud_title_dspt" formatted="false">"Espace total : %s
+utilisé : %s | restant : %s"</string>
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">Limite de stockage atteinte !</string>
   <string name="micloud_user_space_usage">Espace utilisé</string>
@@ -106,8 +106,8 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="master_alert_notif_dspt_no">"Tout est synchronisé."</string>
   <string name="sub_alert_notif_dspt_add">"%s non synchronisé."</string>
   <string name="sub_alert_notif_dspt_no">"Tout est synchronisé."</string>
-  <string name="micloud_space_full_influence"><u>Que se passe-t-il quand je n\'ai plus d\'espace?</u></string>
-  <string name="error_data_in_transfer">Vos données sont en train d\'être transférées. veuillez patienter %s heures.</string>
+  <string name="micloud_space_full_influence"><u>Que se passe-t-il quand je n\'ai plus d\'espace ?</u></string>
+  <string name="error_data_in_transfer">Vos données sont en train d\'être transférées. Veuillez patienter %s heures.</string>
   <string name="error_data_in_transfer_title">Le service Mi Cloud n\'est pas disponible actuellement.</string>
   <string name="find_device_dspt">Verrouiller ou effacer cet appareil à distance.</string>
   <string name="sync_sub_dspt_provision">Voir et gérer vos données depuis n\'importe où</string>
@@ -115,7 +115,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="cmcc_micloud_dspt">Utilisez Mi Cloud pour synchroniser vos données,</string>
   <string name="micloud_sec_dspt">localiser votre appareil et partager avec des amis.</string>
   <string name="micloud_dspt_provision">Utilisez Mi Cloud pour synchroniser vos données, localiser votre appareil et partager avec des amis.</string>
-  <string name="micloud_storage_usage" formatted="false">Utilisé : %s/Total : %s</string>
+  <string name="micloud_storage_usage" formatted="false">utilisé : %s | total : %s</string>
   <string name="storage">Espace de stockage</string>
   <string name="setting">Paramètres</string>
   <string name="sync_setting">Économie des données</string>
@@ -125,13 +125,11 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="photo">Photos</string>
   <string name="contact">Contacts</string>
   <string name="sms">SMS</string>
+  <string name="cloud_sync_setting_summary_standard">Les photos, videos, MMS, données des applis et images des contacts ne seront synchronisés qu\'en Wi-Fi, le reste le sera via le réseau mobile</string>
+  <string name="cloud_sync_setting_summary_wlan">Les données seront synchronisés uniquement via Wi-Fi</string>
+  <string name="enable_cloud_service_notification">Vous n\'avez pas activer le service Mi Cloud</string>
   
-  
-  
-<!-- à traduire -->
-  <string name="cloud_sync_setting_summary_standard">Standard: Under WLAN sync photo, video, MMS, app data and contact image, sync other data in mobile network</string>
-  <string name="cloud_sync_setting_summary_wlan">Only in WLAN: Sync all data only in WLAN</string>
-  <string name="enable_cloud_service_notification">"You haven't turned on cloud service"</string>
+<!-- à traduire ? ou pas..? 4.8.30 cancroalpha-->
   <string name="app_sync_off">app sync off</string>
   <string name="current">current</string>
   <string name="data_syncing">data syncing</string>

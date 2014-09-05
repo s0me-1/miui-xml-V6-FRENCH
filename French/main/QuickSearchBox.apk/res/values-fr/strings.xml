@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -45,12 +45,12 @@
   <string name="google_settings_category_title">Recherche Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">Aide</string>
-  <string name="menu_settings">Rechercher dans les paramètres</string>
+  <string name="menu_settings">Paramètres de recherche</string>
   <string name="remove_from_history">Supprimer de l\'historique des recherches ?</string>
   <string name="remove_from_history_failed">Impossible de supprimer l\'élément de l\'historique.</string>
   <string name="search_in_app_store">Rechercher sur le market</string>
   <string name="search_in_web">Rechercher sur internet</string>
-  <string name="search_settings">Paramètres de recherche</string>
+  <string name="search_settings">Rechercher dans les paramètres</string>
   <string name="search_sources">Sources</string>
   <string name="search_sources_summary">Sélection des sources à explorer sur l\'appareil lors d\'une recherche</string>
   <string name="search_widget">Rechercher</string>

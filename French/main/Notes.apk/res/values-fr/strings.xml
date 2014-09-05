@@ -79,7 +79,7 @@
   <string name="alarm_bar_title">Rappel</string>
   <string name="permlab_accessNote">Accéder aux notes Mi</string>
   <string name="permdesc_accessNote">Les applications malicieuses peuvent utiliser ceci pour accéder à vos données personnelles.</string>
-  <string name="menu_source">De : %1$s</string>
+  <string name="menu_source">De : %1$s</string>
   <string name="unknown_source">Source inconnue</string>
   <string name="menu_send_weibo">Partager via Weibo</string>
   <string name="menu_send_wechat">Partager via WeChat</string>

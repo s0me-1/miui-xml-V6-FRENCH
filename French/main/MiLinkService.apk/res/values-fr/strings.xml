@@ -5,5 +5,5 @@
   <string name="app_name">Service UniPlay</string>
   <string name="service_name">Service UniPlay</string>
   <string name="notification_rc_title">Télécommande Xiaomi</string>
-  <string name="notification_rc_desc">Vous pouvez utiliser la télécommande pour contrôler votre TV ou Box Xiaomi</string>
+  <string name="notification_rc_desc">Vous pouvez utiliser la télécommande pour contrôler votre MiTV ou MiBox</string>
 </resources>

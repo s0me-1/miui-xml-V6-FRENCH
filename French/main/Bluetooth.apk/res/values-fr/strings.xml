@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -22,8 +22,8 @@
 <resources>
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="ack_record">Enregistrement accusé de réception</string>
-  <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode Avion.</string>
-  <string name="airplane_error_title">Mode Avion</string>
+  <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode avion.</string>
+  <string name="airplane_error_title">Mode avion</string>
   <string name="app_name">Partage Bluetooth</string>
   <string name="auth_notif_message">Saisir la clé de session de %1$s</string>
   <string name="auth_notif_ticker">"Demande d\'authentification OBEX"</string>
@@ -40,7 +40,7 @@
   <string name="bt_toast_2">Impossible de recevoir le fichier.</string>
   <string name="bt_toast_3">Réception du fichier de "%1$s" interrompue</string>
   <string name="bt_toast_4">Envoi du fichier à "%1$s"</string>
-  <string name="bt_toast_5">Envoi de %1$s fichiers à "%2$s"</string>
+  <string name="bt_toast_5">Envoi de %1$s fichiers à "%2$s"</string>
   <string name="bt_toast_6">Envoi du fichier à "%1$s" interrompu</string>
   <string name="btopp_live_folder">Reçu par Bluetooth</string>
   <string name="defaultname">Kit mains libres</string>
@@ -137,4 +137,10 @@
   <string name="upload_succ_line5">Fichier envoyé</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>
+  <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
+  <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
+  <string name="bluetooth_preference_found_devices">Appareils</string>
+  <string name="progress_scanning">Recherche en cours</string>
+  <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
+  <string name="ble_device_connected">Appareil connecté</string>
 </resources>

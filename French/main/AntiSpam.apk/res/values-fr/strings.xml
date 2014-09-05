@@ -3,7 +3,7 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <string name="app_name">Anti-Spam</string>
-  <string name="bl_block_info" formatted="false">Bloqué(s) : %d appel(s), %d SMS</string>
+  <string name="bl_block_info" formatted="false">Bloqués : %d appel(s), %d SMS</string>
   <string name="wl_no_whitelist">Liste blanche vide</string>
   <string name="bl_no_blacklist">Aucun numéro bloqué</string>
   <string name="bl_no_block_call">Aucun appel bloqué</string>
@@ -207,19 +207,19 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_title_back_sound_stop">Ce numéro n\'est pas attribué</string>
   <string name="st_title_call_wait_setting">Paramètres d\'appel en attente</string>
   <string name="st_title_call_wait">Appel en attente</string>
-<!-- st_sum_call_wait à revoir formulation -->
+<!-- à revoir formulation st_sum_call_wait -->
   <string name="st_sum_call_wait">Si votre signal d\'occupation n\'est pas réglé par défaut, cela peut être source de confusions pour un appelant.</string>
   <string name="st_antispam_bw_man_add">Ajouter un numéro de téléphone</string>
   <string name="st_antispam_bw_head_add">Ajouter un préfixe</string>
   <string name="st_antispam_bw_pick_add">Choisir un contact</string>
   <string name="st_antispam_bw_adress_add">Choisir un lieu</string>
   <string name="st_antispam_black_adress_add">Choisir la région</string>
-<!-- st_antispam_bw_choose_modes à revoir ? modif 4.6.12 : Blocked numbers -->
+<!-- à revoir st_antispam_bw_choose_modes ? modif 4.6.12 : Blocked numbers -->
   <string name="st_antispam_bw_choose_modes">Sélection du mode</string>
   <string name="hint_antispam_mode_edit">Mode personnalisé</string>
   <string name="st_title_adress">Sélectionner un lieu</string>
   <string name="st_title_adress_num">%d sélectionné</string>
-<!-- trop long à vérifier/ revoir formulation : -->
+<!-- à vérifier/ trop long? revoir formulation : -->
   <string name="SMS_BLACKLIST">SMS en liste noire</string>
   <string name="SMS_PREFIX">Préfixe en liste noire</string>
   <string name="SMS_DEFAULT">Liste noire partagée</string>
@@ -261,4 +261,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
   <string name="AD_COUNT">Bloqués : %d</string>
   <string name="AD_TITLE_COUNT">Applis contenant des adwares : %d</string>
-  </resources>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+  <string name="st_title_not_sim">Vide</string>
+  <string name="sim_not_ready">Carte SIM non prête</string>
+</resources>

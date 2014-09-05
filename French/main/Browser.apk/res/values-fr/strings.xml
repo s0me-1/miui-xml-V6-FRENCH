@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2013 The Android Open Source Project
 *
@@ -23,7 +23,7 @@
   <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
   <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
   <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
-  <string name="webapp_app_name">Boutique Web MiMarket</string>
+  <string name="webapp_app_name">Boutique Web Mi Market</string>
   <string name="dialog_geolocation_reject">Masquer la position</string>
   <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
@@ -270,7 +270,7 @@
   <string name="pref_content_javascript">Activer JavaScript</string>
   <string name="pref_content_load_page">Aperçu des pages</string>
   <string name="pref_content_load_page_summary">Afficher un aperçu des pages ouvertes récemment</string>
-  <string name="pref_content_night_read_mode">Activer le mode Nuit</string>
+  <string name="pref_content_night_read_mode">Activer le mode nuit</string>
   <string name="pref_content_open_in_background">Ouvrir en arrière-plan</string>
   <string name="pref_content_open_in_background_summary">Ouvrir le nouvel onglet derrière l\'onglet actuel</string>
   <string name="pref_content_plugins">Activer les plugins</string>
@@ -478,7 +478,7 @@
   <string name="warning">Avertissement</string>
   <string name="website_settings_clear_all">Tout effacer</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Annuler</string>
-  <string name="website_settings_clear_all_dialog_message">Supprimer toutes les données et les autorisations de localisation du site Web ?</string>
+  <string name="website_settings_clear_all_dialog_message">Supprimer toutes les données et les autorisations de localisation du site Web ?</string>
   <string name="website_settings_clear_all_dialog_ok_button">OK</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Annuler</string>
   <string name="webstorage_clear_data_dialog_message">Suppression des données stockées par ce site.</string>
@@ -652,6 +652,8 @@
   <string name="quicklink_not_saved">Impossible d\'ajouter sur la page d\'accueil</string>
   <string name="add_quicklinks">Ajouter</string>
   <string name="add_ql_bm_title">Enregistrer</string>
+  <string name="add_to_desk">Ajouter sur l\'écran d\'accueil</string>
+  <string name="add_to_desk_success">Ajouté sur l\'écran d\'accueil</string>
   <string name="action_menu_text_bookmark">Ajouter favori</string>
   <string name="action_menu_text_share">Partager</string>
   <string name="action_menu_text_history">Favoris/Historique</string>
@@ -689,14 +691,14 @@
   <string name="bookmark_URL_already_exisit">Ce lien est déjà présent dans vos favoris</string>
   <string name="add_new_quicklink">Ajouter lien rapide</string>
   <string name="url_opened_in_background">Ouvrir dans un onglet en arr.-plan</string>
-  <string name="share_page_text">"Jette un oeil à ce lien : 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"Jette un oeil à ce lien : 【%1$s】 | %2$s"</string>
   <string name="qr_code_title">Code QR</string>
   <string name="save_to_camera">Enregistrer l\'image</string>
   <string name="copy_url">Copier l\'URL</string>
   <string name="create_qr_code">Code QR</string>
   <string name="save_to_camera_success">Image enregistrée</string>
   <string name="save_to_camera_failed">Échec de l\'enregistrement</string>
-  <string name="sdcard_error">Veuillez vérifiez votre carte SD</string>
+  <string name="sdcard_error">Veuillez vérifier votre carte SD</string>
   <string name="download_phone_tip">Téléphone</string>
   <string name="download_router_tip">Mi router</string>
   <string name="router_download_exist">Ce fichier existe déjà</string>

@@ -3,5 +3,5 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
  <resources>
   <string name="mi_wallpaper_loading">Chargement…</string>
-  <string name="mi_wallpaper_title">MiWallpaper</string>
+  <string name="mi_wallpaper_title">Mi Wallpaper</string>
  </resources>

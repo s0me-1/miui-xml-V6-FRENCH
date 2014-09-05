@@ -2,7 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="accessibility_airplane_mode">Mode Avion</string>
+  <string name="accessibility_airplane_mode">Mode avion</string>
   <string name="accessibility_back">Retour</string>
   <string name="accessibility_battery_level">Batterie à %d pour cent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté</string>
@@ -81,7 +81,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Mode Voiture activé - Gardez un œil sur la route</string>
+  <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
   <string name="ext_media_checking_notification_title">Préparation du stockage USB</string>
   <string name="ext_media_nofs_notification_title">Stockage USB vide</string>
   <string name="ext_media_nofs_notification_message">Le stockage USB est vide ou illisible.</string>
@@ -131,7 +131,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_otg_trackball_out">Trackball déconnecté</string>
   <string name="notification_otg_unknow_in">Périphérique OTG connecté</string>
   <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
-  <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>
+  <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
@@ -157,11 +157,11 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_guide_bottom">Glisser vers le bas pour verrouiller</string>
   <string name="status_bar_recent_guide_top">Glisser vers le haut pour fermer</string>
   <string name="status_bar_recent_inspect_item_title">Informations sur l\'application</string>
-  <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
+  <string name="status_bar_recording_back">Appuyer pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
-  <string name="status_bar_settings_airplane">Mode Avion</string>
+  <string name="status_bar_settings_airplane">Mode avion</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion Internet</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
@@ -170,8 +170,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
   <string name="status_bar_toggle_divider">Plus</string>
-  <string name="status_bar_toggle_drive_mode">Mode Voiture</string>
-  <string name="status_bar_toggle_flight_mode">Mode Avion</string>
+  <string name="status_bar_toggle_drive_mode">Mode voiture</string>
+  <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
   <string name="status_bar_toggle_mute">Silencieux</string>
@@ -228,7 +228,7 @@ d MMMM yyyy"</string>
   <string name="usb_storage_title">Périphérique USB connecté</string>
   <string name="user_guide_for_notification">Lors de la réception d\'une notification, vous pouvez faire glisser la barre d\'état vers le bas pour voir le détail</string>
   <string name="user_guide_for_toggle">La liste d\'activation peut défiler horizontalement</string>
-  <string name="user_guide_for_toggle_list">Appuyez ici pour modifier les paramètres d\'activation/désactivation</string>
+  <string name="user_guide_for_toggle_list">Appuyer pour modifier les paramètres</string>
   <string name="call_status_ringing">Sonnerie</string>
   <string name="reject_call">Rejeter l\'appel</string>
   <string name="accessibility_search_light">Recherche</string>
