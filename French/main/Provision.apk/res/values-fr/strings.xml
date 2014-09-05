@@ -8,7 +8,7 @@
   <string name="other_settings_location">Localisation</string>
   <string name="other_settings_location_summary">Permet aux applications de vous géolocaliser</string>
   <string name="other_settings_user_experience">Programme d\'expérience utilisateur</string>
-  <string name="other_settings_user_experience_summary">"Envoyer des statisques anonymes à Xiaomi "</string>
+  <string name="other_settings_user_experience_summary">"Envoyer des statistiques anonymes à Xiaomi "</string>
   <string name="welcome">Bienvenue</string>
   <string name="other_settings_user_experience_summary1">(politique de confidentialité)</string>
   <string name="sim_card_detection">Carte SIM non détectée</string>
