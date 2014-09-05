@@ -2797,7 +2797,13 @@ et lancer le logiciel."</string>
   <string name="other_personal_settings">Plus…</string>
   <string name="wireless_on">Actif</string>
   <string name="wireless_off">Inactif</string>
-  
+  <string name="download_current_rom">Télécharger la ROM complète</string>
+  <string name="view_install_log">Afficher le journal d\'erreur</string>
+  <string name="install_whole_rom">Télécharger la ROM (standard)</string>
+  <string name="apply_update_fail">La mise à jour a échoué</string>
+  <string name="mione_update_success_title">Màj effectuée</string>
+  <string name="now">Plus tard</string>
+
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>
