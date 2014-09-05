@@ -125,8 +125,6 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="preference">Paramètres</string>
   <string name="pwd_pref">Protéger le tag contre la réécriture</string>
   <string name="pwd_pref_desc">Permet de protéger par mot de passe un tag contre les réécritures</string>
-  <string name="pwd_prot_off">OFF</string>
-  <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Lecture d\'un tag</string>
   <string name="reading">Lecture…</string>
  <!-- à voir remote_app ... -->
@@ -213,4 +211,10 @@ Taille delta patch : %2$s"</string>
   <string name="gps">GPS</string>
   <string name="data">Données</string>
   <string name="data_net">Réseaux mobiles</string>
+  <string name="err_parse_external_data">Ce type de fichier n\'est pas supporté</string>
+  <string name="err_tag_protected">Ce tag est protégé. Veuillez saisir le mot de passe.</string>
+  <string name="failed_to_erase">Échec de l\'effacement du tag</string>
+  <string name="failed_to_write">Échec de l\'écriture du tag</string>
+  <string name="pwd_alert">Veuillez définir un mot de passe</string>
+  <string name="writing">Écriture…</string>
 </resources>
