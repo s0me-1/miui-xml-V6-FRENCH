@@ -264,15 +264,15 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="datausage_purchase_order_history">Historique</string>
   <string name="datausage_purchase_none_history">Vide</string>
   <string name="datausage_purchase_time_in">" le "</string>
-  
+  <string name="main_traffic_used">%s utilisés</string>
 <!-- à traduire-->
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
   <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
+  
 <!-- non utilisées hors chine? -->
   <string name="datausage_purchase_order_failure">Purchase failed</string>
   <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
-  <string name="main_traffic_used">%s used</string>
   <string name="main_primary_message_traffic_enough">Under data usage limit</string>
   <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
   <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>

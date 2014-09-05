@@ -48,9 +48,8 @@
       <item quantity="other">Plus que %1$d étapes avant le rapport de bogue.</item>
       <item quantity="one">Plus que %1$d étape avant le rapport de bogue.</item>
   </plurals>
-<!-- à traduire -->
   <plurals name="show_pho_countdown">
-      <item quantity="other">You are now %1$d steps away from entering phone info.</item>
-      <item quantity="one">You are now %1$d step away from entering phone info.</item>
+      <item quantity="other">Plus que %1$d étapes avant d\'accéder aux informations du téléphone.</item>
+      <item quantity="one">Plus que %1$d étape avant d\'accéder aux informations du téléphone.</item>
   </plurals>
 </resources>

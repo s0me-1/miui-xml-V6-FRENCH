@@ -160,7 +160,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="application_item_disable">Désactiver</string>
   <string name="application_item_permission">Autoriser</string>
   <string name="application_size_label">Application</string>
-  <string name="applications_settings">Applications installées</string>
+  <string name="applications_settings">Toutes les applications</string>
   <string name="applications_settings_header">Paramètres de l\'application</string>
   <string name="applications_settings_summary">Gérer les applications, configurer des raccourcis de lancement rapide</string>
   <string name="ask_compatibility">Demander au moment du lancement</string>

@@ -6,11 +6,11 @@
   <string name="altitude_title">Altitude</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Boussole</string>
-  <string name="calibrate_failed_no_location">L\'étalonnage a échoué : Impossible d\'obtenir la latitude et longitude actuelles</string>
+  <string name="calibrate_failed_no_location">Échec de l\'étalonnage : impossible d\'obtenir la latitude et longitude actuelles</string>
   <string name="calibrate_failed_timeout">Échec de l\'étalonnage : délai d\'attente du serveur écoulé</string>
   <string name="calibrate_success">Étalonnage complet</string>
   <string name="cannot_get_location">Inconnue</string>
-  <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion internet…</string>
+  <string name="dialog_calibrat_altitude">Étalonnage de l\'altitude via la connexion internet…</string>
   <string name="dialog_title_no_network">Aucun réseau trouvé, connectez-vous au Wi-Fi ou activez la connexion de données</string>
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
@@ -25,15 +25,15 @@
   <string name="location_south">S</string>
   <string name="location_west">O</string>
   <string name="getting_location">Localisation en cours…</string>
-  <string name="guide_toast">Il peut y avoir des interférences de champ magnétique, veuillez étalonner la boussole en utilisant le geste suivant.</string>
+  <string name="guide_toast">Veuillez étalonner la boussole en reproduisant le geste suivant.</string>
   <string name="latitude">Latitude</string>
   <string name="longitude">Longitude</string>
-  <string name="menu_calibrate">Calibrer</string>
+  <string name="menu_calibrate">Étalonner</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pression</string>
   <string name="pressure_unit">hPa</string>
   <string name="mobiledata_alert_dialog_title">Information</string>
-  <string name="mobiledata_alert_dialog_message">Se connecter à internet pour calibrer l\'altitude ?</string>
+  <string name="mobiledata_alert_dialog_message">Se connecter à internet pour étalonner l\'altitude ?</string>
   <string name="do_not_show_next_time">Ne plus afficher</string>
-  <string name="calibrate_altitude">Calibrer</string>
+  <string name="calibrate_altitude">Étalonner</string>
 </resources>

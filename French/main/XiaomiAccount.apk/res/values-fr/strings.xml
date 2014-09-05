@@ -309,7 +309,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="reg_using_other_phone">Inscription avec un autre numéro</string>
   <string name="reg_via_sms_alert">Le SMS d\'activation peut être assujetti à des frais supplémentaires</string>
   <string name="scan_barcode_title">Connectez-vous à votre compte Mi en scannant le code QR</string>
+  <string name="license_host_unreachable">Impossible d\'accéder à internet. Pour afficher ces informations, accédez à %s</string>
 <!-- à traduire -->
   <string name="error_ssl_hand_shake">Error with server connection. Try set your system date-time to current time.</string>
-  <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
 </resources>

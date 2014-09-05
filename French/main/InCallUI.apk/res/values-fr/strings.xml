@@ -633,14 +633,13 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_error_unknown">Une erreur inconnue s\'est produite</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="online_check_provider_info">Identifié par %s</string>
-<!-- à traduire -->
+  <string name="callFailed_incoming_cb_enabled">Le groupe a interdit tous les appels entrants.</string>
+  <string name="upgrade_vt_prompt">Voulez-vous passer de l\'appel vocal à l\'appel vidéo ?</string>
+  <string name="upgrade_vt_tx_prompt">Voulez-vous passer de l\'appel vidéo à l\'appel vocal ?</string>
+  <string name="upgrade_vt_rx_prompt">Voulez-vous recevoir uniquement l\'appel vocal à la place de l\'appel vidéo ?</string>
+  <string name="vt_init_fail_str">L\'initialisation de la transmission vidéo a échoué. Déclassement de l\'appel à VoLTE\n</string>
+  <!-- à traduire -->
   <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
   <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
-  <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
-  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
-  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
-  <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
-"</string>
-  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
 </resources>
