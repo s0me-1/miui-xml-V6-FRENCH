@@ -726,7 +726,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_vip_call_button_title">Autoriser les appels des exceptions</string>
   <string name="dndm_vip_call_setting_title">Paramètres des exceptions</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
-  <string name="dndm_vip_call_summary_custom">Exception(s : %d </string>
+  <string name="dndm_vip_call_summary_custom">Exceptions : %d </string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
   <string name="dndm_vip_list_contact">Tous les contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
@@ -1114,8 +1114,8 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_title">Disponible %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Annuler</string>
   <string name="menu_delete">Supprimer l\'APN</string>
-  <string name="menu_new">Nouvel APN</string>
-  <string name="menu_restore">Paramètres usine</string>
+  <string name="menu_new">Ajouter</string>
+  <string name="menu_restore">Réinitialiser</string>
   <string name="menu_save">Enregistrer</string>
   <string name="menu_stats_last_unplugged">Depuis le dernier débranchement (%1$s)</string>
   <string name="menu_stats_refresh">Actualiser</string>
@@ -1237,7 +1237,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="power_usage_summary_title">Batterie</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Activer l\'éclairage</string>
-  <string name="pref_button_light_summary">Éclaire les touche Menu, Accueil et Retour</string>
+  <string name="pref_button_light_summary">Éclaire les touches Menu, Accueil et Retour</string>
   <string name="pref_operational_key">Touches opérationnelles</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
