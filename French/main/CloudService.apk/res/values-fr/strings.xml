@@ -132,7 +132,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="enable_cloud_service_notification">Vous n\'avez pas activer le service Mi Cloud</string>
   <string name="sync_item_calllog_title">Synchroniser le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
-  <string name="finish">finish</string>
+  <string name="micloud_main_last_sync_time">dernière synchronisation</string>
 <!-- à traduire ?-->
   <string name="micloud_first_login_title" />
   <string name="micloud_first_login_summary" />
@@ -145,7 +145,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_main_network_error">Network does not work. Please check network settings.</string>
   <string name="micloud_main_sync_on_wifi">data will sync on wifi</string>
   <string name="micloud_main_data_unsynced">%d data not synced</string>
-  <string name="micloud_main_last_sync_time">last sync time</string>
+  <string name="finish">finish</string>
   <string name="app_sync_off">app sync off</string>
   <string name="current">current</string>
   <string name="data_syncing">data syncing</string>
