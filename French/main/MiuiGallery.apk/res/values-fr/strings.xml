@@ -269,9 +269,9 @@
   <string name="messagelist_sender_self">Moi</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">Dessins MiTalk</string>
-  <string name="miliao_saved_folder_display_name">Enregistrements MiTalk</string>
+  <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">Type MIME</string>
-  <string name="mishop_saved_folder_display_name">Enregistrements MiShop</string>
+  <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
   <string name="more">Plus</string>
   <string name="move_to_cloud_album">Déplacer vers Mi Cloud</string>
@@ -437,7 +437,7 @@
   <string name="tab_wallpaper_text">Accueil</string>
   <string name="tags">Tags</string>
   <string name="temperature">Chaleur</string>
-  <string name="tencent_mobile_qq_img_save">QQ 2012</string>
+  <string name="tencent_mobile_qq_img_save">QQ</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="there_is_no_image">Aucune image.</string>
@@ -532,7 +532,7 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
-  <string name="cloudfolder_loading_data">(Chargement des données…)</string>
+  <string name="cloudfolder_loading_data">(Chargement…)</string>
   <string name="photo_paint_crop">Recadrer</string>
   <string name="photo_paint_rotate">Rotation</string>
   <string name="only_show_camera_in_first_page">Afficher uniquement l\'album photo</string>
