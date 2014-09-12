@@ -93,7 +93,7 @@ Réessayer dans %d secondes."</string>
   <string name="delete">Supprimer</string>
   <string name="lockscreen_charging_msg">En charge</string>
   <string name="default_lockscreen_unlock_hint_text">Glisser pour déverrouiller</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par Bluetooth</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg"/>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Le périphérique Bluetooth est trop éloigné pour déverrouiller l\'appareil.</string>
   <string name="missed_call_text">Appels manqués : %d</string>
   <string name="wrong_password">Mot de passe incorrect</string>

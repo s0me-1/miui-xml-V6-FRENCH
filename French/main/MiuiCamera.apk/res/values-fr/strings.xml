@@ -180,7 +180,7 @@
   <string name="pref_advanced_functions">Fonctions avancées</string>
   <string name="pref_advanced_settings">Paramètres avancés</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-  <string name="pref_camera_antibanding_entry_0">Off</string>
+  <string name="pref_camera_antibanding_entry_0">Désactivé</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
@@ -350,9 +350,10 @@
   <string name="pref_video_focusmode_entry_auto">Toucher</string>
   <string name="pref_video_focusmode_entry_continuous">AutoFocus continu</string>
   <string name="pref_video_focusmode_title">Mode de focus</string>
-  <string name="pref_video_quality_entry_1080p">Full HD</string>
-  <string name="pref_video_quality_entry_480p">SD</string>
-  <string name="pref_video_quality_entry_720p">HD</string>
+  <string name="pref_video_quality_entry_4kuhd">4K (Ultra HD)</string>
+  <string name="pref_video_quality_entry_1080p">1080p (Full HD)</string>
+  <string name="pref_video_quality_entry_480p">480p (SD)</string>
+  <string name="pref_video_quality_entry_720p">720p (HD ready)</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
@@ -479,4 +480,11 @@
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_front_fb_title">Améliorer le teint de peau</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
+  <string name="setting_top_text">Options</string>
+  <string name="simple_mode_button_text_ubifocus">Quitter le mode Refocus</string>
+  <string name="ubi_focus_capture_fail">Échec de la capture</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>
+  <string name="pref_camera_ubifocus_title">Refocus</string>
+  <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
+  <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
 </resources>

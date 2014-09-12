@@ -2,6 +2,14 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+<!-- suppr cancrobeta 4.9.11 -->
+  <string name="micloud_intro_01_part_01">Sauvegardez vos données dans le cloud</string>
+  <string name="micloud_intro_01_part_02">Messagerie gratuite via Mi Cloud</string>
+  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
+  <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
+  <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
+  <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.mi.com.</string>
+<!-- -->
   <string name="find_device">Localisation de l\'appareil</string>
   <string name="app_name">Mi Cloud</string>
   <string name="find_device_stop_noise">Arrêter l\'alerte sonore</string>
@@ -55,12 +63,6 @@
   <string name="enable_micloud">S\'inscrire ou se connecter</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="micloud_intro_01_part_01">Sauvegardez vos données dans le cloud</string>
-  <string name="micloud_intro_01_part_02">Messagerie gratuite via Mi Cloud</string>
-  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
-  <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
-  <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
-  <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.mi.com.</string>
   <string name="start_micloud">Activer</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="master_alert_notif_title">Dernière synchronisation il y a %s jours</string>
@@ -130,8 +132,20 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="enable_cloud_service_notification">Vous n\'avez pas activer le service Mi Cloud</string>
   <string name="sync_item_calllog_title">Synchroniser le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
-  
-<!-- à traduire ? ou pas..? 4.8.30 cancroalpha-->
+  <string name="finish">finish</string>
+<!-- à traduire ?-->
+  <string name="micloud_first_login_title" />
+  <string name="micloud_first_login_summary" />
+  <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
+  <string name="micloud_unlogin_for_time_summary" />
+  <string name="micloud_main_sync_stop">Sync Stop</string>
+  <string name="micloud_main_stop_sync">stop sync</string>
+  <string name="micloud_main_suggest_sync">Your data in Mi cloud is out of data. Please synchronous data.</string>
+  <string name="micloud_main_sync_now">sync now</string>
+  <string name="micloud_main_network_error">Network does not work. Please check network settings.</string>
+  <string name="micloud_main_sync_on_wifi">data will sync on wifi</string>
+  <string name="micloud_main_data_unsynced">%d data not synced</string>
+  <string name="micloud_main_last_sync_time">last sync time</string>
   <string name="app_sync_off">app sync off</string>
   <string name="current">current</string>
   <string name="data_syncing">data syncing</string>

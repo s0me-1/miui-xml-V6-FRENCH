@@ -46,7 +46,7 @@
 <!-- YellowPage related -->
   <string name="yellow_page_website">Site officiel</string>
   <string name="menu_copy_text">Copier dans le presse-papier</string>
-  <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>
+  <string name="menu_call_ip_number">Appel via SIP (%s)</string>
   <string name="toast_text_copied">Texte copié</string>
 
 <!-- Call log related -->

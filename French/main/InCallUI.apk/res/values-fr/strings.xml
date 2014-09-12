@@ -491,7 +491,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="sip_receive_calls_summary">Réduit la durée de vie de la batterie</string>
   <string name="sip_call_options_title">Passer un appel SIP</string>
   <string name="sip_call_options_wifi_only_title">Appels SIP (Wi-Fi uniquement)</string>
-  <string name="sip_call_options_entry_1">Pour tous les appels quand un réseau de données est disponible</string>
+  <string name="sip_call_options_entry_1">Pour tous les appels (si réseau data dispo.)</string>
   <string name="sip_call_options_entry_2">Seulement pour les appels SIP</string>
   <string name="sip_call_options_entry_3">Demander à chaque fois</string>
   <string name="sip_call_options_wifi_only_entry_1">Pour tous les appels</string>

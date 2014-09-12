@@ -363,13 +363,13 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
   <string name="notification_missedCall_call_back">Rappeler</string>
   <string name="notification_missedCall_message">Message</string>
-  <string name="incall_error_power_off">Veuillez d\'abord désactiver le mode avion, afin d\'effectuer un appel.</string>
+  <string name="incall_error_power_off">Afin d\'effectuer un appel, veuillez désactiver le mode avion.</string>
   <string name="incall_error_emergency_only">Non enregistré sur le réseau.</string>
   <string name="incall_error_out_of_service">Réseau mobile non disponible</string>
   <string name="incall_error_no_phone_number_supplied">L\'appel n\'a pas été effectué. Le numéro composé n\'est pas valide.</string>
   <string name="incall_error_call_failed">L\'appel n\'a pas été effectué.</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM…</string>
-  <string name="incall_error_turn_off_airplane_mode">Désactivez le mode avion</string>
+  <string name="incall_error_turn_off_airplane_mode">Désactiver</string>
   <string name="emergency_enable_radio_dialog_title">Appel d\'urgence</string>
   <string name="dial_emergency_error">L\'appel n\'a pas été effectué. %s n\'est pas un numéro d\'urgence !</string>
   <string name="dial_emergency_empty_error">Appel non effectué. Veuillez composer un numéro d\'urgence !</string>
@@ -444,7 +444,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="sip_receive_calls_summary">Réduit la durée de vie de la batterie</string>
   <string name="sip_call_options_title">Passer un appel SIP</string>
   <string name="sip_call_options_wifi_only_title">Appels SIP (Wi-Fi uniquement)</string>
-  <string name="sip_call_options_entry_1">Pour tous les appels quand un réseau de données est disponible</string>
+  <string name="sip_call_options_entry_1">Pour tous les appels (si réseau data dispo.)</string>
   <string name="sip_call_options_entry_2">Seulement pour les appels SIP</string>
   <string name="sip_call_options_entry_3">Demander à chaque fois</string>
   <string name="sip_call_options_wifi_only_entry_1">Pour tous les appels</string>

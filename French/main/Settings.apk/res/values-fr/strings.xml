@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="later">Plus tard</string>
+  <string name="ringtone_slot_setting_title">Paramètres simple SIM</string>
+  <string name="ringtone_uniform_setting_title">Paramètres double SIMs</string>
   <string name="title_local_resource">Ressources locales</string>
   <string name="online_resource_entry">Ressources en-ligne</string>
   <string name="menu_item_show_more">Afficher plus</string>
@@ -2758,7 +2761,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_title">Déverrouiller via un perif. Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Désactivé</string>
   <string name="bluetooth_unlock_turned_on">Activé</string>
-  <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Affecter à</string>
   <string name="bluetooth_unlock_settings_unlock_device">Déverrouiller l\'appareil</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>

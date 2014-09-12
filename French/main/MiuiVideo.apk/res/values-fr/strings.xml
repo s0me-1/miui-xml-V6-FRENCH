@@ -23,7 +23,7 @@
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_tips">"Appuyer pour diffuser"</string>
-  <string name="airkan_video_playing_in">La vidéo est</string>
+  <string name="airkan_video_playing_in">Vidéo en cours de diffusion sur</string>
   <string name="app_name">Vidéo</string>
   <string name="buffering">Mise en mémoire tampon…</string>
   <string name="episode_suffix">"Ep. %d "</string>

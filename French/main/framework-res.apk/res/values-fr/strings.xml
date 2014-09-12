@@ -626,7 +626,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_transport_pause_description">Bouton de pause</string>
   <string name="lockscreen_transport_play_description">Bouton de lecture</string>
   <string name="lockscreen_transport_stop_description">Bouton d\'arrêt</string>
-  <string name="emergency_calls_only">Appels d\'urgence uniq.</string>
+  <string name="emergency_calls_only">Urgences uniquement</string>
   <string name="lockscreen_network_locked_message">Réseau verrouillé</string>
   <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par clé PUK.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Veuillez consulter le guide utilisateur ou contacter le service client.</string>

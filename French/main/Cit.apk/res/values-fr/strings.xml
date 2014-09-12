@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
   more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+<!-- supprimé 4.9.10 cancroalpha -->
+  <string name="cit_vga_camera_calibration">Calibrage</string>
 <!-- supprimé 4.9.2 cancroalpha -->
   <string name="cit_tool_wifi_exit">Quitter</string>
   <string name="cit_tool_wifi_rx_ap_name">Nom point d\'accès</string>
@@ -279,7 +281,6 @@
   <string name="cit_tool_nfc_st_run">Test</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
   <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
-  <string name="cit_vga_camera_calibration">Calibrage</string>
 <!-- à traduire -->
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
@@ -302,4 +303,11 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
   <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test (2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test (2.402GHz) mode</string>
+  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
+  <string name="cit_camera_calibration_summary">"Test instructions:
+
+1.Tap the calibration button below to enter Camera interface
+2.Press Back button to exit the camera interface
+3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+
 </resources>

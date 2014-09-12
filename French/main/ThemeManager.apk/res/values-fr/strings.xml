@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="resource_unable_to_access">"Nous sommes désolés
+le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
   <string name="apply_default_font_tip">Souhaitez-vous continuer à utiliser la police actuelle ?</string>
   <string name="theme_yes">Oui</string>
   <string name="theme_no">Non</string>

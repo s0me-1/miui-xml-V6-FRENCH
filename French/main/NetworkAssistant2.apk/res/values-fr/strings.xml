@@ -265,6 +265,10 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="datausage_purchase_none_history">Vide</string>
   <string name="datausage_purchase_time_in">" le "</string>
   <string name="main_traffic_used">%s utilisés</string>
+  <string name="today_used_traffic">Auj. : %s</string>
+  <string name="remained_traffic">Restant : %s</string>
+  <string name="total_over_flow">Dépassé : %s</string>
+  <string name="pkg_total_traffic">Quota mensuel : %s</string>
 <!-- à traduire-->
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="pref_data_usage_ignore_settings">Ignore data usage</string>

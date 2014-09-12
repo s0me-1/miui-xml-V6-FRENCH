@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+   <string name="fw_blocked_join">" et "</string>
   <string name="app_name">Anti-Spam</string>
   <string name="bl_block_info" formatted="false">Bloqués : %d appel(s), %d SMS</string>
   <string name="wl_no_whitelist">Liste blanche vide</string>
@@ -36,8 +37,6 @@
   <string name="dlg_retore_ok">Restaurer</string>
   <string name="fw_blocked">Statistiques de blocage</string>
   <string name="fw_blocked_count">"Bloqués : "</string>
-  <string name="fw_blocked_count_call">%d appel(s)</string>
-  <string name="fw_blocked_count_sms">" et %d SMS"</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
   <string name="marked_by_user">"Vous l\'avez marqué comme "</string>

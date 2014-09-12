@@ -106,6 +106,8 @@
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.fr</string>
+  <string name="common_use_phrase_bottom_bar_text_next">Suivant</string>
+  <string name="common_use_phrase_bottom_bar_text_previous">Préc.</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Réduire</string>
   <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Coller</string>
   <string name="common_use_phrase_bottom_bar_paste_txt">Coller</string>
@@ -429,7 +431,7 @@
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
   <string name="saving_snapshot">Enregistrement en cours…</string>
-  <string name="search">Rechercher</string>
+  <string name="search">&#62;</string>
   <string name="search_button_text">OK</string>
   <string name="search_cancel">&#60;</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
@@ -594,7 +596,7 @@
   <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
   <string name="miuichromium_error_page_reason_network">Afficher l\'URL du lien</string>
   <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
-  <string name="miuichromium_error_page_wlan">Paramètres Wi-Fi</string>
+  <string name="miuichromium_error_page_wlan">Wi-Fi</string>
   <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
   <string name="miuichromium_error_page_url">Afficher l\'URL de la page</string>
