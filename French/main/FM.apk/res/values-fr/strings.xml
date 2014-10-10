@@ -26,7 +26,7 @@
   <string name="stations_list">Liste des stations</string>
   <string name="stations_list_empty">La liste des stations est vide</string>
   <string name="station_freq_format">%sMHz</string>
-  <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
+  <string name="alert_message_delete_station">Supprimer la station sélectionnée ?</string>
   <string name="msg_noantenna_message">Veuillez brancher les écouteurs afin d\'améliorer la qualité de réception</string>
   <string name="msg_do_not_support_fm">La FM n\'est pas pris en charge sur cet appareil.</string>
   <string name="exit_fm">Quitter</string>
