@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="toast_note_privacy_mode">Impossible de créer une note en mode invité</string>
   <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
@@ -74,6 +75,7 @@
   <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu'il était trop long"</string>
   <string name="widget_havenot_content">Aucune note associée, appuyez pour associer une note.</string>
   <string name="widget_under_visit_mode">Mode invité, impossible de voir le contenu de la note</string>
+  <string name="widget_under_privacy_mode">Mode invité, impossible de voir le contenu de la note</string>
   <string name="undo">Annuler</string>
   <string name="redo">Refaire</string>
   <string name="alarm_bar_title">Rappel</string>
@@ -96,6 +98,7 @@
   <string name="sina_token_invalid_warning">Le compte Weibo est non valide, veuillez vous reconnecter</string>
   <string name="sns_title_send">Envoyer un message</string>
 <!-- à traduire -->
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sns_hint_content">"What's on your mind?"</string>
   <string name="sns_message_building">Creating post…</string>
   <string name="sns_message_sending">Posting…</string>

@@ -20,6 +20,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="keyguard_torch_cover_text">Pour garder la torche allumée, appuyer sur le bouton d\'arrêt du téléphone.</string>
   <string name="lockscreen_emergency_call">Appel d\'urgence</string>
   <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_transport_prev_description">Titre précédent</string>

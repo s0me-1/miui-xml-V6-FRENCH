@@ -48,4 +48,15 @@
       <item>Vent O</item>
       <item>Vent NO</item>
   </string-array>
+     <string-array name="moon_desc">
+        <item>Nouvelle Lune</item>
+        <item>Premier croissant</item>
+        <item>Premier quartier</item>
+        <item>Lune gibbeuse croissante</item>
+        <item>Pleine lune</item>
+        <item>Lune gibbeuse décroissante</item>
+        <item>Dernier quartier</item>
+        <item>Dernier croissant</item>
+        <item>Lune noire</item>
+     </string-array>
 </resources>

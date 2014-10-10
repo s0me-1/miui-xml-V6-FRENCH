@@ -58,4 +58,5 @@
   <string name="activity_find_city_dialog_set">Paramètres</string>
   <string name="activity_find_city_dialog_title">Service de localisation</string>
   <string name="activity_find_city_dialog_message">Autoriser Météo à utiliser le service de localisation</string>
+  <string name="view_sun_titile">Lever et coucher de soleil</string>
 </resources>

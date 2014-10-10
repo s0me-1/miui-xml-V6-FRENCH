@@ -211,9 +211,18 @@
   <string name="empty_page_no_artist">Aucun artiste</string>
   <string name="empty_page_no_document">Aucun fichier</string>
   <string name="empty_page_no_track">Aucune piste</string>
+  <string name="add_music">Ajouter des pistes</string>
+  <string name="set_as_ring">Définir comme sonnerie</string>
+  <string name="sleep_mode_canceled">Mise en veille programmée désactivée</string>
+  <string name="set_ringtones_successful">%s définie comme sonnerie</string>
 <!-- à traduire -->
   <string name="download_auto_quality_alert_sub_title_for_expired">Your trial or subscription has expired. Please select another download quality.</string>
   <string name="song_not_find">"Couldn't find song. Check your network connection and try again."</string>
   <string name="period_format">%1$s-%2$s</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
+  <string name="please_download_first">You need to download this song before you can set it as a ringtone</string>
+  <string name="priority_storage">Use external SD card</string>
+  <string name="priority_storage_summary">Automatically download to external SD card if available</string>
+  <string name="ringtone_not_support">"This song's format is not supported"</string>
+  <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
 </resources>

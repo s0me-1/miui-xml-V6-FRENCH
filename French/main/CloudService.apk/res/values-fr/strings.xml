@@ -127,16 +127,27 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="photo">Photos</string>
   <string name="contact">Contacts</string>
   <string name="sms">SMS</string>
-  <string name="cloud_sync_setting_summary_standard">Les photos, videos, MMS, données des applis et images des contacts ne seront synchronisés qu\'en Wi-Fi, le reste le sera via le réseau mobile</string>
+  <string name="cloud_sync_setting_summary_standard">Les photos, vidéos, MMS, données des applis et images des contacts ne seront synchronisés qu\'en Wi-Fi, le reste le sera via le réseau mobile</string>
   <string name="cloud_sync_setting_summary_wlan">Les données seront synchronisés uniquement via Wi-Fi</string>
-  <string name="enable_cloud_service_notification">Vous n\'avez pas activer le service Mi Cloud</string>
+  <string name="enable_cloud_service_notification">Vous n\'avez pas activé le service Mi Cloud</string>
   <string name="sync_item_calllog_title">Synchroniser le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
-  <string name="micloud_main_last_sync_time">dernière synchronisation</string>
+  <string name="micloud_main_last_sync_time">"Dernière synchronisation "</string>
+  <string name="micloud_unlogin_for_time_title">Activer Mi Cloud</string>
+  <string name="remind_later">Me rappeler plus tard</string>
+  <string name="user_agreement">Contact utilisateur</string>
+  <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
+  <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
+  <string name="loading">Chargement…</string>
+  <string name="header_other_settings">Autres</string>
+  <string name="mx_sub_dspt_provision">Mi Message</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="mx_dspt">Mi Message</string>
+  <string name="view_storage_title">Afficher l\'espace cloud</string>
+  
 <!-- à traduire ?-->
   <string name="micloud_first_login_title" />
   <string name="micloud_first_login_summary" />
-  <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
   <string name="micloud_unlogin_for_time_summary" />
   <string name="micloud_main_sync_stop">Sync Stop</string>
   <string name="micloud_main_stop_sync">stop sync</string>

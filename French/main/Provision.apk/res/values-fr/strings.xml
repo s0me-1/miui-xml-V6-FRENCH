@@ -27,4 +27,14 @@
   <string name="multisim_settings_category">Paramètres cartes SIM</string>
   <string name="pref_title_data_slot">Carte SIM pour les données</string>
   <string name="pref_title_voice_slot">Carte SIM pour les appels</string>
+  <string name="agree">Accepter</string>
+  <string name="disagree">Annuler</string>
+  <string name="ime_privacy_policy">Politique de confidentialité du clavier sélectionné</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="provision_inputmethod_policy_description">"Afficher le clavier sélectionné "</string>
+  <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
+  <string name="terms_of_use">Conditions d\'utilisation</string>
+  <string name="user_agreement">Contrat d\'utilisateur</string>
+  <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
+  <string name="terms_of_use_label">Vous devez accepter le Contrat d\'utilisateur et la Politique de confidentialité avant d\'utiliser MIUI</string>
 </resources>

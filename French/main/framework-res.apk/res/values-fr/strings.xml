@@ -614,7 +614,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_charged">Chargé</string>
   <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_low_battery">Branchez votre chargeur.</string>
-  <string name="lockscreen_missing_sim_message_short">Aucune carte SIM n\'a été trouvée.</string>
+  <string name="lockscreen_missing_sim_message_short">Aucune carte SIM</string>
   <string name="lockscreen_missing_sim_message">Aucune carte SIM n\'est insérée dans le téléphone.</string>
   <string name="lockscreen_missing_sim_instructions">Insérez une carte SIM.</string>
   <string name="lockscreen_missing_sim_instructions_long">Carte SIM absente ou illisible. Insérez une carte SIM.</string>

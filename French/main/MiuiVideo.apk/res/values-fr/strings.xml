@@ -2,18 +2,14 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-<!-- supprimées 4.9.2 cancroalpha -->
-  <string name="menu_item_about_label">À propos</string>
-  <string name="menu_item_orientation_auto_sensor_action">Activer la rotation</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Désactiver la rotation</string>
-  <string name="menu_item_sub_title">Sous titres</string>
-  <string name="about_developer_label">Développeur</string>
-  <string name="about_developer_name">XiaoMi Inc.</string>
-  <string name="toast_message_set_misound">Veuillez configurer Mi Sound…</string>
-  <string name="menu_item_disable_3d_mode">Désactiver le mode 3D</string>
-  <string name="menu_item_enable_3d_mode">Activer le mode 3D</string>
-  <string name="airkan_video_playing">Diffusion</string>
-<!-- -->
+  <string name="vp_unknown_source">Source inconnue</string>
+  <string name="vp_closedialog">Installer</string>
+  <string name="vp_confirm">Installer</string>
+  <string name="ad_countdown">%ss restantes</string>
+  <string name="vp_cancel">Annuler</string>
+  <string name="vp_retry">Réessayer</string>
+  <string name="vp_loading_download">&lt;CDATA&gt;Téléchargement &lt;/CDATA&gt;</string>
+  <string name="vp_loading_video">Chargement…</string>
   <string name="all">Tous</string>
   <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_title">À propos</string>

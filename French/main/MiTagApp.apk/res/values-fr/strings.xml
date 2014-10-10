@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="erase_pon_pon_tile">Effacer le tag</string>
   <string name="add">Ajouter</string>
   <string name="add_configure">Ajouter une configuration</string>
   <string name="airplane">Mode avion</string>

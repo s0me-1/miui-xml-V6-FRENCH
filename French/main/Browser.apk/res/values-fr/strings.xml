@@ -713,6 +713,15 @@
   <string name="error_unauthorized">Trop de tentatives d\'authentification. Synchronisation désactivée.</string>
   <string name="error_forbidden">Votre compte a quelques problèmes. Synchronisation désactivée.</string>
   <string name="error_not_acceptable">Une erreur serveur s\'est produite. Synchronisation désactivée.</string>
+  <string name="block_ads_choice_block">Bloquer</string>
+  <string name="block_ads_choice_continue">Continuer</string>
+  <string name="block_ads_message">Souhaitez-vous bloquer les messages provenant de ce site web ?</string>
+  <string name="block_ads_title">Contenu potentiellement publicitaire</string>
+<!-- à traduire -->
+  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
+  <string name="pref_check_security_url_title">Check URL security</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
 <!-- à traduire voice -->
   <string name="voice_title">Speak your command…</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>

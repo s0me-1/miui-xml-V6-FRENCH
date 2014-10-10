@@ -201,7 +201,8 @@
   <string name="attachment_unknown">Fichier %s</string>
   <string name="attachment_video">Vidéo</string>
   <string name="attachments_header">Pièces jointes</string>
-  <string name="auto_advance_help_title">Définir les préférences d\'avance automatique\n(après suppression, etc.)</string>
+  <string name="auto_advance_help_title">"Définir les préférences d\'avance automatique
+(après suppression, etc.)"</string>
   <string name="auto_advance_label">Avance automatique</string>
   <string name="auto_advance_summary">Choisissez l\'écran à afficher après la suppression d\'un message.</string>
   <string name="auto_sync_off">La synchronisation automatique est désactivée.</string>

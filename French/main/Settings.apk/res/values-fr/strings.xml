@@ -2,6 +2,12 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="status_sim">État SIM</string>
+  <string name="status_sim_1">SIM1</string>
+  <string name="status_sim_2">SIM2</string>
+  <string name="sim_radio_off">Non activée</string>
+  <string name="status_summary">Appuyer pour afficher les détails</string>
+  <string name="status_bar_toggle_arrangement">Gestionnaire des commutateurs</string>
   <string name="later">Plus tard</string>
   <string name="ringtone_slot_setting_title">Paramètres simple SIM</string>
   <string name="ringtone_uniform_setting_title">Paramètres double SIMs</string>
@@ -82,8 +88,6 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="add_account_label">Ajouter un compte</string>
   <string name="add_device_admin">Activer</string>
   <string name="add_device_admin_msg">Activer l\'administrateur de l\'appareil ?</string>
-  <string name="additional_system_update"></string>
-  <string name="additional_system_update_menu"></string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
@@ -152,7 +156,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="app_install_location_title">Emplacement d\'installation souhaité</string>
   <string name="app_name_label">Application</string>
   <string name="app_not_found_dlg_text">"L'application ne figure pas dans la liste des applications installées."</string>
-  <string name="app_not_found_dlg_title"></string>
   <string name="app_notifications_switch_label">Afficher notifications</string>
   <string name="app_process_limit_title">Limite processus arrière-plan</string>
   <string name="app_special_disable_dlg_text">Si vous désactivez une application intégrée, d\'autres applications peuvent avoir un comportement défaillant. Vos données seront également supprimées.</string>
@@ -199,7 +202,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="backup_data_summary">Sauvegarder les données d\'applications, les mots de passe Wi-Fi et d\'autres paramètres sur les serveurs Google</string>
   <string name="backup_data_title">Sauvegarder mes données</string>
   <string name="backup_erase_dialog_message">Arrêter de sauvegarder vos mots de passe Wi-Fi, vos favoris, ainsi que d\'autres paramètres et données d\'applications, et en effacer toutes les copies des serveurs Google ?</string>
-  <string name="backup_erase_dialog_title"></string>
   <string name="backup_lock_settings_picker_title">Verrouillage secondaire</string>
   <string name="backup_pw_cancel_button_text">Annuler</string>
   <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
@@ -353,7 +355,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
   <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l'appareil : "</string>
   <string name="bluetooth_enter_pin_other_device">Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil.</string>
-  <string name="bluetooth_error_title"></string>
   <string name="bluetooth_headset_profile_summary_connected">Connecté aux paramètres audio de l\'appareil</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour les paramètres audio de l\'appareil</string>
   <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique d\'entrée</string>
@@ -422,7 +423,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_tethering_overflow_error">"Partage connexion impossible au-delà de %1$d appareils."</string>
   <string name="bluetooth_turning_off">Désactivation du Bluetooth…</string>
   <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
-  <string name="bluetooth_unknown"></string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
   <string name="bluetooth_visibility_timeout">Durée de visibilité</string>
   <string name="breathing_light_color_menu_title">Couleur de la LED</string>
@@ -514,7 +514,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="credentials_reset_warning">Mot de passe incorrect. Vous disposez d\'une tentative supplémentaire avant la suppression des identifiants.</string>
   <string name="credentials_reset_warning_plural">Mot de passe incorrect. Vous disposez de %1$d tentatives supplémentaires avant la suppression des identifiants.</string>
   <string name="credentials_title">Stockage des identifiants</string>
-  <string name="credentials_unlock"></string>
   <string name="credentials_unlock_hint">Saisir le mot de passe de stockage des identifiants</string>
   <string name="credentials_wrong_password">Mot de passe incorrect</string>
   <string name="crypt_keeper_button_text">Chiffrer l\'appareil</string>
@@ -606,8 +605,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_restrict_denied_dialog">"La limitation des données en arrière-plan n'est disponible que lorsque vous avez défini un plafond de données mobiles."</string>
   <string name="data_usage_summary_title">Consommation des données</string>
-  <string name="data_usage_sweep_limit"></string>
-  <string name="data_usage_sweep_warning"></string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -791,7 +788,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="enable_drive_mode">Activer le mode voiture</string>
   <string name="enable_opengl_traces_title">Activer les traces OpenGL</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activer également la connexion au réseau de données mobiles ?</string>
-  <string name="enable_snapshot_screenlock">Appui long pour capture d\'écran</string>
+  <string name="enable_snapshot_screenlock">Appui long pour prendre une photo</string>
   <string name="enable_text">Activer</string>
   <string name="enable_wifi_display">Activer l\'affichage sans fil</string>
   <string name="enforce_read_external_confirm_message">"Lorsque la mémoire de stockage USB est protégée, les applications doivent demander l\'autorisation de lire les données de la mémoire de stockage externe.
@@ -1072,7 +1069,9 @@ Vous êtes actuellement connecté aux comptes suivants :
 "<li>Votre compte Google</li>"
 "<li>"Les données et paramètres du système et de l'application"</li>"
 "<li>Les applications téléchargées</li></string>
-  <string name="master_clear_desc_also_erases_external"></string>
+  <string name="master_clear_desc_also_erases_external"><li>Musique</li>"
+"<li>Photos</li>"
+"<li>Autres données utilisateur</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
 Pour supprimer la musique, les photos et les autres données utilisateur, vous devez effacer la "<b>mémoire de stockage USB.</b></string>
@@ -1136,7 +1135,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
   <string name="move_app_failed_dlg_text">"Impossible de déplacer l'application. %1$s"</string>
-  <string name="move_app_failed_dlg_title"></string>
   <string name="move_app_to_internal">Déplacer vers l\'appareil</string>
   <string name="move_app_to_sdcard">Déplacer vers USB</string>
   <string name="moving">Déplacement en cours</string>
@@ -1198,7 +1196,6 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simuler affichage secondaire</string>
   <string name="owner_info_settings_edit_text_hint">Saisissez le texte à afficher sur l\'écran de verrouillage</string>
-  <string name="owner_info_settings_summary"></string>
   <string name="owner_info_settings_title">Informations du propriétaire</string>
   <string name="packages_subtitle">Modules inclus</string>
   <string name="password_guard">Sécurité</string>
@@ -1213,7 +1210,6 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="phone_call_noise_suppression">Suppression du bruit de l\'appareil</string>
   <string name="phone_info_label">Informations sur l\'appareil</string>
   <string name="phone_language">Langue</string>
-  <string name="phone_language_summary"></string>
   <string name="pico_installed">Installée</string>
   <string name="pico_languages_and_voices">Langues et voix</string>
   <string name="pico_not_installed">Non installée</string>
@@ -1373,7 +1369,6 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="retry">Réessayer</string>
   <string name="ring_volume_title">Volume de la sonnerie</string>
-  <string name="ringtone_summary"></string>
   <string name="ringtone_title">Sonnerie</string>
   <string name="roaming">Itinérance des données</string>
   <string name="roaming_disable">Se connecter aux services de données lors de l\'itinérance</string>
@@ -1436,7 +1431,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="sd_insert_summary">Insérer mémoire USB à installer</string>
   <string name="sd_memory">Mémoire de stockage USB</string>
   <string name="sd_mount">Installer une mémoire de stockage USB</string>
-  <string name="sd_mount_summary"></string>
   <string name="sdcard_changes_instructions">Les modifications prendront effet lors de la prochaine connexion du câble USB.</string>
   <string name="sdcard_format">Effacer la mémoire de stockage USB</string>
   <string name="sdcard_setting">Mémoire de stockage USB</string>
@@ -1651,13 +1645,13 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sync_menu_sync_now">Synchroniser maintenant</string>
   <string name="sync_one_time_sync">"Appuyer ici pour lancer la synchronisation maintenant
 %1$s"</string>
-  <string name="sync_plug"></string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>" 
+Une solution Google pour synchroniser vos données et vous permettre d'accéder à vos contacts, vos rendez-vous et plus, o&amp;#249; que vous soyez. "</string>
   <string name="sync_settings">Comptes &amp; synchronisation</string>
   <string name="sync_wifi_label">Paramètres Wi-Fi</string>
   <string name="sync_wifi_only">Wi-Fi uniquement</string>
   <string name="system">Système</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
-  <string name="system_update_settings_list_item_summary"></string>
   <string name="system_update_settings_list_item_title">Mises à jour du système</string>
   <string name="terms_title">Conditions d\'utilisation</string>
   <string name="testing">Test</string>
@@ -1758,7 +1752,6 @@ Le code PIN est peut-être incorrect."</string>
   <string name="unlock_set_unlock_mode_pin">Code PIN</string>
   <string name="unlock_set_unlock_none_summary">Aucune sécurité</string>
   <string name="unlock_set_unlock_none_title">Faire glisser</string>
-  <string name="unlock_set_unlock_off_summary"></string>
   <string name="unlock_set_unlock_off_title">Aucun</string>
   <string name="unlock_set_unlock_password_summary">Sécurité élevée</string>
   <string name="unlock_set_unlock_password_title">Mot de passe</string>
@@ -1843,7 +1836,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
   <string name="user_dict_settings_empty_text">Votre dictionnaire personnel ne contient aucun mot.</string>
   <string name="user_dict_settings_more_languages">Plus de langues…</string>
-  <string name="user_dict_settings_summary"></string>
   <string name="user_info_settings_title">Infos utilisateur</string>
   <string name="user_list_title">Autres utilisateurs</string>
   <string name="user_new_user_name">Nouvel utilisateur</string>
@@ -2043,7 +2035,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_menu_modify">Modifier le réseau</string>
   <string name="wifi_menu_more_options">Autres options</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_scan">Rechercher</string>
+  <string name="wifi_menu_scan">"Rechercher "</string>
   <string name="wifi_menu_wfd">Affichage sans fil</string>
   <string name="wifi_menu_wps_pbc">Bouton commande WPS</string>
   <string name="wifi_menu_wps_pin">Saisie code PIN WPS</string>
@@ -2089,8 +2081,8 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_remembered">Enregistré.</string>
   <string name="wifi_required_info_text">Pour terminer la configuration de votre appareil, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un réseau de données mobile ou le Wi-Fi.</string>
   <string name="wifi_save">Enregistrer</string>
-  <string name="wifi_secured_first_item">Sécurisé par %1$s.</string>
-  <string name="wifi_secured_second_item">, sécurisé par %1$s.</string>
+  <string name="wifi_secured_first_item">Sécurisé par %1$s</string>
+  <string name="wifi_secured_second_item">, sécurisé par %1$s</string>
   <string name="wifi_security">Sécurité</string>
   <string name="wifi_security_none">Aucune</string>
   <string name="wifi_setting_frequency_band_error">Erreur de paramétrage de la plage de fréquences</string>
@@ -2153,8 +2145,8 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_share_notification_summary">MIUI vous a connecté à un réseau Wi-Fi public protégé par un mot de passe</string>
   <string name="wifi_share_other_network">Autres réseaux Wi-Fi</string>
   <string name="wifi_share_qrcode_finish">terminer</string>
-  <string name="wifi_share_qrcode_summary">Utiliser la caméra MIUI pour scanner un code QR</string>
-  <string name="wifi_share_qrcode_title">Partager le code QR via Wi-Fi</string>
+  <string name="wifi_share_qrcode_summary">Utilisez l\'appareil photo pour scanner un code QR</string>
+  <string name="wifi_share_qrcode_title">Partager le code Wi-Fi via code QR</string>
   <string name="wifi_share_show_network">Afficher les réseaux</string>
   <string name="wifi_share_summary1">Les utilisateurs MIUI peuvent partager entre eux les réseaux Wi-Fi publics protégés par des mots de passe.</string>
   <string name="wifi_share_summary2">Si un autre utilisateur MIUI partage un réseau, vous pouvez vous connecter directement à ce réseau sans utiliser de mot de passe.</string>
@@ -2723,7 +2715,7 @@ et lancer le logiciel."</string>
   <string name="music_mi_effect_summary">"Toujours utiliser Mi Sound lors l'utilisation d'écouteurs"</string>
   <string name="preferred_sms_title">Application SMS par défaut</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
-  <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
+  <string name="high_performance_title">Benchmark détecté. Mode Performances recommandé</string>
   <string name="high_performance_notif_title">Mode performance actif</string>
   <string name="high_performance_notif_summary">Appuyer pour configurer</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
@@ -2770,7 +2762,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_delete_device">Supprimer ce périphérique</string>
   <string name="bluetooth_device_address">Adresse :</string>
   <string name="bluetooth_preference_connected_devices">Périphériques connectés</string>
-  <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
+  <string name="bluetooth_unlock_confirm_device_text">Veuillez mettre en contact les appareils pour confirmer.</string>
   <string name="bluetooth_unlock_device_matched_text">Utiliser ce périphérique pour déverrouiller.</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique va être remplacé par le nouveau.</string>
@@ -2806,7 +2798,10 @@ et lancer le logiciel."</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
   <string name="mione_update_success_title">Màj effectuée</string>
   <string name="now">Plus tard</string>
-
+  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">warning</font></string>
+  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">limit</font></string>
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>

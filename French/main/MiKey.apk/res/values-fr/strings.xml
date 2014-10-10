@@ -2,6 +2,23 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+    <string name="super_difficult_click">Résistance</string>
+    <string name="key_direction_down">Bas</string>
+    <string name="key_direction_left">Gauche</string>
+    <string name="key_direction_right">Droite</string>
+    <string name="key_direction_up">Haut</string>
+    <string name="click_count_union">" fois"</string>
+    <string name="click_type_0">Zéro</string>
+    <string name="click_type_1">Une</string>
+    <string name="click_type_10">Dix</string>
+    <string name="click_type_2">Deux</string>
+    <string name="click_type_3">Trois</string>
+    <string name="click_type_4">Quatre</string>
+    <string name="click_type_5">Cinq</string>
+    <string name="click_type_6">Six</string>
+    <string name="click_type_7">Sept</string>
+    <string name="click_type_8">Huit</string>
+    <string name="click_type_9">Neuf</string>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
     <string name="short_click_2">2x</string>

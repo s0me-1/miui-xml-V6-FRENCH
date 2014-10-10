@@ -66,7 +66,7 @@
   <string name="auto_create_recent_album">Création automatique d\'album</string>
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>
   <string name="auto_create_recent_album_over_ten_times">Créer un album favori lorsque vous ouvrez un album plus de 10 fois</string>
-  <string name="autofix">Correction auto</string>
+  <string name="autofix">Correct. auto</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
@@ -163,7 +163,7 @@
   <string name="doodle">Dessin</string>
   <string name="doodle_tooltip">Dessiner sur la photo pour gribouiller</string>
   <string name="duotone">Deux tons</string>
-  <string name="duration">Durée</string>
+  <string name="duration">"Durée "</string>
   <string name="edit">Modifier</string>
   <string name="edited_photo_bucket_name">Édité</string>
   <string name="email_picker_title">Ajouter un Mail partagé</string>
@@ -312,7 +312,7 @@
   <string name="orientation">"Orientation "</string>
   <string name="other_category">Autres paramètres</string>
   <string name="owner_album_subtitle">Partagé avec %1$s membres</string>
-  <string name="path">"Chemin d\'accès "</string>
+  <string name="path">"Répertoire "</string>
   <string name="people">Contacts</string>
   <string name="photo_page_always_rotate">Pivoter autom. les images</string>
   <string name="photo_page_save_image">Enregistrer</string>
@@ -556,4 +556,10 @@
   <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
   <string name="mipc_1">Pocket Camera</string>
+<!-- à traduire -->
+     <string name="impunity_declaration">Will you agree to connect the internet when you use gallery?</string>
+     <string name="impunity_declaration_ignore">"Don't show again"</string>
+     <string name="impunity_declaration_settings">Show network notice</string>
+     <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>
+     <string name="impunity_declaration_title">Network notice</string>
 </resources>
