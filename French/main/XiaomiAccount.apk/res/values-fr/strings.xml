@@ -6,7 +6,6 @@
 
 
   <string name="account_learn_more_title">Créer un compte Mi</string>
-  <string name="account_dspt_provision">"Utilisez votre compte Mi pour vous connecter à Mi Cloud et tous les autres services Mi, depuis n'importe où"</string>
   <string name="account_dspt_provision2">En savoir plus</string>
   <string name="cloud_service_dspt">Synchronisez vos photos, contacts, notes, applis et plus sur tous vos appareils.</string>
   <string name="mi_account_dspt_provision">Connectez-vous à Mi Cloud et aux autres services Mi avec un seul compte.</string>
