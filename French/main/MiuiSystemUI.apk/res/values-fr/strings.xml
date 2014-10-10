@@ -66,7 +66,6 @@
   <string name="camera_key_action_toggle_title">Gâchette</string>
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique USB</string>
   <string name="data_usage_disabled_dialog">"Vous avez atteint le plafond de consommation de données spécifié.
-
 Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur."</string>
   <string name="data_usage_disabled_dialog_3g_title">Données 2G-3G désactivées</string>
   <string name="data_usage_disabled_dialog_4g_title">Données 4G désactivées</string>

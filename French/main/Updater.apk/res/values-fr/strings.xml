@@ -224,11 +224,13 @@ Vous pourrez le faire mardi prochain"</string>
      <string name="update_feedback">Donner son avis</string>
      <string name="set_only_wifi">Vérifier via Wi-Fi uniquement</string>
      <string name="pause">Pause</string>
-	 
-	 
+     <string name="space_not_enough_title">Espace de stockage insuffisant</string>
+     <string name="install_failed">Mise à jour échouée</string>
+     <string name="check_update_when_wifi_available_sum"/>
+     <string name="cancel_download">Arrêter le téléchargement ?</string>
+     <string name="unkown_error_title">Erreur inconnue</string>
+
 <!-- à traduire -->
-     <string name="cancel_download">Stop downloading this update?</string>
-     <string name="check_update_when_wifi_available_sum">Only use WLAN to check for updates</string>
      <string name="download_again">Download again</string>
      <string name="download_diff">Download diff</string>
      <string name="download_error">Download error. Wait a minute or two and try again.</string>
@@ -237,7 +239,6 @@ Vous pourrez le faire mardi prochain"</string>
      <string name="download_title_full_download">Getting package info…</string>
      <string name="get_auto">Get Auto Mode</string>
      <string name="get_current">Get current</string>
-     <string name="install_failed">Update failed</string>
      <string name="install_local">Install local</string>
      <string name="no_wifi_msg">"You're no longer connect to WLAN. Continuing to download over your mobile data connection will increase your data usage."</string>
      <string name="no_wifi_title">Data usage warning</string>
@@ -250,8 +251,6 @@ Vous pourrez le faire mardi prochain"</string>
      <string name="set_network_title">Connect to network</string>
      <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
      <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
-     <string name="space_not_enough_title">Not enough space</string>
-     <string name="unkown_error_title">Something went wrong…</string>
      <string name="update_downfull_no_info_sum">Unable to download,please check Update button.</string>
      <string name="update_downfull_no_info_title">Unable to download</string>
      <string name="user_intertup_download_msg">Downloads have been paused. You can unpause them any time in the Updater app.</string>

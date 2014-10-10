@@ -2687,7 +2687,7 @@ et lancer le logiciel."</string>
   <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>
   <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>
   <string name="priority_storage_app_settings">Les données d\'applications seront enregistrées sur le %1$s</string>
-  <string name="music_headset_calibrate">Calibrer les buttons</string>
+  <string name="music_headset_calibrate">Assigner les buttons</string>
   <string name="music_headset_calibrate_apply">Appliquer</string>
   <string name="music_headset_calibrate_confirm">Appliquer les paramètres ?</string>
   <string name="music_headset_calibrate_hint">Veuillez appuyer sur le bouton supérieur</string>
@@ -2771,7 +2771,7 @@ et lancer le logiciel."</string>
   <string name="anti_spam">Anti-Spam</string>
   <string name="permission_mgr">Permissions</string>
   <string name="cleaner">Nettoyage</string>
-  <string name="power_mgr">Énergie</string>
+  <string name="power_mgr">Batterie</string>
   <string name="symbols_not_allowed_for_password">Le mot de passe ne peut pas contenir les symboles</string>
   <string name="reset_legacy_password_settings_preface_text">Vous devez réinitialiser votre mot de passe d\'écran de verrouillage.</string>
   <string name="translation_contributors_title">Contributeurs</string>
@@ -2779,7 +2779,7 @@ et lancer le logiciel."</string>
   <string name="miracast_disable_dhcp">Désactiver le HDCP</string>
   <string name="miracast_enable_dhcp">Activer le HDCP</string>
   <string name="music_equalizer">Equalizer</string>
-  <string name="music_headset_button_settings">Assigner les boutons de contrôle</string>
+  <string name="music_headset_button_settings">Assigner les boutons</string>
   <string name="power_autorun_apps_empty">Aucune application</string>
   <string name="power_autorun_empty">Aucune application</string>
   <string name="preferred_sms_warning_message">Utiliser \"%1$s\" comme application SMS par défaut peut compromettre la sécurité de vos données.</string>
@@ -2794,7 +2794,7 @@ et lancer le logiciel."</string>
   <string name="wireless_off">Inactif</string>
   <string name="download_current_rom">Télécharger la ROM complète</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>
-  <string name="install_whole_rom">Télécharger la ROM (standard)</string>
+  <string name="install_whole_rom">Télécharger la ROM</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
   <string name="mione_update_success_title">Màj effectuée</string>
   <string name="now">Plus tard</string>

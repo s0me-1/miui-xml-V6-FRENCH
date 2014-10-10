@@ -129,7 +129,7 @@
   <string name="download_is_success">Téléchargement terminé</string>
   <string name="receive_mipush">Recevoir les messages push</string>
   <string name="receive_mipush_summary">Afficher des notifications en cas de disponibilité de nouveaux contenus</string>
-  <string name="mipush_setting">Push Xiaomi</string>
+  <string name="mipush_setting">Notifications</string>
   <string name="defaults">Par défaut</string>
   <string name="done">OK</string>
   <string name="fullscreen">Plein écran</string>
@@ -192,7 +192,7 @@
   <string name="edit">Modifier</string>
   <string name="local_favorite_empty_hint">Vide</string>
   <string name="see_all">Tout voir</string>
-  <string name="guess_you_like">Recommandé pour vous</string>
+  <string name="guess_you_like">Recommandé</string>
 <!-- all_ep masqué -->
   <string name="all_ep">" "</string>
   <string name="gong_count_ji">%d épisodes</string>
@@ -200,8 +200,8 @@
   <string name="episode">Épisode</string>
   <string name="introduce">Résumé</string>
   <string name="recommend">Recommandé</string>
-  <string name="actor_colon">Acteurs :</string>
-  <string name="type_colon">Genre :</string>
+  <string name="actor_colon">"Acteurs : "</string>
+  <string name="type_colon">"Genre : "</string>
   <string name="detail_episode_empty_hint">Vide</string>
   <string name="detail_introduce_empty_hint">Vide</string>
   <string name="detail_review_list_empty_hint">Vide</string>
@@ -234,12 +234,12 @@
   <string name="vp_adapt_height">Adapter la hauteur</string>
   <string name="vp_using_16_9">Forcer 16:9</string>
   <string name="vp_using_4_3">Forcer 4:3</string>
-  <string name="select_tv">Chaines TV</string>
-  <string name="select_tvs">Chaines TV</string>
-  <string name="forecast">Programme</string>
-  <string name="forecasts">Programme</string>
+  <string name="select_tv">Sélectionner la chaine</string>
+  <string name="select_tvs">Sélectionner l\'appareil</string>
+  <string name="forecast">Météo</string>
+  <string name="forecasts">Météo</string>
   <string name="select_tv_empty_hint">Aucune chaine</string>
-  <string name="forecast_empty_hint">Aucun programme</string>
+  <string name="forecast_empty_hint">Aucune donnée</string>
   <string name="prefix_countdown">temps publicité restant :</string>
   <string name="suffix_countdown">sec</string>
   <string name="ad_moredetail">plus d\'infos</string>

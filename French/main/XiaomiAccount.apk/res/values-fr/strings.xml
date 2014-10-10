@@ -54,7 +54,7 @@
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_req_notice">8 à 16 caractères alphanumériques, sensible à la casse</string>
   <string name="micloud_password_error_inconsistent">"Les mots de passe ne correspondent pas"</string>
-  <string name="micloud_active_alert_title">Envoyer un SMS</string>
+  <string name="micloud_active_alert_title">Avertissement</string>
   <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
   <string name="micloud_via_int_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS international.</string>
   <string name="micloud_error_email">Adresse mail non valide</string>
@@ -146,7 +146,6 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="skip_setup_account_title">Ignorer la configuration du compte</string>
   <string name="skip_setup_account_msg">Vous pouvez configurer votre compte Mi plus tard dans les paramètres.</string>
   <string name="account_dspt">Un compte pour tout l\'univers Xiaomi</string>
-  <string name="account_sec_dspt">Mi Cloud, Mi Phone, MIUI, Mi Talk et plus…</string>
   <string name="remove_unactivated_account_notice">"Votre compte Mi n'as pas été activé."</string>
   <string name="remove_confirm">Supprimer</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour réinitialiser votre mot de passe</string>
@@ -202,9 +201,9 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="internet_comm">Messagerie</string>
   <string name="cloud_messaging">Mi Message</string>
   <string name="payment_settings">Paiement</string>
-  <string name="bind_settings">Associer</string>
+  <string name="bind_settings">Comptes</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="account_bind_settings">Association de comptes</string>
+  <string name="account_bind_settings">Comptes</string>
   <string name="account_bind_devices">Appareils associés</string>
   <string name="account_dspt_provision">Utilisez un seul compte pour tous nos produits.</string>
   <string name="find_device_dspt">Verrouiller ou effacer cet appareil à distance.</string>

@@ -19,7 +19,7 @@
 <resources>
   <string name="application_name">"Sélecteur de fond d'écran animé"</string>
   <string name="live_wallpaper_picker_title">"Sélectionner un fond d'écran animé"</string>
-  <string name="live_wallpaper_picker_label">"Fonds d'écran animés"</string>
+  <string name="live_wallpaper_picker_label">Animés"</string>
   <string name="live_wallpaper_preview_title">"Aperçu du fond d'écran animé"</string>
   <string name="configure_wallpaper">Paramètres…</string>
   <string name="wallpaper_instructions">Appliquer</string>

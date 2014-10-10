@@ -289,7 +289,7 @@ Please check your tracking number."</string>
   <string name="minimum_price">From %d RMB</string>
   <string name="coupon_bought_count">%d bought</string>
   <string name="app_recommendation_install">Install</string>
-  <string name="shop_recommendation_format" formatted="false">%s : %s</string>
+  <string name="shop_recommendation_format">%1$s : %2$s</string>
   <string name="menu_add_to_favorite">Add to favorites</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>

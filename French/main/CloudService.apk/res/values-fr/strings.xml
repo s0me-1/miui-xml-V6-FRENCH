@@ -144,33 +144,5 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="privacy_policy">Politique de confidentialité</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="view_storage_title">Afficher l\'espace cloud</string>
-  
-<!-- à traduire ?-->
-  <string name="micloud_first_login_title" />
-  <string name="micloud_first_login_summary" />
-  <string name="micloud_unlogin_for_time_summary" />
-  <string name="micloud_main_sync_stop">Sync Stop</string>
-  <string name="micloud_main_stop_sync">stop sync</string>
-  <string name="micloud_main_suggest_sync">Your data in Mi cloud is out of data. Please synchronous data.</string>
-  <string name="micloud_main_sync_now">sync now</string>
-  <string name="micloud_main_network_error">Network does not work. Please check network settings.</string>
-  <string name="micloud_main_sync_on_wifi">data will sync on wifi</string>
-  <string name="micloud_main_data_unsynced">%d data not synced</string>
-  <string name="finish">finish</string>
-  <string name="app_sync_off">app sync off</string>
-  <string name="current">current</string>
-  <string name="data_syncing">data syncing</string>
-  <string name="detail">detail</string>
-  <string name="flight_mode">flight mode</string>
-  <string name="full_space">space full</string>
-  <string name="internet">internet</string>
-  <string name="internet_disconnected">internet disconnected</string>
-  <string name="micloud">micloud</string>
-  <string name="normal">normal</string>
-  <string name="space">space</string>
-  <string name="sync">sync</string>
-  <string name="system_sync_off">system sync off</string>
-  <string name="wifi">wifi</string>
-  <string name="wifi_disconnected">wifi disconnected</string>
-  <string name="wifi_sync">wifi sync</string>
+  <string name="finish">OK</string>
 </resources>
