@@ -19,10 +19,10 @@
   <string name="data_mobile">Données</string>
   <string name="data_rotate">Rotation</string>
   <string name="data_screenshot">Capture</string>
-  <string name="data_silent">Ne pas déranger (NPD)</string>
+  <string name="data_silent">Ne pas déranger</string>
   <string name="data_sound">Silencieux</string>
   <string name="data_speed">Mode performance</string>
-  <string name="data_sync">Synchronisation auto</string>
+  <string name="data_sync">Synch. auto</string>
   <string name="data_vibration">Vibreur</string>
   <string name="data_wifi">Wi-Fi</string>
   <string name="data_wifispot">Hotspot Wi-Fi</string>
