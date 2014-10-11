@@ -375,9 +375,13 @@
       <item>Autoriser</item>
       <item>Refuser</item>
   </string-array>
+  <string-array name="screen_key_press_action">
+      <item>Afficher les applications récentes</item>
+      <item>Afficher le menu</item>
+  </string-array>
   <string-array name="screen_key_long_press_action">
       <item>Aucune</item>
-      <item>Lancer les applications récentes</item>
+      <item>Afficher les applications récentes</item>
       <item>Lancer l\'Assistant Vocal</item>
       <item>Lancer Google Now</item>
       <item>Fermer l\'application actuelle</item>

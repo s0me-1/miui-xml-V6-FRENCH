@@ -1100,10 +1100,10 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Moyenne</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Apps (données, multimédia)</string>
+  <string name="memory_apps_usage">Applis (données, multimédia)</string>
   <string name="memory_available">Disponible</string>
   <string name="memory_available_read_only">Disponible (en lecture seule)</string>
-  <string name="memory_calculating_size">Calcul en cours</string>
+  <string name="memory_calculating_size">Calcul en cours...</string>
   <string name="memory_clear_cache_message">Les données en cache des applis seront effacées.</string>
   <string name="memory_clear_cache_title">Effacer les données mises en cache ?</string>
   <string name="memory_dcim_usage">Images, vidéos</string>
@@ -1113,7 +1113,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_media_usage">Support</string>
   <string name="memory_music_usage">Audio (musique, sonneries, etc.)</string>
   <string name="memory_size">Espace total</string>
-  <string name="memory_title">Disponible %1$s\u0009\u0009Total %2$s</string>
+  <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
   <string name="menu_cancel">Annuler</string>
   <string name="menu_delete">Supprimer l\'APN</string>
   <string name="menu_new">Ajouter</string>
@@ -1401,6 +1401,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="screen_compatibility_label">Compatibilité de l\'écran</string>
   <string name="screen_compatibility_text">Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici.</string>
   <string name="screen_key_long_press">Appui long des touches d\'écran</string>
+  <string name="screen_key_press">Appui des touches d\'écran</string>
+  <string name="screen_key_press_action">Action de l\appui</string>
   <string name="screen_key_long_press_action">Action de l\'appui long</string>
   <string name="screen_key_long_press_timeout">Délai de l\'appui long</string>
   <string name="screen_never_timeout_title">Toujours allumé</string>
@@ -2078,7 +2080,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_signal_found_msg">Point d\'accès Wi-Fi disponible, se connecter maintenant ?</string>
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
-  <string name="wifi_remembered">Enregistré.</string>
+  <string name="wifi_remembered">Enregistré</string>
   <string name="wifi_required_info_text">Pour terminer la configuration de votre appareil, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un réseau de données mobile ou le Wi-Fi.</string>
   <string name="wifi_save">Enregistrer</string>
   <string name="wifi_secured_first_item">Sécurisé par %1$s</string>
