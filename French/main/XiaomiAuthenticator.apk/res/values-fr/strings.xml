@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="app_name">Mi Authenticator</string>
   <string name="app_name_short">Authenticator</string>
   <string name="enter_key_title">Saisie manuelle du compte</string>

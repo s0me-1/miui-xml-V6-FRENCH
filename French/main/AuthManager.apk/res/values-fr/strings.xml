@@ -87,8 +87,8 @@
   <string name="HIPS_Perm_CallState">État du téléphone</string>
   <string name="HIPS_Perm_CallState_Desc">Obtenir l\'état téléphone</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s applis peuvent obtenir l\'état du téléphone</string>
-  <string name="HIPS_Perm_Call_Desc">Répondre ou raccrocher des appels téléphoniques directement</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s applis peuvent répondre ou de raccrocher aux appels téléphoniques</string>
+  <string name="HIPS_Perm_Call_Desc">Appeler, répondre ou raccrocher aux appels téléphoniques</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s applis peuvent appeler, répondre ou raccrocher aux appels téléphoniques</string>
   <string name="HIPS_Perm_Call_Number">appel de %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">Effacer les appels manqués signalés</string>
   <string name="HIPS_Perm_Contact">Contacts</string>
@@ -136,10 +136,13 @@
   <string name="HIPS_Perm_SMS_Access">Lire votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Desc">Accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s applis peuvent accéder à votre boîte de réception SMS</string>
+  <string name="HIPS_Perm_SendMMS">Envoi des MMS</string>
+  <string name="HIPS_Perm_SendMMS_Desc">Envoyer des messages MMS</string>
+  <string name="HIPS_Perm_SendMMS_Hint">%1$s applis peuvent envoyer des MMS</string>
   <string name="HIPS_Perm_SendSMS">Envoi de SMS</string>
   <string name="HIPS_Perm_SendSMS_Content">Contenu :</string>
   <string name="HIPS_Perm_SendSMS_Data">envoyer un SMS à %1$s:%2$d</string>
-  <string name="HIPS_Perm_SendSMS_Desc">Envoyer des SMS directement</string>
+  <string name="HIPS_Perm_SendSMS_Desc">Envoyer des messages SMS</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s applis peuvent envoyer des SMS</string>
   <string name="HIPS_Perm_SendSMS_Port">Port de destination :</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Destinataire :</string>
@@ -196,9 +199,6 @@
   <string name="HIPS_Perm_Mobile_Connectivity">Utiliser le réseau mobile</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">Utiliser la connexion réseau mobile</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s applis peuvent utiliser le réseau mobile</string>
-  <string name="HIPS_Perm_SendMMS">Envoyer des MMS</string>
-  <string name="HIPS_Perm_SendMMS_Desc">Envoyer directement des MMS</string>
-  <string name="HIPS_Perm_SendMMS_Hint">%1$s applis peuvent envoyer des MMS</string>
   <string name="HIPS_Perm_Settings">Paramètres système</string>
   <string name="HIPS_Perm_Settings_Desc">Modifier les paramètres système</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s applis peuvent modifier les paramètres système</string>

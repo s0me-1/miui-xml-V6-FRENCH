@@ -14,6 +14,13 @@
      <item>@string/msd_install_retry_connect</item>
      <item>Réinstaller MiPhoneManager.</item>
   </string-array>
+  <string-array name="tts_rate_xunfei_entries">
+      <item>Très lente</item>
+      <item>Lente</item>
+      <item>Normale</item>
+      <item>Rapide</item>
+      <item>Très rapide</item>
+  </string-array>
   <string-array name="tts_rate_entries">
       <item>Très lente</item>
       <item>Lente</item>
@@ -51,9 +58,16 @@
   <string-array name="entries_font_size">
       <item>Petit</item>
       <item>Normal</item>
-      <item>Large</item>
+      <item>Grand</item>
       <item>Très grand</item>
   </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+      <item>Très petit</item>
+      <item>Petit</item>
+      <item>Normal</item>
+      <item>Grand</item>
+      <item>Très grand</item>
+     </string-array>
   <string-array name="tts_pitch_entries">
       <item>Très faible</item>
       <item>Faible</item>

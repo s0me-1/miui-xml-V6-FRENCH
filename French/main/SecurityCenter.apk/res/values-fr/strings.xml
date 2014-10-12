@@ -90,7 +90,7 @@
   <string name="power_dialog_cpu_state_save">Économiser la batterie</string>
   <string name="power_dialog_cpu_state_save_desc">Autonomie de la batterie prioritaire sur les performances</string>
   <string name="power_dialog_auto_clean_memory_title">Nettoyage automatique de la mémoire</string>
-  <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus, mis en cache, gourmands en énergie</string>
+  <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus mis en cache gourmands en énergie.</string>
   <string name="power_dialog_sleep_title">Veille</string>
   <string name="power_dialog_vibration_title">Vibreur</string>
   <string name="power_dialog_screen_brightness_title">Luminosité</string>
