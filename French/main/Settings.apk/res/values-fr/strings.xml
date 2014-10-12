@@ -2045,7 +2045,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_notify_open_networks">Notification de réseau</string>
-  <string name="wifi_notify_open_networks_summary">Me notifier lorsqu\'un réseau ouvert est disponible</string>
+  <string name="wifi_notify_open_networks_summary">Notifier lorsqu\'un réseau ouvert est disponible</string>
   <string name="wifi_on_time">Wi-Fi/temps</string>
   <string name="wifi_other_network">Autre réseau…</string>
   <string name="wifi_p2p_cancel_connect_message">Voulez-vous annuler l\'invitation à se connecter avec %1$s ?</string>
@@ -2714,7 +2714,7 @@ et lancer le logiciel."</string>
   <string name="music_audio_effect_settings">Paramètres audio</string>
   <string name="music_headphone_settings">Paramètres écouteurs</string>
   <string name="music_mi_effect_title">Améliorateur Mi Sound</string>
-  <string name="music_mi_effect_summary">"Toujours utiliser Mi Sound lors l'utilisation d'écouteurs"</string>
+  <string name="music_mi_effect_summary">"Toujours utiliser lors l'utilisation d'écouteurs"</string>
   <string name="preferred_sms_title">Application SMS par défaut</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Benchmark détecté. Mode Performances recommandé</string>
@@ -2729,7 +2729,7 @@ et lancer le logiciel."</string>
   <string name="bt_trace_log_summary">Active le journal de suivi Bluetooth</string>
   <string name="manage_xiaomi_router">Gestion du routeur Xiaomi</string>
   <string name="xiaomi_router_notif_title">Notification routeur Xiaomi</string>
-  <string name="xiaomi_router_notif_summary">Notifier quand un routeur Xiaomi est détecté</string>
+  <string name="xiaomi_router_notif_summary">Notifier lorsqu\'un routeur Xiaomi est détecté</string>
   <string name="xiaomi_router_available_notif_title">Mi Routeur détecté</string>
   <string name="xiaomi_router_available_notif_summary">Appuyer pour afficher</string>
   <string name="connect_to_internet">Connectez-vous à internet</string>
