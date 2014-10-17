@@ -102,7 +102,7 @@
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteur gyroscopique pour les coordonnées X, Y, Z</string>
-  <string name="cit_gyroscope_sensor_check_title">Test Gyroscope</string>
+  <string name="cit_gyroscope_sensor_check_title">Test du gyroscope</string>
   <string name="cit_headset_button_check_summary">Le test va afficher la touche de l\'appareil lorsqu\'elle sera activée</string>
   <string name="cit_headset_button_check_title">Test des écouteurs</string>
   <string name="cit_headset_button_click">Sélectionner le bouton du casque</string>
@@ -257,7 +257,7 @@
   <string name="cit_vga_camera_delete">Supprimer la photo</string>
   <string name="cit_vga_camera_deleted">La photo a été supprimée</string>
   <string name="cit_vibrator_check_summary">Le test effectuera une vérification de vibrations (longues et courtes)</string>
-  <string name="cit_vibrator_check_title">Test de la vibration</string>
+  <string name="cit_vibrator_check_title">Test du vibreur</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Retour haptique</string>
   <string name="cit_vibrator_load_down_pattern">Profil descendant</string>

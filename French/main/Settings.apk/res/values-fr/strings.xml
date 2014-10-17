@@ -2072,7 +2072,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_priority_type_summary">Permet de définir la priorité de chaque point d\'accès manuellement</string>
   <string name="wifi_priority_settings_title">Paramètres de priorité PA</string>
   <string name="wifi_priority_settings_summary">Appuyer pour définir la priorité de chaque point d\'accès</string>
-  <string name="wifi_priority_changed" formatted="false">Ancienne valeur de priorité=%s, nouvelle valeur=%s</string>
+  <string name="wifi_priority_changed" formatted="false">Ancienne valeur = %s | nouvelle = %s</string>
   <string name="wifi_configured_ap_list">"Liste des points d'accès mémorisés"</string>
   <string name="wifi_priority_label">Priorité</string>
   <string name="wifi_priority_settings_label">Paramètres de priorité</string>
@@ -2439,7 +2439,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="location_mode_high_accuracy_title">Haute précision</string>
   <string name="location_mode_location_off_title">Localisation désactivée</string>
   <string name="location_mode_screen_title">Mode de localisation</string>
-  <string name="location_mode_sensors_only_description">Utiliser le GPS pour déterminer la position</string>
+  <string name="location_mode_sensors_only_description">Utiliser uniquement le GPS pour déterminer la position</string>
   <string name="location_mode_sensors_only_title">Appareil uniquement</string>
   <string name="location_mode_title">Mode</string>
   <string name="location_no_recent_apps">"Aucune demande d'accès à votre position n'a récemment été envoyée pour une application."</string>

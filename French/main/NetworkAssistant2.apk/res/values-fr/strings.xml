@@ -191,9 +191,9 @@ connexion au réseau de données mobiles"</string>
   <string name="manual_input_traffic">Définir l\'usage de données</string>
   <string name="manual_input_free_traffic">Définir le creux d\'usage des données</string>
   <string name="declaration_dialog_msg">Cette fonctionnalité peut vous aider à suivre votre consommation, il n\'est pas garanti d\'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
-  <string name="input_used_hint">Entrez l\'usage de données</string>
+  <string name="input_used_hint">Saisir le montant</string>
   <string name="settings">Paramètres d\'usage des données</string>
-  <string name="adjust_traffic_data">Définir l\'usage de données</string>
+  <string name="adjust_traffic_data">Ajuster l\'usage de données</string>
   <string name="per_month_pkg_traffic_settings">Définir la limite d\'usage des données</string>
   <string name="data_usage_warning_title">Alerte d\'usage des données</string>
   <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
@@ -269,11 +269,12 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="remained_traffic">Restant : %s</string>
   <string name="total_over_flow">Dépassé : %s</string>
   <string name="pkg_total_traffic">Quota mensuel : %s</string>
+  
 <!-- à traduire-->
-  <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
-  <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
-  <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
-  <string name="input_used_max_hint">Enter data usage(less than %s)</string>
+  <string name="datausage_ignore_app_list_count">"%d applis ignorées"</string>
+  <string name="pref_data_usage_ignore_settings">Ignorer l\'utilisation des données</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>
+  <string name="input_used_max_hint">Saisir le montant(moins de %s)</string>
 <!-- non utilisées hors chine? -->
   <string name="datausage_purchase_order_failure">Purchase failed</string>
   <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
