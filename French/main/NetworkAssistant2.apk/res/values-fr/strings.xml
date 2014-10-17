@@ -273,7 +273,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
   <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
-  
+  <string name="input_used_max_hint">Enter data usage(less than %s)</string>
 <!-- non utilisées hors chine? -->
   <string name="datausage_purchase_order_failure">Purchase failed</string>
   <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>

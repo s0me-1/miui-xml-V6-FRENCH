@@ -40,7 +40,7 @@
   <string name="error_network">Erreur réseau</string>
   <string name="error_server">Erreur du serveur</string>
   <string name="error_unknown">Erreur inconnue</string>
-  <string name="sync_dspt">Activer la synchronisation</string>
+  <string name="sync_dspt">Synchroniser</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
   <string name="access_denied">Impossible d\'accéder à votre application mail</string>
@@ -138,6 +138,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="user_agreement">Contact utilisateur</string>
   <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
   <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
+  <string name="user_agreement_p8">.</string>
   <string name="loading">Chargement…</string>
   <string name="header_other_settings">Autres</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
@@ -145,4 +146,79 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="mx_dspt">Mi Message</string>
   <string name="view_storage_title">Afficher l\'espace cloud</string>
   <string name="finish">OK</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
+  <string name="sync_dspt_provision3">"."</string>
+  <string name="flight_mode">Mode avion</string>
+  <string name="full_space">Espace insuffisant</string>
+  <string name="micloud">Mi Cloud</string>
+  <string name="wifi">Wi-Fi</string>
+  <string name="detail">Détails</string>
+  <string name="current">Actuel</string>
+  <string name="space">Stockage</string>
+  <string name="normal">Normal</string>
+  <string name="wifi_disconnected">Wi-Fi déconnecté</string>
+  <string name="wifi_sync">En attente de Wi-Fi</string>
+  <string name="system_sync_off">Synchro système désactivée</string>
+  <string name="micloud_main_sync_now">Synchroniser</string>
+  <string name="micloud_main_sync_on_wifi">Utiliser le Wi-Fi</string>
+  <string name="micloud_main_data_unsynced">%d éléments non synchronisés</string>
+  <string name="success_upgraded_space">%s ajoutés</string>
+  <string name="total_space_upgraded_to">Espace total : %s</string>
+  <string name="upgrade_space">Augmenter l\'espace</string>
+  <string name="upgrade_space_gb">Go</string>
+  <string name="upgrade_space_tb">To</string>
+  <string name="upgrade_space_mibipreyear">%s MiCredits par an</string>
+  <string name="micloud_other_product_price">Autres offres similaires :</string>
+  <string name="microsoft_cloud">Microsoft Cloud</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">$1.99 par an</string>
+  <string name="google_100gb">100Go</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">$1.99 par an</string>
+  <string name="apple_10gb">20Go</string>
+  <string name="apple_cloud">Apple Cloud</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">11.88€ par an</string>
+  <string name="sync">Synchroniser</string> 
+  <string name="more_activity_in_upgrade_space">Plus d\'infos sur &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
+  <string name="data_syncing">Toujours synchroniser</string>
+  <string name="find_device_dspt_provision">"Si vous perdez votre appareil, rendez vous sur "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+  <string name="find_device_dspt_provision_3">" pour le localiser, verrouiller ou réinitialiser.
+
+Vous pouvez désactiver cette fonction à tout moment via les paramètres.
+"</string>
+  <string name="micloud_main_suggest_sync">Certains éléments n\'ont pas été synchronisés avec Mi Cloud</string>
+  <string name="mx_dspt_provision">"Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI sans utiliser de SMS.
+
+Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
+
+  <string name="sync_dspt_provision">"Mi Cloud synchronise vos photos, SMS, notes, et plus entre tous vos appareils Mi. Vous pouvez aussi y accéder depuis un navigateur via "</string>
+  <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service.</string>
+  <string name="cloud_space_upgrade_message">Appuyer pour obtenir %s Go d\'espace gratuit mensuel</string>
+  <string name="cloud_space_upgrade_no_quota_info">Données non valides, veuillez réessayer plus tard</string>
+  <!-- à traduire -->
+  <string name="app_sync_off">App sync off</string>
+  <string name="internet">Internet</string>
+  <string name="internet_disconnected">No data connection</string>
+  <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
+  <string name="micloud_main_network_error">"Can't connect to the network"</string>
+  <string name="micloud_main_stop_sync">Stop sync</string>
+  <string name="micloud_main_sync_stop">Stop sync</string>
+  <string name="buy_space_sulotion_auto_renew">Automatic renew</string>
+  <string name="buy_space_sulotion_message">You will buy %sGB Space</string>
+  <string name="buy_space_sulotion_not_auto_renew">Do not automatically renew</string>
+  <string name="buy_space_sulotion_renew_message">Valid for %s</string>
+  <string name="buy_space_sulotion_renew_title">Select renewals way</string>
+  <string name="buy_space_sulotion_title">Cloud storage solution</string>
+  <string name="upgrade_space_successful">upgrade successful %sGB</string>
+  <string name="upgrade_space_successful_total">Total space upgrade to %sGB</string>
+  <string name="get_first_month_gb">Get %s free space for the first time</string>
+  <string name="get_this_month_gb">Get %s free space this month</string>
+  <string name="free_space_has_received">Free space has already received this month</string>
+  <string name="free_space_receive_fail">"Can't upgrade or have already upgraded"</string>
+  <string name="cloud_space_upgrade_title">Get Free Cloud Space!</string>
 </resources>

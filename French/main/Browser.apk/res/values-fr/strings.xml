@@ -106,8 +106,6 @@
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.fr</string>
-  <string name="common_use_phrase_bottom_bar_text_next">Suivant</string>
-  <string name="common_use_phrase_bottom_bar_text_previous">Préc.</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Réduire</string>
   <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Coller</string>
   <string name="common_use_phrase_bottom_bar_paste_txt">Coller</string>
@@ -717,12 +715,12 @@
   <string name="block_ads_choice_continue">Continuer</string>
   <string name="block_ads_message">Souhaitez-vous bloquer les messages provenant de ce site web ?</string>
   <string name="block_ads_title">Contenu potentiellement publicitaire</string>
-<!-- à traduire -->
-  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
-  <string name="pref_check_security_url_title">Check URL security</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
-<!-- à traduire voice -->
+  <string name="pref_check_security_url_summary">"Envoi l\'adresse des sites web vers les serveurs de Xiaomi afin vérifier sa sécurité"</string>
+  <string name="pref_check_security_url_title">Vérifier les liens</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Information</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
+
+<!-- à traduire ?? voice -->
   <string name="voice_title">Speak your command…</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title_please">Begin speaking…</string>

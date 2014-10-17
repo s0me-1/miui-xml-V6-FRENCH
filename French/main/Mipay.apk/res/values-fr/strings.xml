@@ -114,4 +114,5 @@ Please check your local date and try again."</string>
   <string name="mipay_date_picker_label_year"/>
   <string name="mipay_date_picker_label_month"/>
   <string name="mipay_process_expired">Your operation has expired, please restart</string>
+  <string name="mipay_bank_card_quick_pass_alert">You can copy numbers from bank cards that support Instapay, by touching the card to the back of your device</string>
 </resources>

@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="livetalk_provider_info">Fourni par %s</string>
   <string name="phoneAppLabel">Téléphone</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="onscreen_add_call_text">Ajouter un appel</string>
@@ -638,7 +639,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="upgrade_vt_tx_prompt">Voulez-vous passer de l\'appel vidéo à l\'appel vocal ?</string>
   <string name="upgrade_vt_rx_prompt">Voulez-vous recevoir uniquement l\'appel vocal à la place de l\'appel vidéo ?</string>
   <string name="vt_init_fail_str">L\'initialisation de la transmission vidéo a échoué. Déclassement de l\'appel à VoLTE\n</string>
-  <!-- à traduire -->
+<!-- à traduire -->
   <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
   <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>

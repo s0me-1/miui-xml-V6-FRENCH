@@ -263,4 +263,26 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_not_sim">Vide</string>
   <string name="sim_not_ready">Carte SIM non prête</string>
+  <string name="button_to_setting">Paramètres</string>
+<!-- à traduire -->
+  <string name="STRANGER_BLOCK">Stranger blocklist</string>
+  <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone &gt; Settings, before you can tag a number.</string>
+  <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
+  <string name="mark_agent">Sales agent</string>
+  <string name="mark_agent_block">Marked as agent</string>
+  <string name="mark_express">Courier</string>
+  <string name="mark_express_block">Marked as courier</string>
+  <string name="mark_fraud">Fraud</string>
+  <string name="mark_fraud_block">Marked as fraud</string>
+  <string name="mark_meal">Food delivery</string>
+  <string name="mark_meal_block">Marked as food delivery</string>
+  <string name="mark_number_info">"
++Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Marked as telemarketer</string>
+  <string name="st_title_markednumber_group">Marked number blocklist</string>
+  <string name="dlg_antispam_mode_delete_message">"You can't recover custom rules for blocklist after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_title">Delete custom rules</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
 </resources>

@@ -389,7 +389,6 @@
   <string name="message_invite_accept">Oui</string>
   <string name="message_invite_calendar_view">Afficher dans l\'agenda</string>
   <string name="message_invite_decline">Non</string>
-  <string name="message_invite_label_attending">Participer ?</string>
   <string name="message_invite_tentative">Peut-être</string>
   <string name="message_invite_title">Invitation Google Agenda</string>
   <string name="message_saved">Brouillon enregistré.</string>
@@ -776,6 +775,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="downloading_message_body">Chargement du mail, veuillez patienter…</string>
   <string name="check_setup_data">Vérification des paramètres serveur…</string>
 <!-- à traduire : -->
+  <string name="tryrefreshing">Try to Refreshing…</string>
   <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
   <string name="conversation_overload_toast">This email is too big to load, please go through all on PC later</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>

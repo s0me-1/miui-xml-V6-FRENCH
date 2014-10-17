@@ -1569,7 +1569,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
   <string name="skip_label">Ignorer</string>
-  <string name="skip_step">Ignorer cette étape</string>
+  <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
   <string name="sms_delivered_sound_title">Accusé de réception</string>
@@ -1958,15 +1958,15 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wallpaper_settings_fragment_title">Sélectionner fond d\'écran de</string>
   <string name="wallpaper_settings_title">Fond d\'écran</string>
   <string name="wfd_available_devices">Périph. disponibles</string>
-  <string name="wfd_disconnect_diag_msg">Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera.</string>
-  <string name="wfd_disconnect_diag_title">Déconnecter la session Wi-Fi ?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session d\'affichage sans fil, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
-  <string name="wfd_enable_wifi_diag_title">"Activer le Wi-Fi afin d'utiliser l'affichage sans fil ??"</string>
+  <string name="wfd_disconnect_diag_msg">Votre connexion avec %1$s va se terminer.</string>
+  <string name="wfd_disconnect_diag_title">Déconnecter l\écran ?</string>
+  <string name="wfd_disconnect_multiple_diag_message">Votre connexion avec les autres appareils %1$s et %2$s va se terminer.</string>
+  <string name="wfd_enable_wifi_diag_title">Activer le Wi-Fi ?</string>
   <string name="wfd_enabler_title">"Activer l'affichage sans fil"</string>
   <string name="wfd_menu_search">Rechercher des périphériques</string>
   <string name="wfd_menu_searching">Recherche…</string>
   <string name="wfd_menu_teardown">Déconnecter</string>
-  <string name="wfd_settings_description">Connectez-vous à un écran via Wi-Fi</string>
+  <string name="wfd_settings_description">Connexion à un écran via Wi-Fi</string>
   <string name="wfd_settings_title">Affichage sans fil</string>
   <string name="wfd_wps_keypad">Appuyer sur le bouton</string>
   <string name="wfd_wps_pbc">Saisir le code PIN</string>
@@ -2801,9 +2801,11 @@ et lancer le logiciel."</string>
   <string name="mione_update_success_title">Màj effectuée</string>
   <string name="now">Plus tard</string>
   <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">warning</font></string>
+"<font size="12">alerte</font></string>
   <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">limit</font></string>
+"<font size="12">plafond</font></string>
+  <string name="experimental_build">(Expérimental)</string>
+
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>
@@ -2813,4 +2815,11 @@ et lancer le logiciel."</string>
   <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
   <string name="modem_tool_log_stop">Stop Capturing</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+     <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
+     <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
+     <string name="cmcc_dm_settings_title">Device Management Permission</string>
+     <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
+     <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
+     <string name="free_wifi_user_agreement_allow">Agree</string>
+     <string name="free_wifi_user_agreement_title">Terms of Use</string>
 </resources>

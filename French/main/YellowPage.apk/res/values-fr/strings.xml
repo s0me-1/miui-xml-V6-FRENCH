@@ -2,7 +2,6 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="menu_about_yellow_page">À propos de cette page</string>
   <string name="menu_correct_yellow_page">Correction</string>
 <!--Sina -->
   <string name="sina_share_pendding">Envoi…</string>
@@ -154,7 +153,6 @@
 <!-- Express inquiry related -->
   <string name="express_inquiry">Suivi</string>
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
-  <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_button_text">Suivre</string>
   <string name="express_inquiry_serial_number_prefix">"Numéro : "</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
@@ -272,12 +270,33 @@
   <string name="express_inquiry_provider_info">Propulsé par</string>
   <string name="express_info_divider">" / "</string>
   <string name="all_services">Tous</string>
-<!-- à traduire ? affichées hors de la chine ? -->
-  <string name="express_inquiry_logistics_empty">Please select logistics.</string>
+  <string name="general_favorite_ok">Ajouté aux favoris</string>
+  <string name="hms_no_subject_view">(Aucun sujet)</string>
+  <string name="choose_upload">Sélectionner un fichier</string>
+  <string name="menu_add_to_favorite">Ajouter aux favoris</string>
+  <string name="menu_remove_from_favorite">Supprimer des favoris</string>
+  <string name="user_agreement2">" Conditions d\'utilisation"</string>
+  <string name="user_agreement4">Politique de confidentialité</string>
+  <string name="app_recommendation_install">Installer</string>
+  <string name="menu_save_contact">Créer un nouveau contact</string>
+<!-- à traduire ? non affichées hors de la chine ? -->
+  <string name="express_inquiry_edit_logistics">Courier</string>
+  <string name="express_inquiry_logistics">Select a courier service</string>
+  <string name="express_inquiry_logistics_select_others_indication">Other</string>
+  <string name="express_inquiry_trace">Trace</string>
+  <string name="express_inquiry_trace_success">Traced</string>
+  <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
+  <string name="express_inquiry_untrace">Untrace</string>
+  <string name="express_inquiry_untrace_success">Unraced</string>
+  <string name="express_urge_order">Urge</string>
+  <string name="group_name_management">Manage</string>
+  <string name="menu_enroll_in_yellow_page">Sign up for Mi Yellow Pages</string>
+  <string name="nearby_average_price">Average %d RMB</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="uploads_disabled">File uploads are disabled</string>
   <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
   <string name="express_inquiry_number_invalid">"Your input is invalid.
 Please check your tracking number."</string>
-  <string name="select">Select</string>
   <string name="group_name_service">Service</string>
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
@@ -288,10 +307,7 @@ Please check your tracking number."</string>
   <string name="average_price">Average %d RMB</string>
   <string name="minimum_price">From %d RMB</string>
   <string name="coupon_bought_count">%d bought</string>
-  <string name="app_recommendation_install">Install</string>
   <string name="shop_recommendation_format">%1$s : %2$s</string>
-  <string name="menu_add_to_favorite">Add to favorites</string>
-  <string name="menu_remove_from_favorite">Remove from favorites</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Some of your directory info is outdated. Do you want to update it? By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="fraud_number_online_identification">Block telemarketers (requires internet connection)</string>
@@ -308,7 +324,6 @@ Please check your tracking number."</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_succeeded">Succeeded</string>
   <string name="express_order_failed">Failed</string>
-  <string name="express_company_empty">No companies</string>
   <string name="express_order_internal_id">Order ID</string>
   <string name="express_order_created_time">Created time</string>
   <string name="express_order_state_ordered">Ordered</string>
@@ -346,8 +361,6 @@ Please check your tracking number."</string>
   <string name="order_id_label">Order ID: %s</string>
   <string name="order_date_label">Order date: %s</string>
   <string name="order_not_found">No related order</string>
-  <string name="user_agreement2">" User agreement"</string>
-  <string name="user_agreement4">Privacy policy</string>
   <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="account_order">Order history</string>
   <string name="account_address">Addresses</string>

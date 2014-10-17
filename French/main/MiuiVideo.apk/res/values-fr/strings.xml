@@ -299,4 +299,16 @@
   <string name="gong_count_ge">%d total</string>
   <string name="installed">Installed</string>
   <string name="installed_count_ge">%d installed</string>
+  <string name="vp_client_message">Install %1$s client?</string>
+  <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
+  <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
+  <string name="vp_hint">Hint</string>
+  <string name="vp_install">Install HD components app?</string>
+  <string name="vp_install_title">Install HD</string>
+  <string name="vp_maintitlearea">Download and enjoy HD video</string>
+  <string name="vp_plugin_message">Install HD plug-in?</string>
+  <string name="vp_support_by">Support by %1$s</string>
+  <string name="vp_toast_downloadapk">Download apk in the background for you …</string>
+  <string name="cnlive">cnlive</string>
+  <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
 </resources>

@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="miui_wallpaper">Fond d\'écran</string>
   <string name="confirm_delete_home_merge_item">Supprimer les %s photo(s) du téléphone et du cloud ?</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="device_model">"Modèle "</string>
@@ -553,7 +554,6 @@
   <string name="impunity_declaration_settings">Afficher l\'avertissement de trafic</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Galerie</string>
   <string name="impunity_declaration_title">Avertissement</string>
-  <string name="mipc_1">Camera de poche</string>
 <!-- à traduire, ou est l'album secret?? -->
   <string name="operation_add_secret">Add secret</string>
   <string name="operation_remove_secret">Remove secret</string>

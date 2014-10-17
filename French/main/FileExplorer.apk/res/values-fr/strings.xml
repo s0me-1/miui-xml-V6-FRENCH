@@ -290,7 +290,7 @@
   <string name="file_not_exist">ficher non existant</string>
   <string name="open_file_failed">erreur lors de l\'ouverture</string>
   <string name="menu_list_name">Menu</string>
-  <string name="tools">Outils</string>
+  <string name="tools">OUTILS</string>
   <string name="category_type_meida">Multimédia</string>
   <string name="category_type_document">Documents</string>
   <string name="category_type_other">Autres</string>
@@ -304,10 +304,22 @@
   <string name="terabyteShort">" To"</string>
   <string name="petabyteShort">" Po"</string>
   <string name="tab_local">Local</string>
-  <string name="sys_size_enable">Activer</string>
+  <string name="tab_path">DOSSIERS</string>
+  <string name="sys_size_enable">" disponible"</string>
   <string name="tab_sys_size">Espace total</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="user_guide_continue_use">Ok</string>
   <string name="user_guide_save_file">www.kuaipan.cn</string>
   <string name="user_guide_kuaipan_lable">Kuaipan, votre espace de stockage</string>
+  <string name="operation_agree">Accepter</string>
+  <string name="operation_save">Enregistrer</string>
+  <string name="system_alert">Rappel</string>
+  <string name="user_guide_summary">Guide utilisateur</string>
+  <string name="never_notify_network_connect">Ne plus afficher</string>
+  <string name="downloading_in_3g">Téléchargement via le réseau mobile…</string>
+  <string name="copy_file_to_kuaipan">Copier vers KuaiPan</string>
+  <string name="file_already_downlaoded">Fichier enregistré dans \"%1$s\"</string>
+  <string name="network_connect_confirm_des">KuaiPan requiert l\'accès à internet pour fonctionner correctement.</string>
+  <string name="connect_network_setting_des">Me le rappeler lors d\'accès au réseau</string>
+  <string name="operate_confirm_in_3g">Utiliser le réseau mobile pour télécharger ce fichier volumineux ?</string>
 </resources>

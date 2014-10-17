@@ -58,13 +58,13 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="all_list_empty">Aucun contact</string>
   <string name="all_resources">Tout</string>
   <string name="antispam_mark_my_contribution">Ma contribution à la base de données</string>
-  <string name="antispam_provider_format">Ce nombre marqué a été ajouté par %s</string>
+  <string name="antispam_provider_format">Signalé comme spam par %s</string>
   <string name="attach_photo_dialog_title">Photo du contact</string>
   <string name="audio_chat">Conversation audio</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
-  <string name="batch_delete_msg">Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ? Si vous utilisez le service de synchronisation de contact, les informations dans le cloud seront également supprimées.</string>
+  <string name="batch_delete_msg">Supprimer les %d contacts sélectionnés ?</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
   <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s :</string>
   <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
@@ -169,7 +169,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="clear_digits">effacer le numéro de téléphone</string>
   <string name="click_close">Appuyez pour fermer</string>
   <string name="close_dial_pad">fermer le pavé de numérotation</string>
-  <string name="cloud_antispam_mark">Spam</string>
+  <string name="cloud_antispam_mark">Signaler spam</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
@@ -736,11 +736,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="preference_simple_mode_description">La liste d\'éléments n\'affiche pas l\'avatar, l\'attribution ni l\'entreprise</string>
   <string name="preference_simple_mode_title">Mode simple</string>
   <string name="preference_smart_group_company_summary">Grouper les contacts par société</string>
-  <string name="preference_smart_group_company_title">Par société</string>
+  <string name="preference_smart_group_company_title">Sociétés</string>
   <string name="preference_smart_group_frequency_summary">Regrouper par les derniers appels ou SMS</string>
-  <string name="preference_smart_group_frequency_title">Par contact récent</string>
+  <string name="preference_smart_group_frequency_title">Récents</string>
   <string name="preference_smart_group_location_summary">Regroupés en fonction de l\'indicatif régional</string>
-  <string name="preference_smart_group_location_title">Par emplacement</string>
+  <string name="preference_smart_group_location_title">Localisations</string>
   <string name="preference_smart_group_title">Regroupement intelligent</string>
   <string name="preference_telocation_summary_countrycode_off">ne pas ajouter automatiquement l\'indicatif du pays</string>
   <string name="preference_telocation_summary_countrycode_on">ajouter automatiquement l\'indicatif du pays</string>
@@ -1131,7 +1131,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="yellowpage_navigation_network_location_enable">Activer</string>
   <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">L\'annuaire YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation inactif</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation</string>
   <string name="meid_invalid">MEID non valide</string>
   <string name="eventTypeCustom">Personnalisé</string>
   <string name="yellowpage_navigation_network_location_enabled">Service de localisation activé</string>
@@ -1147,8 +1147,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_trial_fail_go_settings">Paramètres</string>
   <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_comment_rating_star_tips">Toucher les étoiles pour donner une note</string>
-  <string name="resource_failed_to_load_list">Échec du chargement de la liste</string>
-  <string name="resource_search_list_empty">Aucun résultat</string>
   <string name="solar_calendar">Calendrier solaire</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
   <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>

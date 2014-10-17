@@ -20,9 +20,13 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-<!-- supprimée 4.9.3 cancroalpha -->
-  <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
-<!-- -->
+
+  <string name="view_hms_attachment_fail">Échec du téléchargement de l\'image.</string>
+  <string name="menu_new_contact">Nouveau contact</string>
+  <string name="menu_add_black">Ajouter à la liste noire</string>
+  <string name="menu_add_contact">Ajouter un contact</string>
+  <string name="menu_mark">Marquer</string>
+  <string name="hms_add_image_progress_message">Traitement....</string>
   <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
@@ -523,8 +527,10 @@
   <string name="user_agreement5">En appuyant sur OK, vous acceptez les termes de ces contrats.</string>
   <string name="menu_yellowpage">Afficher %s</string>
   <string name="menu_more">Plus</string>
+  <string name="mx_on_sim_1">Mi Message sur la SIM %s</string>
+  <string name="mx_on_sim_2">Mi Message sur la SIM %s</string>
+  <string name="english_subject_limit">40 caractères maximum</string>
 <!-- à traduire -->
-  <string name="english_subject_limit">40 character limit</string>
   <string name="app_name">Device Management</string>
   <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="send_message_dlg_title">Device Management</string>

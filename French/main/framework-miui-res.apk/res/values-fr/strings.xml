@@ -24,8 +24,8 @@
   <string name="unknown">Numéro inconnu</string>
   <string name="user_agreement1">Vous allez utiliser le système et les services en ligne fournis par Xiaomi, merci de lire le "</string>
   <string name="user_agreement2">"Contrat d'utilisateur"</string>
-  <string name="user_agreement3">" et les "</string>
-  <string name="user_agreement4">Règles de confidentialité</string>
+  <string name="user_agreement3">" et la "</string>
+  <string name="user_agreement4">Politique de confidentialité</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
   <string name="v5_edit_mode_title_empty">Aucun élément sélectionné</string>
   <string name="v5_icon_menu_bar_more_item_label">Plus</string>

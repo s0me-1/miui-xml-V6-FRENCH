@@ -386,7 +386,6 @@
   <string name="resume_playing_restart">Redémarrer</string>
   <string name="resume_playing_resume">Reprendre la lecture</string>
   <string name="resume_playing_title">Reprendre la vidéo</string>
-  <string name="review_cancel">ANNULER</string>
   <string name="rotate_left">Faire pivoter à gauche</string>
   <string name="rotate_right">Faire pivoter à droite</string>
   <string name="save">Oui</string>
@@ -418,8 +417,10 @@
   <string name="simple_mode_button_text_slow_video">Quitter le mode fast-motion</string>
   <string name="simple_mode_button_text_fast_video">Quitter le mode slow-motion</string>
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
+  <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
+  <string name="pref_burst_shoot_title">Rafale</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
   <string name="snapshot_qcif_and_d1">Seule la taille d\'instantané vidéo est prise en charge pour cette résolution.</string>
   <string name="snapshotsize_low_powermode">La prise en charge de la résolution d\'image en mode faible consommation n\'est pas pris en charge. La résolution de l\'instantané vidéo sera utilisée. Veuillez sélectionner le mode de puissance élevé pour choisir la résolution de l\'image.</string>
@@ -478,7 +479,6 @@
   <string name="pref_camcorder_settings_category">Paramètres photo et vidéo</string>
   <string name="pref_capture_settings">Paramètres appareil photo</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
-  <string name="pref_camera_front_fb_title">Améliorer le teint de peau</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="setting_top_text">Options</string>
   <string name="simple_mode_button_text_ubifocus">Quitter le mode Refocus</string>
@@ -486,9 +486,10 @@
   <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
-  <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
+  <string name="object_track_enable_toast">"Appuyez avec deux doigts sur les coté d\'un objet pour activer le suivi."</string>
   <string name="simple_mode_button_text_manual">Quitter le mode manuel</string>
   <string name="simple_mode_button_text_manual_mode">Quitter le mode manuel</string>
   <string name="pref_camera_manual_mode_title">Manuel</string>
   <string name="pref_qc_focus_position_title">Focus</string>
+  <string name="confirm_location_title">Store location info</string>
 </resources>

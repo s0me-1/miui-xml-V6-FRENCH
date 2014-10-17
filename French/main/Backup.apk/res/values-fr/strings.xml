@@ -194,4 +194,6 @@
   <string name="cloud_app_name">Mi Cloud backup</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="sd_not_available">Aucun carte SD détectée</string>
+  <string name="never">Jamais</string>
+  <string name="every_day">Quotidiennement</string>
 </resources>
