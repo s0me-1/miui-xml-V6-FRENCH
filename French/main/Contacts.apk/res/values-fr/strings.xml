@@ -378,7 +378,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="exporting_vcard_finished_title">Exportation de \"%s\" terminée</string>
   <string name="external_profile_title">Mon profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">Impossible d'ouvrir \"%s\" : %s</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Impossible d\'ouvrir \"%s\" : %s</string>
   <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>

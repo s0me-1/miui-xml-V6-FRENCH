@@ -8,7 +8,7 @@
   <string name="ad_countdown">%ss restantes</string>
   <string name="vp_cancel">Annuler</string>
   <string name="vp_retry">Réessayer</string>
-  <string name="vp_loading_download"><CDATA>Téléchargement <CDATA></string>
+  <string name="vp_loading_download"><CDATA>Téléchargement </CDATA></string>
   <string name="vp_loading_video">Chargement…</string>
   <string name="all">Tous</string>
   <string name="about_app_name">Lecteur vidéo</string>
