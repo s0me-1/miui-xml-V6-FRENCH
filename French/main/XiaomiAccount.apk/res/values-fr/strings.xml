@@ -240,7 +240,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="reg_via_sms_alert">Le SMS d\'activation peut être assujetti à des frais supplémentaires</string>
   <string name="scan_barcode_title">Connectez-vous à votre compte Mi en scannant le code QR</string>
   <string name="license_host_unreachable">Impossible d\'accéder à internet. Pour afficher ces informations, accédez à %s</string>
-  <string name="mibi_balance">%s MiCredits</string>  
+  <string name="mibi_balance">%s MiCredits</string>
   <string name="sim_index_info">Carte SIM %1$d - %2$s</string>
   <string name="facebook">facebook</string>
   <string name="error_ssl_hand_shake">Erreur de connexion au serveur. Veuillez vérifier que l\'horloge de votre appareil soit correctement configurée.</string>

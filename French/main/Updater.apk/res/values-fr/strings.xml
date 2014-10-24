@@ -90,14 +90,14 @@
   <string name="notification_reboot_btn">Redémarrer</string>
   <string name="notification_reboot_des">Redémarrer pour mettre à jour %s.</string>
   <string name="notification_reboot_seccess_des">Appuyer pour partager</string>
-  <string name="notification_reboot_seccess_title">Appareil mis à jour !</string>
+  <string name="notification_reboot_seccess_title">Appareil mis à jour</string>
   <string name="notification_reboot_title">Mise à jour effectuée</string>
   <string name="notification_share">Partager</string>
   <string name="notification_update_new_version">Mise à jour disponible</string>
   <string name="notification_update_now">Mettre à jour</string>
   <string name="notification_updating">Mise à jour…</string>
   <string name="now">Redémarrer</string>
-  <string name="on_checking">Recherche de mise à jour...</string>
+  <string name="on_checking">Recherche de mise à jour…</string>
   <string name="particular_build">Spéciale</string>
   <string name="pause">Pause</string>
   <string name="previous">Précédent</string>
@@ -128,7 +128,6 @@
   <string name="top_secret_build">top-secrète</string>
   <string name="unkown_error_title">Erreur inconnue</string>
   <string name="unstable_build">stable</string>
-  <string name="update_comment_hint" />
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Donner son avis</string>
   <string name="update_feedback_end">Vous avez manqué de noter la mise à jour</string>

@@ -51,7 +51,7 @@
   <string name="attendees_label">Invités</string>
   <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
   <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s !</string>
-  <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire !</string>
+  <string name="birthday_notification_text_three_days_later">3 jours avant son anniversaire (%3$s)</string>
   <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
   <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
   <string name="birthday_notification_title_today">Anniversaire de %1$s</string>

@@ -49,7 +49,7 @@
   <string name="album_share_subtitle_invited">Partagé par %1$s, accepter ou ignorer ?</string>
   <string name="album_share_subtitle_normal">Partagé par %1$s</string>
   <string name="album_share_subtitle_not_ready">Informations de l\'album non prêtes. Appuyez pour télécharger.</string>
-  <string name="album_share_subtitle_quitting">Fermeture de l\'invitation de %1$s…</string>
+  <string name="album_share_subtitle_quitting">Fermeture…</string>
   <string name="album_share_subtitle_requesting">Téléchargement les informations de l\'album…</string>
   <string name="album_share_title_new_album">Nouvel album partagé</string>
   <string name="albums">Albums</string>
@@ -82,7 +82,6 @@
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
   <string name="camera_folder_display_name">Appareil photo</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Fond d\'écran</string>
   <string name="camera_view_none_message">Les photos et vidéos prises s\'afficheront ici.</string>
   <string name="cancel">Annuler</string>

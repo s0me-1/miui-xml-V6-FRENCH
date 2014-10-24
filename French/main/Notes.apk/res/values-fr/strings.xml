@@ -32,7 +32,7 @@
   <string name="error_note_not_exist">La note n\'existe pas</string>
   <string name="error_unsupport_content">Cette note contient un contenu non supporté, appuyez pour mettre à jour le système</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
-  <string name="folder_exist">Le dossier %1$s existe déjà, veuillez changer le nom</string>
+  <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
   <string name="format_move_notes_to_folder">%1$d notes ont été déplacées dans le dossier %2$s</string>
   <string name="hint_foler_name">Entrez un nom de dossier</string>
   <string name="info_note_enter_desktop">Note ajoutée à l\'écran d\'accueil</string>

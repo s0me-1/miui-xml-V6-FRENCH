@@ -8,7 +8,7 @@
   <string name="ad_countdown">%ss restantes</string>
   <string name="vp_cancel">Annuler</string>
   <string name="vp_retry">Réessayer</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Téléchargement &lt;/CDATA&gt;</string>
+  <string name="vp_loading_download"><CDATA>Téléchargement <CDATA></string>
   <string name="vp_loading_video">Chargement…</string>
   <string name="all">Tous</string>
   <string name="about_app_name">Lecteur vidéo</string>
@@ -259,8 +259,8 @@
   <string name="media_name_comment">%s comment</string>
   <string name="comment_edit_et_hint">Enter a comment</string>
   <string name="comment_edit_blog_hint">Post to Weibo</string>
-  <string name="comment_count_less_tip">Comment must be at least d% characters</string>
-  <string name="comment_count_much_tip">"Comment can't exceed d% characters"</string>
+  <string name="comment_count_less_tip">Comment must be at least %d characters</string>
+  <string name="comment_count_much_tip">"Comment can't exceed %d characters"</string>
   <string name="offline_no_source">"Can't view in offline mode"</string>
   <string name="download_is_in_tasklist">In download queue</string>
   <string name="download_add_success">Added to download queue</string>

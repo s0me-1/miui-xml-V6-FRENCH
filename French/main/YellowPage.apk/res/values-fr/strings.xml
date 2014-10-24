@@ -45,7 +45,7 @@
 <!-- YellowPage related -->
   <string name="yellow_page_website">Site officiel</string>
   <string name="menu_copy_text">Copier dans le presse-papier</string>
-  <string name="menu_call_ip_number">Appel via SIP (%s)</string>
+  <string name="menu_call_ip_number">Appel via SIP</string>
   <string name="toast_text_copied">Texte copié</string>
 
 <!-- Call log related -->
@@ -158,7 +158,6 @@
   <string name="express_inquiry_no_result">Aucun résultat.</string>
   <string name="express_inquiry_internal_failure">Une erreur est survenue.\nVeuillez vérifier le numéro de suivi</string>
   <string name="express_inquiry_data_owner_prefix">"Informations de suivi fournies par "</string>
-  <string name="express_inquiry_data_owner_suffix"/>
   <string name="scan">Scanner</string>
   <string name="express_inqiury_select_logistics">Entreprise postale</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
@@ -243,7 +242,6 @@
   <string name="account_type_name">Compte Mi</string>
   <string name="account_yellowpage_recent">Historique</string>
   <string name="account_yellowpage_favorite">Favoris</string>
-  <string name="group_name_basic" />
   <string name="group_name_gallery">Galerie</string>
   <string name="group_name_more">Autres</string>
   <string name="group_name_data_source">Source</string>

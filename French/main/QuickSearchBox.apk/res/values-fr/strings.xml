@@ -21,7 +21,6 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <string name="app_name">Recherche</string>
-  <string name="apps_search_activity" />
   <string name="clear_shortcuts">Effacer les raccourcis</string>
   <string name="clear_shortcuts_agree">Effacer les raccourcis</string>
   <string name="clear_shortcuts_disagree">Conserver les raccourcis</string>

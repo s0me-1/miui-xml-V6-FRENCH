@@ -116,8 +116,7 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_retry_receive">Retry</string>
   <string name="hfb_return">Back</string>
   <string name="hfb_succ_label">Purchase completed</string>
-  <string name="hfb_succ_result">"Thank you for using our payment services.
-You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
+  <string name="hfb_succ_result">"Thank you for using our payment services."</string>
 <!-- -->
   <string name="label_balance">"Solde : "</string>
   <string name="label_order_name">"Nom du produit : "</string>
@@ -129,9 +128,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_continue_button_text">Continuer</string>
   <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer</string>
   <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Schéma non valide, %d tentatives restantes&lt;/font></string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage</string>
   <string name="lockpattern_pattern_entered_header">Schéma enregistré.</string>
   <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer</string>
@@ -219,7 +216,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="recharge_bankcall_title">Carte bancaire</string>
   <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
   <string name="recharge_grid_edit_upper_limit">Ne peut excéder %1$s RMB</string>
-  <string name="recharge_grid_error_denomination">Veuillez saisir le montant correct entre %1$d et %2$d RMB</string>
+  <string name="recharge_grid_error_denomination">Veuillez saisir le montant correct entre %1$s et %2$s RMB</string>
   <string name="recharge_grid_picker_hint">Veuillez saisir le montant MiCredit</string>
   <string name="recharge_group_favorite">Méthodes de recharge utilisées</string>
   <string name="recharge_group_others">Autres méthodes de recharge</string>

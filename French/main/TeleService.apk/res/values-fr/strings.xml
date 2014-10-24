@@ -12,7 +12,7 @@
   <string name="mmiStarted">Le code IHM a été lancé.</string>
   <string name="ussdRunning">Exécution du code USSD…</string>
   <string name="cancel">Annuler</string>
-  <string name="enter_input" formatted="false">Saisie requise. Réessayez !</string>
+  <string name="enter_input" formatted="false">Le message USSD doit contenir entre %d et %d caratères. Veuillez réessayer</string>
   <string name="ok">OK</string>
   <string name="send_button">Envoyer</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
@@ -156,6 +156,7 @@ Will use preferred network instead."</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_auto">Automatique</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G(CDMA) privilégiée</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">4G privilégiée</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G privilégiée</string>
   <string name="preferred_network_type_pref_entries_only_2g">2G seulement (moins énergivore)</string>
@@ -607,7 +608,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_setting">Appels enregistrés</string>
   <string name="call_recording_notification_summary">Afficher une notification dans la barre d\'état à la fin de l\'enregistrement</string>
   <string name="call_recording_notification_message_low_storage">Enregistrement stoppé : espace insuffisant.</string>
-  <string name="call_recording_notification_message">Appuyer pour afficher</string>
+  <string name="call_recording_notification_message">Appuyer pour afficher %s</string>
   <string name="call_recording_notification_message_sd_unmounted">Enregistrement stoppé : carte SD non détectée.</string>
   <string name="call_record_add_numbers">Ajouter des numéros</string>
   <string name="call_remove_exception_numbers_confirm">%d numéros vont être supprimés.</string>

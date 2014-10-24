@@ -7,7 +7,7 @@
   <string name="about_text5">Icône :</string>
   <string name="about_text6">DriffeX</string>
   <string name="app_name">Gestionnaire des commutateurs</string>
-  <string name="data_access">Contrôle</string>
+  <string name="data_access">Ctrl d\'accès</string>
   <string name="data_airplane">Mode avion</string>
   <string name="data_autolight">Luminosité auto</string>
   <string name="data_block">Verrouiller</string>
@@ -19,13 +19,13 @@
   <string name="data_mobile">Données</string>
   <string name="data_rotate">Rotation</string>
   <string name="data_screenshot">Capture</string>
-  <string name="data_silent">Ne pas déranger</string>
+  <string name="data_silent">NPD</string>
   <string name="data_sound">Silencieux</string>
   <string name="data_speed">Mode performance</string>
-  <string name="data_sync">Synch. auto</string>
+  <string name="data_sync">Sync. auto</string>
   <string name="data_vibration">Vibreur</string>
   <string name="data_wifi">Wi-Fi</string>
-  <string name="data_wifispot">Hotspot Wi-Fi</string>
+  <string name="data_wifispot">Hotspot</string>
   <string name="main_menu_about">À propos</string>
   <string name="main_menu_howtouse">Tutoriel</string>
   <string name="main_reset_button">Réinitialiser</string>

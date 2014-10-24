@@ -378,8 +378,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="exporting_vcard_finished_title">Exportation de \"%s\" terminée</string>
   <string name="external_profile_title">Mon profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir \"%s\" : %s
-(Raison : %2$s)"</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Impossible d'ouvrir \"%s\" : %s</string>
   <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>
@@ -455,7 +454,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="import_weibo_error_unknown">Mise à jour des contacts terminée : erreur inconnue</string>
   <string name="import_weibo_error_user_cancel">Mise à jour des contacts terminée : l\'utilisateur a quitté</string>
   <string name="import_weibo_fetch_followers">Récupération de followers Sina Weibo…</string>
-  <string name="import_weibo_notification_title_done">Importation terminée</string>
+  <string name="import_weibo_notification_title_done">%s contacts importés</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Import des contacts SIM…</string>
@@ -554,7 +553,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="menu_splitAggregate">Séparer</string>
   <string name="menu_sync_remove">Supprimer le groupe synchronisé</string>
   <string name="menu_viewContact">Afficher le contact</string>
-  <string name="merge_contact_message">(%1$d) contacts avec des données partiellement en double, (%2$d) fusionnés</string>
+  <string name="merge_contact_message">%1$d contacts avec des données partiellement identiques</string>
   <string name="messageShortcutActivityTitle">Choisissez le numéro auquel envoyer le message</string>
   <string name="missing_name">(Sans nom)</string>
   <string name="move_and_resize">Déplacer et redimensionner</string>
@@ -1021,7 +1020,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="unknown">Inconnu</string>
   <string name="unknown_contact_name">Contact inconnu</string>
   <string name="upgrade_in_progress">Mise à jour de la liste de contacts…</string>
-  <string name="upgrade_out_of_memory">"Les contacts sont actuellement mis à jour. La mise à jour requiert environ %d Mo de capacité de stockage. Sélectionnez l'une des options suivantes :"</string>
+  <string name="upgrade_out_of_memory">"Les contacts sont actuellement mis à jour.
+
+La mise à jour requiert environ %s Mo de capacité de stockage.
+
+Sélectionnez l'une des options suivantes :"</string>
   <string name="upgrade_out_of_memory_retry">Réessayer</string>
   <string name="upgrade_out_of_memory_uninstall">Désinstaller certaines applications</string>
   <string name="use_photo_as_primary">Utiliser cette photo</string>

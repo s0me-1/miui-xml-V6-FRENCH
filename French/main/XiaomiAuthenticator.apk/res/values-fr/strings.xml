@@ -105,9 +105,7 @@
   <string name="lockpattern_tutorial_jump_label">Passer</string>
   <string name="lockpattern_tutorial_close_label">Fermer</string>
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Trop de tentatives incorrectesﾠ!&lt;/font></string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">>Réessayez dans %d secondes.</string>
   <string name="title_myaccount">Mon compteﾠ: %s</string>
   <string name="title_gesture">Schéma de verrouillage</string>

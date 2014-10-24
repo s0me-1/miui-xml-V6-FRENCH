@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="status_bar_settings_show_notification_icon">Afficher les icônes de notification</string>
   <string name="status_sim">État SIM</string>
   <string name="status_sim_1">SIM1</string>
   <string name="status_sim_2">SIM2</string>
@@ -166,7 +167,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="application_item_disable">Désactiver</string>
   <string name="application_item_permission">Autoriser</string>
   <string name="application_size_label">Application</string>
-  <string name="applications_settings">Toutes les applications</string>
+  <string name="applications_settings">Paramètres additionnels</string>
   <string name="applications_settings_header">Paramètres de l\'application</string>
   <string name="applications_settings_summary">Gérer les applications, configurer des raccourcis de lancement rapide</string>
   <string name="ask_compatibility">Demander au moment du lancement</string>
@@ -954,7 +955,6 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="large_font">Grande</string>
   <string name="last_synced">Dernière synchronisation : %1$s</string>
   <string name="launch_count_label">Nombre</string>
-  <string name="launcher_settings_title">Lanceur</string>
   <string name="led_colors_summary">Couleur de la LED de notification</string>
   <string name="led_frequence_summary">Définir l\'intervalle entre les clignotements de la LED</string>
   <string name="led_pulse_summary">Faire clignoter la LED pour les nouvelles notifications</string>
@@ -1103,7 +1103,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_apps_usage">Applis (données, multimédia)</string>
   <string name="memory_available">Disponible</string>
   <string name="memory_available_read_only">Disponible (en lecture seule)</string>
-  <string name="memory_calculating_size">Calcul en cours...</string>
+  <string name="memory_calculating_size">Calcul en cours…</string>
   <string name="memory_clear_cache_message">Les données en cache des applis seront effacées.</string>
   <string name="memory_clear_cache_title">Effacer les données mises en cache ?</string>
   <string name="memory_dcim_usage">Images, vidéos</string>
@@ -1241,7 +1241,6 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
   <string name="preference_change_password_title">Modifier le mot de passe</string>
-  <string name="preferred_launcher_title">Lanceur préféré</string>
   <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
   <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appel, les messages et autres données lors de l\'utilisation du mode invité</string>
   <string name="privacy_mode_enable_title">Activer le mode invité</string>
@@ -1462,7 +1461,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_key">Clé</string>
   <string name="search_label">Paramètres</string>
   <string name="search_language">Langue</string>
-  <string name="search_launcher">Lanceur</string>
   <string name="search_led">LED</string>
   <string name="search_network">Réseau</string>
   <string name="search_power_mode">mode de fonctionnement; performance; mode performance; mode normal; mode par défaut; mode équilibré; mode économique; mode économie d\'énergie; performance; puissance</string>
@@ -2499,7 +2497,6 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="process_stats_type_cached">En cache</string>
   <string name="process_stats_type_foreground">Premier plan</string>
   <string name="proxy_url">"URL de configuration automatique de proxy : "</string>
-  <string name="regulatory_info_text"/>
   <string name="restriction_menu_change_pin">Modifier le code PIN</string>
   <string name="restriction_menu_reset">Annuler les restrictions</string>
   <string name="restriction_settings_title">Restrictions</string>
@@ -2741,7 +2738,6 @@ et lancer le logiciel."</string>
   <string name="toast_lockscreen_glogin_empty_password">Saisir le mot de passe</string>
   <string name="lockscreen_glogin_checking_password">Vérification…</string>
   <string name="passwordIncorrect">Le mot de passe saisi est incorrect</string>
-  <string name="app_feedback">Signaler un bug</string>
   <string name="app_backup">Sauvegarde</string>
   <string name="google_backup_section_title">Sauvegarde &amp; restauration Google</string>
   <string name="system_backup_section_title">Sauvegarde</string>
@@ -2790,22 +2786,22 @@ et lancer le logiciel."</string>
   <string name="dialog_content_login">Pour recevoir les mises à jour, veuillez vous connecter à votre compte Mi.</string>
   <string name="dialog_title_login">Information</string>
   <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
-  <string name="lock_settings">Écran de verrouillage</string>
-  <string name="other_personal_settings">Plus…</string>
-  <string name="wireless_on">Actif</string>
-  <string name="wireless_off">Inactif</string>
   <string name="download_current_rom">Télécharger la ROM complète</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>
   <string name="install_whole_rom">Télécharger la ROM</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
-  <string name="mione_update_success_title">Màj effectuée</string>
   <string name="now">Plus tard</string>
   <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">alerte</font></string>
   <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">plafond</font></string>
   <string name="experimental_build">(Expérimental)</string>
-
+  <string name="lock_settings">Écran de verrouillage</string>
+  <string name="wireless_on">Actif</string>
+  <string name="wireless_off">Inactif</string>
+  <string name="other_advanced_settings">Paramètres additionnels</string>
+  <string name="other_personal_settings">Paramètres additionnels</string>
+  
 <!-- à traduire -->
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="miracast_menu_teardown">Teardown</string>

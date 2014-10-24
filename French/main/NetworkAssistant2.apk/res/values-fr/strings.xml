@@ -244,7 +244,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="traffic_saving_whitelist_btn_added">Ajouté à la liste</string>
   <string name="traffic_saving_whitelist_btn_remove">Supprimer</string>
   <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
-  <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis ne sera pas restreint</string>
+  <string name="traffic_saving_whitelist_count">L\'utilisation des données de %d applis ne sera pas restreint</string>
   <string name="traffic_saving_whitelist_no_app">Aucune application</string>
   <string name="checkout_traffic_saving_history">Historique</string>
   <string name="traffic_saving_msg_not_started">Inactif</string>

@@ -50,7 +50,6 @@
   <string name="bookmark_this_page">Ajouter cette page aux favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
   <string name="bookmarks_add_page">Ajouter aux favoris</string>
-  <string name="browserFrameFormResubmitLabel"/>
   <string name="browser_bookmarks_page_bookmarks_text">Favoris</string>
   <string name="browser_history">Dernières pages consultées</string>
   <string name="clear_data_cache_cookie">Effacer le cache et les cookies</string>

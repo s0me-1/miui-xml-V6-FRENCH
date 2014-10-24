@@ -784,10 +784,8 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
   <string name="chooseActivity">Sélectionnez une action</string>
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
   <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
-  <string name="aerr_title" />
   <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
   <string name="aerr_process">Le processus %1$s s \'est interrompu.</string>
-  <string name="anr_title" />
   <string name="anr_activity_application">L\'application %2$s ne répond pas.
 
 Voulez-vous la quitter ?</string>

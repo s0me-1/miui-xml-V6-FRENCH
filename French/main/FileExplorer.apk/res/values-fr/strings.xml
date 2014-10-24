@@ -2,8 +2,6 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="local_cache_size">Taille du cache local : %s</string>
-  <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="already_signin_description">Vous êtes déjà connecté</string>
@@ -22,7 +20,6 @@
   <string name="category_document">Documents</string>
   <string name="category_favorite">Favoris</string>
   <string name="category_log">Journaux</string>
-  <string name="category_mirouter">Mi Router</string>
   <string name="category_music">Musique</string>
   <string name="category_other">Divers</string>
   <string name="category_picture">Photos</string>
@@ -36,7 +33,6 @@
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="cleaning">Nettoyage…</string>
   <string name="close">Fermer</string>
-  <string name="colon">" : "</string>
   <string name="compress_fail">La compression a échoué, la destination existe déjà</string>
   <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>
@@ -45,7 +41,7 @@
   <string name="copy_failed">Échec de la copie</string>
   <string name="create_kuaipan_shortcut_pref">Créer un raccourci sur le bureau</string>
   <string name="create_new_folder_desctiption">Création d\'un nouveau dossier…</string>
-  <string name="create_new_folder_failed">Impossible de créer le dossier %1$s</string>
+  <string name="create_new_folder_failed">Impossible de créer le dossier</string>
   <string name="create_share_link_description">Création d\'un lien de partage…</string>
   <string name="cution">Conseils</string>
   <string name="data_capacity">Espace : %1$s</string>
@@ -92,7 +88,7 @@
   <string name="file_loading">Chargement…</string>
   <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
   <string name="finished">Terminé</string>
-  <string name="folder_exist">Le fichier existe déjà</string>
+  <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres et des lettres. Sensible à la casse.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
@@ -184,7 +180,6 @@
   <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>
   <string name="pull_to_signin">Glissez vers le bas pour vous connecter</string>
-  <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter…</string>
   <string name="release_to_signin">Libérez pour vos connecter</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
@@ -216,8 +211,6 @@
   <string name="storage_usb">Périphérique de stockage USB</string>
   <string name="storage_warning">Le périphérique n\'est pas disponible ou ne peut pas être lu</string>
   <string name="tab_category">Parcourir</string>
-  <string name="tab_networkdisk">KuaiPan</string>
-  <string name="tab_phone">Téléphone</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="trans_task">Transfert par réseau</string>
   <string name="transing">Transfert</string>
@@ -306,7 +299,6 @@
   <string name="tab_local">Local</string>
   <string name="tab_path">DOSSIERS</string>
   <string name="sys_size_enable">" disponible"</string>
-  <string name="tab_sys_size">Espace total</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="user_guide_continue_use">Ok</string>
   <string name="user_guide_save_file">www.kuaipan.cn</string>

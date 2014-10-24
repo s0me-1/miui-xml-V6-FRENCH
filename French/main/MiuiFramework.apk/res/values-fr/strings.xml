@@ -2,7 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="status_bar_toggle_ac">Contr. d\'accès</string>
+  <string name="status_bar_toggle_ac">Ctrl d\'accès</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_auto_brightness">Lumin. auto</string>
@@ -100,5 +100,5 @@ To enable this function, go to Settings > System > Buttons"</string>
   <string name="key_btn_ok">OK</string>
   <string name="no_notification_tips">Aucune notification</string>
   <string name="softap_notifif_title">Hotspot \"%s\" activé</string>
-  <string name="softap_notifif_summary">%d connecté</string>
+  <string name="softap_notifif_summary">Clients : %d</string>
 </resources>

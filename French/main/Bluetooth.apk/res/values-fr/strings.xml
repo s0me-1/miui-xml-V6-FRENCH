@@ -137,10 +137,4 @@
   <string name="upload_succ_line5">Fichier envoyé</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>
-  <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
-  <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
-  <string name="bluetooth_preference_found_devices">Appareils</string>
-  <string name="progress_scanning">Recherche en cours</string>
-  <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
-  <string name="ble_device_connected">Appareil connecté</string>
 </resources>

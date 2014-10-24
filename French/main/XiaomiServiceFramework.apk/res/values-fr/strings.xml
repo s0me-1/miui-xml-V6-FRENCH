@@ -46,7 +46,7 @@
   <string name="activate_popup_title_manual">Activation de la carte SIM</string>
   <string name="activate_popup_title_new_sim_card">Activation de la nouvelle carte SIM</string>
   <string name="activate_popup_title_register_account">Enregistrement compte Mi</string>
-  <string name="activate_status_desc_acquire_phone_number">Acquisition du numéro depuis le serveur...</string>
+  <string name="activate_status_desc_acquire_phone_number">Acquisition du numéro depuis le serveur…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">"Erreur serveur pendant l\'acquisition du numéro de téléphone"</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Impossible de récupérer le numéro de téléphone"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Vérification du compte Mi sur le serveur</string>

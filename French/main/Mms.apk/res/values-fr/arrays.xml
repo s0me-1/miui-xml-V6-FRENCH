@@ -86,11 +86,11 @@
       <item>Jamais</item>
   </string-array>
   <string-array name="resent_via_entries_sms">
-      <item>Via message</item>
-      <item>Via Mi Message</item>
+      <item>SMS</item>
+      <item>Mi Message</item>
   </string-array>
   <string-array name="resent_via_entries_mms">
-      <item>Via message</item>
-      <item>Via Mi Message</item>
+      <item>SMS</item>
+      <item>Mi Message</item>
   </string-array>
 </resources>

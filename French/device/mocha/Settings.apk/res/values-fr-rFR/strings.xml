@@ -58,11 +58,10 @@
   <string name="move_app_app_label">App</string>
   <string name="move_app_data_label">Données</string>
   <string name="move_app_dlg_text">Cela peut prendre quelques minutes. Ne retirez pas la carte SD pendant cette opération.</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_free_on_device">%1$s de mémoire interne libres</string>
   <string name="move_app_free_on_sdcard">%1$s libres sur la carte SD</string>
-  <string name="move_app_progress_to_device">Déplacement de %1$s vers la mémoire interne...</string>
-  <string name="move_app_progress_to_sdcard">Déplacement de %1$s vers la carte SD...</string>
+  <string name="move_app_progress_to_device">Déplacement de %1$s vers la mémoire interne…</string>
+  <string name="move_app_progress_to_sdcard">Déplacement de %1$s vers la carte SD…</string>
   <string name="move_app_to_device_dlg_title">Déplacer vers la mémoire interne ?</string>
   <string name="move_app_to_sdcard_dlg_title">Déplacer vers la carte SD ?</string>
   <string name="tnhwrevision_settings_list_item_title">Révision du hardware</string>
