@@ -36,12 +36,14 @@
   <string name="terms_of_use">Conditions d\'utilisation</string>
   <string name="terms_of_service">Conditions d\'utilisation</string>
   <string name="user_agreement">Contrat d\'utilisateur</string>
-  <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
+  <string name="locale_picker_desc">Si vous souhaitez changer votre localisation plus tard, vous devrez effectuer une remise à zéro des données</string>
+  <string name="locale_picker_title">Sélectionnez un pays</string>
+  <string name="setting_locale">Application des paramètres de localisation...</string>
   <string name="terms_of_use_label">Vous devez accepter le Contrat d\'utilisateur et la Politique de confidentialité avant d\'utiliser MIUI</string>
-  <string name="setting_locale">Setting locale...</string>
+ <!-- à traduire -->
+  <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
   <string name="network_access_warning">Need network connectivity when active your device</string>
   <string name="miui_privacy_policy_no_network">No network connection. View the Privacy Policy at %s</string>
   <string name="miui_terms_no_network">No network connection. View the Terms of Service at %s</string>
-  <string name="locale_picker_desc">"If yout want to change your location later on, you'll need to perform a Factory data reset"</string>
-  <string name="locale_picker_title">Choose your location</string>
+
 </resources>

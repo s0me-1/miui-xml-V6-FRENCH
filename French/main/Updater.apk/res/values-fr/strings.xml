@@ -150,9 +150,10 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="view_upgrade_tutorial">Visionner</string>
   <string name="weekly_build">hebdomadaire</string>
   <string name="worst_update">La pire mise à jour</string>
+  <string name="download_title_first">Chargement…</string>
+  <string name="download_title_full_download">Chargement…</string>
+  
 <!-- à traduire -->
-  <string name="download_title_first">Getting update info…</string>
-  <string name="download_title_full_download">Getting package info…</string>
   <string name="user_intertup_download_msg">Downloads have been paused. You can unpause them any time in the Updater app.</string>
   <string name="user_intertup_download_title">Update download paused</string>
   <string name="validate_pkg_failed_msg">"The update you downloaded doesn't match our data. Try downloading it again."</string>
