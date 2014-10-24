@@ -536,8 +536,8 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="permission_action_reject">Refuser</string>
   <string name="empty_title_permission_apps_list">Aucune application</string>
   <string name="hints_permission_apps_count">%d applis</string>
-  <string name="hints_get_root_enable_title">Application autorisées : %d</string>
-  <string name="hints_get_root_disable_title">Application bloquées : %d</string>
+  <string name="hints_get_root_enable_title">Applications autorisées : %d</string>
+  <string name="hints_get_root_disable_title">Applications bloquées : %d</string>
   <string name="empty_title_root_apps">Aucune application root</string>
   <string name="hints_remember_choice">Ne pas redemander</string>
   <string name="root_apply_title">Avertissement</string>
