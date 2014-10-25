@@ -174,7 +174,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">11.88€ par an</string>
   <string name="sync">Synchroniser</string>
-  <string name="more_activity_in_upgrade_space">Plus d\'infos sur &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
+  <string name="more_activity_in_upgrade_space">Plus d\'infos sur <a href="http://i.mi.com">i.mi.com</a></string>
   <string name="data_syncing">Toujours synchroniser</string>
   <string name="find_device_dspt_provision">"Si vous perdez votre appareil, rendez vous sur "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
