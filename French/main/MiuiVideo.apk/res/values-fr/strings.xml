@@ -96,7 +96,7 @@
   <string name="sdcard_storage">Carte SD</string>
   <string name="disk_volume">Stockage amovible</string>
   <string name="unknown_source">Source inconnue</string>
-  <string name="authenticating"><CDATA>Vérification </CDATA></string>
+  <string name="authenticating"><CDATA>Authentification… </CDATA></string>
   <string name="connecting">Connexion…</string>
   <string name="update_to_count_ji">%d épisodes disponibles</string>
   <string name="count_ji_quan">%d épisodes</string>

@@ -874,7 +874,7 @@ Voulez-vous la fermer ?</string>
   <string name="date_time_set">Définir</string>
   <string name="date_time_done">OK</string>
   <string name="no_permissions">Aucune autorisation requise</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NOUVEAU</font> :</string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NOUVEAU</font> :</string>
   <string name="perms_description_app">Fourni par %1$s</string>
   <string name="usb_storage_activity_title">Mémoire de stockage de masse USB</string>
   <string name="usb_storage_title">Connecté par USB</string>
@@ -1361,13 +1361,13 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="revoke">Révoquer</string>
   <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
 L'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition."</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Ceci entraînera des frais sur votre compte mobile.&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">Ceci entraînera des frais sur votre compte mobile.</string>
   <string name="sms_short_code_confirm_allow">Envoyer</string>
   <string name="sms_short_code_confirm_always_allow">Toujours autoriser</string>
   <string name="sms_short_code_confirm_deny">Annuler</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; souhaite envoyer un message à &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
-  <string name="sms_short_code_details">Ceci &lt;font fgcolor="#ffffb060"&gt;peut entraîner des frais&lt;/font&gt; sur votre compte mobile.</string>
+  <string name="sms_short_code_details">Ceci peut entraîner des frais sur votre compte mobile.</string>
   <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
   <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres &gt; Applications</string>
   <string name="ssl_ca_cert_noti_by_unknown">Par un tiers inconnu</string>
