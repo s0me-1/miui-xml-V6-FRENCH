@@ -2766,6 +2766,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique va être remplacé par le nouveau.</string>
   <string name="virus_scan">Anti-virus</string>
   <string name="network_assistant">Moniteur de données</string>
+  <string name="need_reboot_now">Un redémarrage est requis pour finaliser la mise à jour, veuillez redémarrer maintenant.</string>
   <string name="anti_spam">Anti-Spam</string>
   <string name="permission_mgr">Permissions</string>
   <string name="cleaner">Nettoyage</string>

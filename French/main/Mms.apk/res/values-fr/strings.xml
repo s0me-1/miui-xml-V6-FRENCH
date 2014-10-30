@@ -521,8 +521,8 @@
   <string name="user_agreement5">En appuyant sur OK, vous acceptez les termes de ces contrats.</string>
   <string name="menu_yellowpage">Afficher %s</string>
   <string name="menu_more">Plus</string>
-  <string name="mx_on_sim_1">Mi Message sur la SIM %s</string>
-  <string name="mx_on_sim_2">Mi Message sur la SIM %s</string>
+  <string name="mx_on_sim_1">Mi Message sur la SIM 1</string>
+  <string name="mx_on_sim_2">Mi Message sur la SIM 2</string>
   <string name="english_subject_limit">40 caractères maximum</string>
 <!-- à traduire -->
   <string name="app_name">Device Management</string>

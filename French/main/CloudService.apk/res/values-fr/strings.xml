@@ -9,7 +9,7 @@
   <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Wi-Fi uniquement</string>
   <string name="pref_title_sync_my_profile_title">Synchroniser mon profil</string>
-  <string name="sub_sync_item_sms_summary">Utiliser uniquement le Wi-Fi pour synchroniser les photos des contacts, réduit l\'usage des données</string>
+  <string name="sub_sync_item_sms_summary">Les messages contenant photos, audio ou autres médias seront synchronisés uniquement lorsque connecté à un réseau Wi-Fi.</string>
   <string name="sub_sync_item_sms_title_wifi_only">Wi-Fi uniquement</string>
   <string name="sync_item_sms_summary">Synchronise les SMS reçus et envoyés de cet appareil</string>
   <string name="sync_item_sms_title">Synchroniser les SMS</string>
@@ -192,6 +192,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service.</string>
   <string name="cloud_space_upgrade_message">Appuyer pour obtenir %s Go d\'espace gratuit mensuel</string>
   <string name="cloud_space_upgrade_no_quota_info">Données non valides, veuillez réessayer plus tard</string>
+  <string name="loading_hint">Chargement</string>
   <!-- à traduire -->
   <string name="app_sync_off">App sync off</string>
   <string name="internet">Internet</string>

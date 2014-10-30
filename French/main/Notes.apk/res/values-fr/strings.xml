@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="sns_choose_quality_high">Haute (%1$s)</string>
+  <string name="sns_choose_quality_low">Basse</string>
+  <string name="sns_choose_quality_title">Sélectionner la qualité</string>
   <string name="toast_note_privacy_mode">Impossible de créer une note en mode invité</string>
   <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>

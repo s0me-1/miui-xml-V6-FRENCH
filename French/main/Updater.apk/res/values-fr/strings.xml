@@ -105,7 +105,7 @@
   <string name="reboot">Redémarrer</string>
   <string name="reboot_to_new_system">Redémarrer vers la nouvelle version</string>
   <string name="repeat">Réessayer</string>
-  <string name="set_only_wifi">Vérifier via Wi-Fi uniquement</string>
+  <string name="set_only_wifi">Utiliser uniquement le Wi-Fi</string>
   <string name="share">Partager</string>
   <string name="share_qq">Poster via Tencent weibo</string>
   <string name="share_sina">Poster via Sina weibo</string>
@@ -152,7 +152,10 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="worst_update">La pire mise à jour</string>
   <string name="download_title_first">Chargement…</string>
   <string name="download_title_full_download">Chargement…</string>
-  
+  <string name="set_auto">Vérifier manuellement</string>
+  <string name="get_auto">Utiliser le réseau mobile ou Wi-Fi</string>
+  <string name="updater_nolog">Aucun changelog</string>
+  <string name="updater_nonetwork">Tentative de récupération du changelog</string>
 <!-- à traduire -->
   <string name="user_intertup_download_msg">Downloads have been paused. You can unpause them any time in the Updater app.</string>
   <string name="user_intertup_download_title">Update download paused</string>
@@ -161,7 +164,6 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="update_downfull_no_info_sum">Unable to download,please check Update button.</string>
   <string name="update_downfull_no_info_title">Unable to download</string>
   <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
-  <string name="set_auto">Set Auto Mode</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
   <string name="set_installfail_msg">Downloading this update over your mobile data connection will increase your data usage.</string>
   <string name="set_installfail_title">Try to download update again?</string>
@@ -176,6 +178,5 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="download_diff">Download diff</string>
   <string name="download_error">Download error. Wait a minute or two and try again.</string>
   <string name="download_failed">"Couldn't download"</string>
-  <string name="get_auto">Get Auto Mode</string>
   <string name="get_current">Get current</string>
 </resources>
