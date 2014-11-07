@@ -20,6 +20,11 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+
+  <string name="loading_from_remote">Recherche…</string>
+  <string name="local_search_result">%s emails trouvés sur votre appareil.</string>
+  <string name="merged_mailbox_compose_select_account">Sélectionner le compte</string>
+  <string name="message_body_loading">[ Chargement… ]</string>
   <string name="no_contacts">Vide</string>
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>

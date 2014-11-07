@@ -4,10 +4,10 @@
 <resources>
   <plurals name="Ntracks_remove_from_playlist">
       <item quantity="other">%d pistes retirées de la playlist</item>
-      <item quantity="one">1 piste retirée de la playlist</item>
+      <item quantity="one">Piste retirée de la playlist</item>
   </plurals>
   <plurals name="NTrackstoDownload">
-      <item quantity="one">1 pistes sera téléchargée</item>
+      <item quantity="one">1 piste sera téléchargée</item>
       <item quantity="other">%d pistes seront téléchargées</item>
   </plurals>
   <plurals name="Nexpired_remind">
@@ -32,10 +32,10 @@
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
       <item quantity="other">%d pistes ajoutées à la playlist</item>
-      <item quantity="one">1 piste ajoutée à la playlist</item>
+      <item quantity="one">Piste ajoutée à la playlist</item>
   </plurals>
   <plurals name="send_songs_toast">
       <item quantity="other">%d pistes vont être envoyées</item>
-      <item quantity="one">1 piste va être envoyé</item>
+      <item quantity="one">1 piste va être envoyée</item>
   </plurals>
 </resources>

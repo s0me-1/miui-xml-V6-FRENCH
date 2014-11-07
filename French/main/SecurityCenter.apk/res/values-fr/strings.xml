@@ -2,6 +2,17 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="auto_handle_title">GÉNÉRAL</string>
+  <string name="back">Retour</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
+  <string name="button_text_ignore">Ignorer</string>
+  <string name="button_text_ignore_alert_title">Ignorer cette alerte ?</string>
+  <string name="empty_title_manual_item_white_list">Aucune exceptions</string>
+  <string name="hints_scanning_text">Analyse…</string>
+  <string name="hints_storage_free_size">%s disponibles</string>
+  <string name="manual_item_white_list_title">Exceptions</string>
+  <string name="manual_white_list_header">%d exceptions</string>
   <string name="cta_dialog_title">Information</string>
   <string name="cta_dialog_msg">Le centre de sécurité requiert l\'accès à internet pour recevoir des mises à jour.</string>
   <string name="cta_checkbox_title">"Ne pas rappeler"</string>
@@ -517,8 +528,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
   <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être nécessaire de réinstaller la ROM</string>
   <string name="hints_auto_start_warning_info">Les applications bloquées ne recevront pas de messages</string>
-  <string name="hints_auto_start_enable_title">Applications autorisées : %d</string>
-  <string name="hints_auto_start_disable_title">Liste des applications : %d</string>
   <string name="activity_title_apps_manager">Applications</string>
   <string name="activity_title_permissions_manager">Permissions</string>
   <string name="dialog_title_auto_start_declare">Information</string>
@@ -535,9 +544,6 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="permission_action_prompt">Demander</string>
   <string name="permission_action_reject">Refuser</string>
   <string name="empty_title_permission_apps_list">Aucune application</string>
-  <string name="hints_permission_apps_count">%d applis</string>
-  <string name="hints_get_root_enable_title">Applications autorisées : %d</string>
-  <string name="hints_get_root_disable_title">Applications bloquées : %d</string>
   <string name="empty_title_root_apps">Aucune application root</string>
   <string name="hints_remember_choice">Ne pas redemander</string>
   <string name="root_apply_title">Avertissement</string>

@@ -100,8 +100,8 @@
   <string name="bind_xunlei_account">Associer un compte Xunlei ></string>
   <string name="download_list_get_hightspeed_flow_sucess_head">"Compte Xunlei d\'essai créé, "</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">" disponibles. Profitez d\'une vitesse de téléchargement accrue grâce à Xunlei"</string>
-  <string name="xunlei_member_one_month">Membre Xunlei pour un mois(platinum)</string>
-  <string name="xunlei_member_annual_fee">Membre Xunlei pour un an(platinum)</string>
+  <string name="xunlei_member_one_month">1 mois</string>
+  <string name="xunlei_member_annual_fee">1 an</string>
   <string name="xunlei_speed_service">Accélérateur de téléchargement Xunlei</string>
   <string name="download_list_get_free_vip">Essayer Xunlei gratuitement</string>
   <string name="free_high_speed_channel">Quota de l\'essai gratuit</string>
@@ -126,6 +126,9 @@
   <string name="get_order_fail_msg">Échec de la commande, une erreur s\'est produite</string>
   <string name="get_order_dialog_msg">Chargement de la commande…</string>
   <string name="immediately_a_renewal">Renouveler immédiatement</string>
+  <string name="dialog_confirm_delete_checkbox_message">Supprimer les fichiers locaux</string>
+  <string name="dialog_confirm_delete_downloads_message">Supprimer les %d téléchargements ?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Supprimer</string>
 <!-- à traduire  -->
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="high_speed_channel">Highspeed channel</string>

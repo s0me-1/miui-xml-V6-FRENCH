@@ -2,6 +2,15 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="filter_by_duration_prefix">"Durée minimale : "</string>
+  <string name="filter_by_duration_summary">Ne pas afficher les petits fichiers courts</string>
+  <string name="filter_by_size">Par taille</string>
+  <string name="filter_by_duration">Par durée</string>
+  <string name="filter_by_size_prefix">"Taille minimale : "</string>
+  <string name="filter_by_size_summary">Ne pas afficher les fichiers audio légers</string>
+  <string name="music_filter">Filtrer les fichiers audio</string>
+  <string name="my_music_empty_goto_online">Aucune piste trouvée</string>
+  <string name="no_local_source_find">Impossible de trouver le fichier</string>
   <string name="track_list_control_edit_rename_playlist">Renommer</string>
   <string name="all_tracks">Ma musique</string>
   <string name="buffering">Chargement…</string>
@@ -217,8 +226,8 @@
   <string name="set_ringtones_successful">%s définie comme sonnerie</string>
   <string name="set_ringtones_failed">Impossible de définir la sonnerie</string>
   <string name="ringtone_not_support">Format musical non pris en charge</string>
-  <string name="priority_storage">Utiliser la carte SD</string>
-  <string name="priority_storage_summary">Télécharge les pistes sur la carte SD (si disponible)</string>
+  <string name="priority_storage">Utiliser la carte SD externe</string>
+  <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="please_download_first">Veuillez télécharger la chanson afin de pouvoir la définir comme sonnerie</string>
   <string name="song_not_find">"Impossible d\'obtenir un résultat. Vérifiez votre connexion et réessayez."</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">"Votre période d'essai ou abonnement a expiré. Veuillez sélectionner une autre qualité de téléchargement."</string>

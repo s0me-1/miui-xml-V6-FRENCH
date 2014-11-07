@@ -256,7 +256,7 @@
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Vous avez envoyé %1$d SMS et %2$d MMS</string>
-  <string name="mx_current_status">Statut : En ligne</string>
+  <string name="mx_current_status">En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer Mi Message</string>
   <string name="mx_enable_popup_msg">Mi Message vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
@@ -264,6 +264,7 @@
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
   <string name="mx_recommend_msg">Activer Mi Message pour envoyer des messages gratuits</string>
+  <string name="my_bookmark">Favoris</string>
   <string name="need_download">En cours de synchronisation…</string>
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
@@ -521,8 +522,8 @@
   <string name="user_agreement5">En appuyant sur OK, vous acceptez les termes de ces contrats.</string>
   <string name="menu_yellowpage">Afficher %s</string>
   <string name="menu_more">Plus</string>
-  <string name="mx_on_sim_1">Mi Message sur la SIM 1</string>
-  <string name="mx_on_sim_2">Mi Message sur la SIM 2</string>
+  <string name="mx_on_sim_1">Mi Message SIM 1</string>
+  <string name="mx_on_sim_2">Mi Message SIM 2</string>
   <string name="english_subject_limit">40 caractères maximum</string>
 <!-- à traduire -->
   <string name="app_name">Device Management</string>

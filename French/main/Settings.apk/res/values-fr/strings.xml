@@ -2,6 +2,10 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="music_HiFi_title">Audio Hi-Fi</string>
+  <string name="whetstone_level_reboot">Ce paramètre prendra effet après un redémarrage de l\'appareil</string>
+  <string name="whetstone_level_reboot_OK">Redémarrer</string>
+  <string name="whetstone_level_title">Optimisation de la mémoire vive</string>
   <string name="status_bar_settings_show_notification_icon">Afficher les icônes de notification</string>
   <string name="status_sim">État SIM</string>
   <string name="status_sim_1">SIM1</string>
@@ -991,14 +995,14 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_sounds_enable_title">Son au verrouillage écran</string>
   <string name="lockpassword_cancel_label">Annuler</string>
   <string name="lockpassword_choose_lock_generic_header">Méthode de déverrouillage</string>
-  <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
+  <string name="lockpassword_choose_your_password_header">Choisissez votre mot de passe</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
-  <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
+  <string name="lockpassword_choose_your_pin_header">Choisissez votre code PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">"Les mots de passe ne correspondent pas."</string>
   <string name="lockpassword_confirm_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
-  <string name="lockpassword_confirm_your_password_header">Confirmer le mot de passe</string>
+  <string name="lockpassword_confirm_your_password_header">Confirmez votre mot de passe</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmez votre schéma</string>
-  <string name="lockpassword_confirm_your_pin_header">Confirmer votre code PIN</string>
+  <string name="lockpassword_confirm_your_pin_header">Confirmez votre code PIN</string>
   <string name="lockpassword_continue_label">Continuer</string>
   <string name="lockpassword_illegal_character">Le mot de passe contient un caractère non autorisé.</string>
   <string name="lockpassword_ok_label">OK</string>

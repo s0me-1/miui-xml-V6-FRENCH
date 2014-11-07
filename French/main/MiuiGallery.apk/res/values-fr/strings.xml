@@ -517,7 +517,7 @@
   <string name="bigscreen_slide_playing">Le diaporama est affiché sur \"%s"</string>
   <string name="confirm_delete_init_message">Les photos seront supprimées de cet appareil et de votre espace Mi Cloud. Si vous voulez les supprimer uniquement localement, veuillez le faire via l\'onglet Local.</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
-  <string name="priority_storage_summary">Télécharger en priorité sur la carte SD externe</string>
+  <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="crop_recognize_text">Détecter</string>
   <string name="crop_save_text_setas">Appliquer</string>
   <string name="recognizing_image">Analyse de l\'image…</string>

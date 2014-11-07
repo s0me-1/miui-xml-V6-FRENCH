@@ -21,7 +21,7 @@
   <string name="button_text_check">Vérifier</string>
   <string name="button_text_later_reboot">Redémarrer plus tard</string>
   <string name="button_text_reboot">Redémarrer</string>
-  <string name="button_text_reboot_hm">Après redémarrage</string>
+  <string name="button_text_reboot_hm">Redémarrer</string>
   <string name="button_text_update">Mettre à jour</string>
   <string name="cancel_download">Arrêter le téléchargement ?</string>
   <string name="cancel_download_buton_text">Annuler</string>

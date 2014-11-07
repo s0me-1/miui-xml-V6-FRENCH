@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="locale_picker_confirm_dialog_desc">"Définir %s comme votre localisation ? "</string>
+  <string name="locale_picker_confirm_dialog_title">Définir votre localisation</string>
   <string name="input_method_category">Il existe diverses méthodes de saisie, vous pouvez sélectionner celle appropriée en fonction de votre utilisation, si vous êtes novice il est recommandé d\'utiliser la méthode de saisie par défaut</string>
   <string name="input_method_setting">Choisir la méthode de saisie</string>
   <string name="other_settings">Autres paramètres</string>

@@ -60,4 +60,6 @@
   <string name="activity_find_city_dialog_message">Autoriser Météo à utiliser le service de localisation</string>
   <string name="view_sun_titile">Lever et coucher</string>
   <string name="activity_weathermain_locationg_error">Échec de la géolocalisation</string>
+  <string name="activity_main_time_format">dd/MM</string>
+  
 </resources>

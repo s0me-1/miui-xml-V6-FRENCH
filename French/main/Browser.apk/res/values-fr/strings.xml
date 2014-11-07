@@ -20,6 +20,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="webapp_bottom_bar_addtodesk">Ajouter sur l\'accueil</string>
+  <string name="webapp_splashview_loading">Chargement...</string>
   <string name="bookmark_url_already_exisit">Vous avez déjà mis ce lien en favori</string>
   <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
   <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>

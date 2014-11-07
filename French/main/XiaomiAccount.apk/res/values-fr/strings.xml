@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="email_or_id_hint_text">Email ou ID compte Mi</string>
+  <string name="login_with_email_or_id"><u>Se connecter avec un autre compte</u></string>
   <string name="account_learn_more_title">Créer un compte Mi</string>
   <string name="account_dspt_provision2">En savoir plus</string>
   <string name="cloud_service_dspt">Synchronisez vos photos, contacts, notes, applis et plus sur tous vos appareils.</string>

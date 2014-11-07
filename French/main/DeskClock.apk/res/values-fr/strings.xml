@@ -20,6 +20,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="edit_systemtime">Modifier l\'heure système</string>
   <string name="add_alarm">"Ajouter une alarme "</string>
   <string name="alarm_alert">Sonnerie</string>
   <string name="alarm_alert_alert_silenced">Alarme interrompue après %d minutes.</string>

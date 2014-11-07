@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="whetstone_level_entries">
+        <item>Désactivé</item>
+        <item>Bas</item>
+        <item>Moyen</item>
+        <item>Haut</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aucun</item>
         <item>720x480 mdpi</item>

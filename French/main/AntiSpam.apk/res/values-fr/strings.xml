@@ -4,7 +4,7 @@
 <resources>
    <string name="fw_blocked_join">" et "</string>
   <string name="app_name">Anti-Spam</string>
-  <string name="bl_block_info" formatted="false">Bloqués : %d appel(s), %d SMS</string>
+  <string name="bl_block_info" formatted="false">Appels : %d | SMS : %d</string>
   <string name="wl_no_whitelist">Liste blanche vide</string>
   <string name="bl_no_blacklist">Aucun numéro bloqué</string>
   <string name="bl_no_block_call">Aucun appel bloqué</string>
@@ -98,7 +98,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_update_title">Mise à jour auto.</string>
   <string name="ad_update_time">Dernière màj : %s</string>
   <string name="ad_update_time_unKnown">Dernière màj : inconnu</string>
-  <string name="sure">Confirmer</string>
+  <string name="sure">OK</string>
   <string name="cancle">Annuler</string>
   <string name="block_message_number">Messages : %d</string>
   <string name="block_phone_number">Appels : %d</string>
@@ -149,10 +149,10 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="info_unantispam_sms">Autoriser les messages</string>
   <string name="info_unantispam_phone">Autoriser les appels</string>
   <string name="info_unantispam_phone_sms">Autoriser les messages et les appels</string>
-  <string name="note_list_none">Aucune liste à modifier</string>
-  <string name="note_sms_none">Aucun message à modifier</string>
-  <string name="note_call_none">Aucun enregistrement d\'appel à modifier</string>
-  <string name="note_keyword_none">Aucun mot clé à modifier</string>
+  <string name="note_list_none">Liste vide</string>
+  <string name="note_sms_none">Aucun message</string>
+  <string name="note_call_none">Aucun appel</string>
+  <string name="note_keyword_none">Aucun mot clé</string>
   <string name="note_preference_delete">Impossible de supprimer une règle en cours d\'utilisation</string>
   <string name="user_define_title">Personnalisé</string>
   <string name="blacklist_prefix_add_hint">Ajouter tous les numéros avec préfixe à la liste noire</string>
@@ -252,8 +252,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
   <string name="NACaddnumcontent">Saisir le numéro</string>
   <string name="ACaddnumcontent">Saisissez le numéro, vous pouvez utilisez le joker *</string>
-  <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis le numéro sélectionné ?</string>
-  <string name="call_delete_hint">Supprimer tous les appels bloqués émis depuis le numéro sélectionné ?</string>
+  <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis ce numéro ?</string>
+  <string name="call_delete_hint">Supprimer tous les appels bloqués émis depuis ce numéro ?</string>
   <string name="backsound_set_hint">Utiliser %s comme avertissement sonore ?</string>
   <string name="ad_block_hint">Bloqués : %d</string>
   <string name="ad_single_block_hint">Bloqué</string>
@@ -264,10 +264,10 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_title_not_sim">Vide</string>
   <string name="sim_not_ready">Carte SIM non prête</string>
   <string name="button_to_setting">Paramètres</string>
+  <string name="dlg_title_not_open_stranger_identify">Identifier les numéros inconnus</string>
 <!-- à traduire -->
   <string name="STRANGER_BLOCK">Stranger blocklist</string>
   <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone &gt; Settings, before you can tag a number.</string>
-  <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
   <string name="mark_agent">Sales agent</string>
   <string name="mark_agent_block">Marked as agent</string>
   <string name="mark_express">Courier</string>
