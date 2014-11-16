@@ -607,16 +607,14 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="header_optimizer">"En utilisant cette fonction, vous acceptez les "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">conditions d\'utilisation</a> de Clean Master.</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Envoi et compare les noms de fichiers inconnus avec les définitions en ligne</string>
   <string name="pref_title_open_optimizer_cloud_scan">Utiliser le moteur d\'analyse en ligne</string>
-  
-  
-<!-- à traduire, affiché ou ?? -->
-  <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
-  <string name="permission_close_permission_control_dialog_msg">"When Permission manager is off, apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources."</string>
-  <string name="permission_close_permission_control_dialog_title">Disable Permission manager?</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
-  <string name="permission_permission_control_closed_desc_dialog_title">Permission manager is off</string>
-  <string name="settings_title_permission">Permission settings</string>
-  <string name="menu_item_app_permissions_control">Permission manager</string>
+  <string name="menu_item_control_app_permissions">Demande votre permission avant d\'autoriser les applications à lire vos contacts, voir votre historique d\'appel, changer un paramètre système, accéder à la caméra ou autre ressource</string>
+  <string name="permission_close_permission_control_dialog_msg">"Quand le Gestionaire de permissions est désactivé, les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource."</string>
+  <string name="permission_close_permission_control_dialog_title">Désactiver le Gestionnaire de permissions ?</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource. Vous pouvez activer cette fonctionnalité dans les paramètres de Permissions."</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Le gestionnaire de permissions est désactivé</string>
+  <string name="settings_title_permission">Paramètres de Permissions</string>
+  <string name="menu_item_app_permissions_control">Gestionnaire de permissions</string>
+  <!-- à traduire, mais ne semble pas être utilisé -->
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_auto_shutdown_summary">Power your device on or off at a scheduled time</string>
   <string name="power_center_ontime_boot">Power on time</string>
