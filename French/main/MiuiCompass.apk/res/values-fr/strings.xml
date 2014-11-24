@@ -41,4 +41,9 @@
   <string name="location_enabled">Service de localisation activé, vous pouvez le désactiver via les paramètres</string>
   <string name="location_not_enabled_summary">La boussole a besoin de déterminer votre position pour fonctionner correctement.</string>
   <string name="location_not_enabled_title">Service de localisation</string>
+  <string name="calibrate_failed">Échec de calibrage de l\'altitude</string>
+  <string name="using_camera_confirm_cancel">Quitter</string>
+  <string name="using_camera_confirm_message">"La boussole a besoin d'utiliser la connexion réseau et l'appareil photo pour fonctionner correctement."</string>
+  <string name="using_camera_confirm_ok">Accorder</string>
+  <string name="using_camera_confirm_title">Droits d'accès</string>
 </resources>
