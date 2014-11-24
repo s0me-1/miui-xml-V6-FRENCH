@@ -786,7 +786,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_options_only_title">Télécharger uniquement l\'en-tête quand réseau mobile</string>
   <string name="account_options_sync_title">Paramètres de synchronisation</string>
   <string name="account_settings_chat_mode_enable">Mode conversation</string>
-  <string name="account_settings_chat_mode_summary">Cliquer pour fusionner le groupe de message et entrer dans le monde conversation</string>
+  <string name="account_settings_chat_mode_summary">Appuyer pour fusionner le groupe de message et entrer dans le monde conversation</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Connexion impossible au serveur :
 (%s)"</string>
   <string name="account_setup_server_acc_manager_title">Gestion des comptes</string>
@@ -796,9 +796,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="att_file_not_exists">Fichier %s introuvable!</string>
   <string name="attachment_bar_title">Pièces jointes</string>
   <string name="attachment_canceling">Annulation en cours, veuillez patienter.</string>
-  <string name="attachment_decoding">La pièce jointe à été téléchargée, le décodage est en cours, veuillez patienter.</string>
+  <string name="attachment_decoding">Pièce jointe téléchargée, décodage en cours, veuillez patienter.</string>
   <string name="attachment_download_all">Tout télécharger</string>
-  <string name="attachment_not_exists">La pièce jointe est indisponible!</string>
+  <string name="attachment_not_exists">Pièce jointe indisponible !</string>
   <string name="body_forward_email_text">[Transférer]</string>
   <string name="body_inline_pic_text">[Image]</string>
   <string name="cc_bcc">Cc/Bcc</string>

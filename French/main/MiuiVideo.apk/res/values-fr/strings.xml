@@ -247,7 +247,7 @@
   <string name="ad_moredetail">plus d\'infos</string>
   <string name="cancel_button">Annuler</string>
   <string name="use_cellular_play_title">Notification de consommation de données</string>
-  <string name="use_cellular_play_summary">Affiche une notification lors de l'\utilisation du réseau mobile pour regarder ou télécharger une vidéo</string>
+  <string name="use_cellular_play_summary">Affiche une notification lors de l\'utilisation du réseau mobile pour regarder ou télécharger une vidéo</string>
 <!-- à traduire, pas visible ?-->
   <string name="vp_newest_ep">Newest now</string>
   <string name="vp_content_description">Content description</string>

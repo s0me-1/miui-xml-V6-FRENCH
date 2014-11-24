@@ -195,7 +195,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="loading_hint">Chargement</string>
   <string name="buy_space_expire">L\'espace acheté expirera dans %s</string>
   <string name="buy_space_expire_concat">%1$s au %2$s</string>
-  <string name="micloud_detail_fail">echec</string>
+  <string name="micloud_detail_fail">échec</string>
   <string name="micloud_detail_lastest">synchronisé</string>
   <string name="micloud_detail_pending">en attente</string>
   <string name="micloud_detail_preference_syncing">synchronisation...</string>
@@ -219,7 +219,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_storage_expires_manually_renewal_sum">Vous devez renouveler votre abonnement.</string>
   <string name="micloud_storage_expires_soon_title">Le stockage Mi Cloud expire bientôt</string>
   <string name="micloud_storage_expires_very_soon_title">Le stockage Mi Cloud expire très bientôt</string>
-  <string name="micloud_web_discription">Connectez-vous sur i.mi.com pour stocker et accéder à vos fichier depuis n'importe où</string>
+  <string name="micloud_web_discription">Connectez-vous sur i.mi.com pour stocker et accéder à vos fichier depuis n\'importe où</string>
   
   <!-- à traduire -->
   <string name="app_sync_off">App sync off</string>
