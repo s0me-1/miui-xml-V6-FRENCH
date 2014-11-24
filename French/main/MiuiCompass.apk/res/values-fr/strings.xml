@@ -45,5 +45,5 @@
   <string name="using_camera_confirm_cancel">Quitter</string>
   <string name="using_camera_confirm_message">"La boussole a besoin d'utiliser la connexion réseau et l'appareil photo pour fonctionner correctement."</string>
   <string name="using_camera_confirm_ok">Accorder</string>
-  <string name="using_camera_confirm_title">Droits d'accès</string>
+  <string name="using_camera_confirm_title">"Droits d'accès"</string>
 </resources>
