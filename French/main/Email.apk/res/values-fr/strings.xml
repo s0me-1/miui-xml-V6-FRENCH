@@ -780,6 +780,41 @@ Taille du patch Delta : %2$s"</string>
   <string name="send_att_title">Alerte</string>
   <string name="downloading_message_body">Chargement du mail, veuillez patienter…</string>
   <string name="check_setup_data">Vérification des paramètres serveur…</string>
+  <string name="preference_head_load_title">Diminuer l\'usage des données</string>
+  <string name="account_options_acc_title">Compte</string>
+  <string name="account_options_common_title">Paramètres communs</string>
+  <string name="account_options_only_title">Télécharger uniquement l\'en-tête quand réseau mobile</string>
+  <string name="account_options_sync_title">Paramètres de synchronisation</string>
+  <string name="account_settings_chat_mode_enable">Mode conversation</string>
+  <string name="account_settings_chat_mode_summary">Cliquer pour fusionner le groupe de message et entrer dans le monde conversation</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Connexion impossible au serveur :
+(%s)"</string>
+  <string name="account_setup_server_acc_manager_title">Gestion des comptes</string>
+  <string name="account_type_exchange">Exchange</string>
+  <string name="account_type_imap">IMAP</string>
+  <string name="account_type_pop3">POP3</string>
+  <string name="att_file_not_exists">Fichier %s introuvable!</string>
+  <string name="attachment_bar_title">Pièces jointes</string>
+  <string name="attachment_canceling">Annulation en cours, veuillez patienter.</string>
+  <string name="attachment_decoding">La pièce jointe à été téléchargée, le décodage est en cours, veuillez patienter.</string>
+  <string name="attachment_download_all">Tout télécharger</string>
+  <string name="attachment_not_exists">La pièce jointe est indisponible!</string>
+  <string name="body_forward_email_text">[Transférer]</string>
+  <string name="body_inline_pic_text">[Image]</string>
+  <string name="cc_bcc">Cc/Bcc</string>
+  <string name="chat_item_msg_people_unit">personnes</string>
+  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_saying">dit :</string>
+  <string name="chat_type_name">conversations</string>
+  <string name="chat_view_description">Fusionner la liste des messages pour afficher une conversation</string>
+  <string name="chat_view_quote_text">-----Citation-----</string>
+  <string name="chat_view_retract_quote_text">---Cacher la citation---</string>
+  <string name="chat_view_title">Afficher la conversation</string>
+  <string name="click_download_all_content">[ Appuyer pour télécharger le contenu ]</string>
+  <string name="compose_help_context">écrire</string>
+  <string name="download_before_view">"Ce message n'a pas été téléchargé."</string>
+  <string name="download_show_image">Télécharge et affiche l\'image</string>
+
 <!-- à traduire : -->
   <string name="tryrefreshing">Try to Refreshing…</string>
   <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>

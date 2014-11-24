@@ -64,4 +64,6 @@
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_fm_stoping">Arrêt de la radio…</string>
   <string name="fm_has_turned_off">Radio FM éteinte</string>
+  <string name="menu_headset">Basculer sur le casque</string>
+  <string name="menu_speaker">Basculser sur le HP</string>
 </resources>
