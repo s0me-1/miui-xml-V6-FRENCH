@@ -43,4 +43,16 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="download_error">Échec</string>
   <string name="download_running_percent">En cours, %d%%</string>
   <string name="download_percent">%d%%</string>
+  <string name="notif_text_engine_off">L\'accélérateur Xunlei est désactivé.</string>
+  <string name="notif_text_engine_on">Accélération…</string>
+  <string name="notif_title_file_size">共%1$d个文件</string>
+  <string name="notif_title_multiple_downloading">正在下载%1$d个文件</string>
+  <string name="notif_title_single_downloading">正在下载%1$s</string>
+  <string name="privacy_notif_content">Toucher pour voir les détails.</string>
+  <string name="privacy_notif_title">L\'accélérateur Xunlei est actif</string>
+  <string name="privacy_tip_cancel">Annuler</string>
+  <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Utiliser l\'accélérateur Xunlei?</string>
+  <string name="task_already_exist">Cette tâche existe déjà</string>
 </resources>
