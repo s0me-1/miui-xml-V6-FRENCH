@@ -45,4 +45,5 @@
   <string name="err_init_settings">Error while getting current setting</string>
   <string name="err_reset">Error while reset settings</string>
   <string name="err_saving">Error while saving settings</string>
+  <string name="about_name">MIUIv6 Gestionnaire de commutateurs 1.1</string>
 </resources>
