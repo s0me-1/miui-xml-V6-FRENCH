@@ -6,4 +6,8 @@
       <item quantity="other">%d coupons</item>
       <item quantity="one">1 coupon</item>
   </plurals>
+   <plurals name="review_count">
+	<item quantity="other">Voir les %d commentaires</item>
+	<item quantity="one">Voir 1 commentaire</item>
+ </plurals>
 </resources>

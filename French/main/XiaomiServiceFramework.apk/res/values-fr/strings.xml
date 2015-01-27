@@ -79,6 +79,14 @@
   <string name="activate_status_title_activating">Activation du compte</string>
   <string name="activate_status_title_activating_msim">Activation de votre carte SIM %s</string>
   <string name="sim_unactivated_title">"Votre carte SIM n'est pas activée"</string>
+  <string name="activate_popup_confirm_upload_diagnosis_info">Rapport</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">Signalez ce problème à Mi? (ID du rapport : %s)</string>
+  <string name="activate_popup_link_diagnosis_detail">Quelles informations seront incluses?</string>
+  <string name="activate_popup_title_diagnosis_detail">Info diagnostic</string>
+  <string name="activate_popup_title_upload_diagnosis_info">"Impossible d'activer la carte SIM"</string>
+  <string name="sync_notification_title_format">Synchronisation de: %1$s</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
+
 <!-- à traduire, affichée ? -->
   <string name="xmsf_activate_info">XMSF activate info</string>
 </resources>
