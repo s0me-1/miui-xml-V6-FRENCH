@@ -8,6 +8,6 @@
   </plurals>
    <plurals name="review_count">
 	<item quantity="other">Voir les %d commentaires</item>
-	<item quantity="one">Voir 1 commentaire</item>
+	<item quantity="one">Voir le commentaire</item>
  </plurals>
 </resources>
