@@ -315,4 +315,5 @@
   <string name="network_connect_confirm_des">KuaiPan requiert l\'accès à internet pour fonctionner correctement.</string>
   <string name="connect_network_setting_des">Me le rappeler lors d\'accès au réseau</string>
   <string name="operate_confirm_in_3g">Utiliser le réseau mobile pour télécharger ce fichier volumineux ?</string>
+  <string name="delete_dialog_button">Supprimer</string>
 </resources>

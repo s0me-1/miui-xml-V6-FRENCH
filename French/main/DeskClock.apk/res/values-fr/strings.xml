@@ -135,4 +135,7 @@
   <string name="legal_workday_invalidate_message">(expirée. Modifiez dans les paramètres)</string>
   <string name="legal_workday_message">" (pas d\'alarme pendant les vacances)"</string>
   <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
+  <string name="timer_message_00">%1$d minute et %2$d seconde</string>
+  <string name="timer_message_01">%1$d minute et %2$d secondes</string>
+  <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
 </resources>

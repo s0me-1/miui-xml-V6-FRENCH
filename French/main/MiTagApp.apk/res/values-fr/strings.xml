@@ -218,4 +218,12 @@ Taille delta patch : %2$s"</string>
   <string name="failed_to_write">Échec de l\'écriture du tag</string>
   <string name="pwd_alert">Veuillez définir un mot de passe</string>
   <string name="writing">Écriture…</string>
+  <string name="fail_get_contact_info">"Impossible de récupérer les infos du contact. Assurez-vous que PonPonTag a les droits pour lire les informations de vos contacts."</string>
+  <string name="fif_seconds">15 secondes</string>
+  <string name="five_minutes">5 minutes</string>
+  <string name="never">Never</string>
+  <string name="one_minute">1 minute</string>
+  <string name="ten_minutes">10 minutes</string>
+  <string name="thir_seconds">30 secondes</string>
+  <string name="two_minutes">2 minutes</string>
 </resources>

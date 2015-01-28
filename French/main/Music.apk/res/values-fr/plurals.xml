@@ -38,4 +38,11 @@
       <item quantity="other">%d pistes vont être envoyées</item>
       <item quantity="one">1 piste va être envoyée</item>
   </plurals>
+  <plurals name="Nnew_tracks_count">
+    <item quantity="other">%d nouveaux</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d chansons similaires</item>
+    <item quantity="one">%d chanson similaire</item>
+  </plurals>
 </resources>

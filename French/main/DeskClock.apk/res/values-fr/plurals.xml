@@ -10,4 +10,16 @@
         <item quantity="other">%1$d minutes</item>
         <item quantity="one">1 minute</item>
     </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Rappeler dans %d mins</item>
+        <item quantity="one">Rappeler dans %d min</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d secondes</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
 </resources>

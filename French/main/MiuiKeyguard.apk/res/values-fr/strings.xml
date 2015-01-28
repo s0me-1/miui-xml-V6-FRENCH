@@ -69,4 +69,10 @@ Réessayer dans %d secondes.""</string>
   <string name="unlockscreen_recharge_completed">Batterie chargée</string>
   <string name="unlockscreen_recharging_message">Chargement %d%%</string>
   <string name="wrong_password">Mot de passe incorrect</string>
+  <string name="click_to_enter_text">Tapez pour voir</string>
+  <string name="confirm_pin_msg">Entrez à nouveau le code PIN</string>
+  <string name="invalid_confirm_pin_hint">"Les codes PIN ne correspondent pas"</string>
+  <string name="open_camera_hint_text">Glisser à gauche pour ouvrir l\'appareil photo</string>
+  <string name="open_remote_center_hint_text">Glisser à droite pour ouvrir Mi Remote</string>
+  <string name="unlock_string">Déverrouiller</string>
 </resources>

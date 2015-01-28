@@ -108,4 +108,9 @@
   <string name="cmas_opt_out_button_yes">Oui</string>
   <string name="cmas_opt_out_button_no">Non</string>
   <string name="alert_reminder_interval_title">Rappel d\'alerte</string>
+  <string name="alert_reminder_interval_summary" />
+  <string name="alert_sound_duration_summary" />
+  <string name="category_india_settings_title">Réglages pour l\'Inde</string>
+  <string name="enable_channel_60_alerts_summary">Le canal 60 est utilisé en Inde pour des informations spécifiques aux opérateurs</string>
+  <string name="enable_channel_60_alerts_title">Afficher les diffusions du canal 60</string>
 </resources>

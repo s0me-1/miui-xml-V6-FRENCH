@@ -79,4 +79,6 @@
   <string name="tips_title">Information</string>
   <string name="tips_message">Une connexion à internet est requise afin de vérifier si le site web que vous êtes sur le point de visiter est sûr.</string>
   <string name="settings">Paramètres</string>
+  <string name="choose_picture">Choisissez l'image du code QR</string>
+  <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
 </resources>
