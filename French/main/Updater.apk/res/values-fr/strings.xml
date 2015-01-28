@@ -172,7 +172,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="notification_load_title_alpha">Connexion à votre compte Mi</string>
   <string name="notification_load_title_dev">Connexion à votre compte Mi</string>
   <string name="notification_reboot_summary_hm">Toucher pour redémarrer.</string>
-  <string name="notification_reboot_title_hm">Redémarrer pour appliquer la mise à jour</string>
+  <string name="notification_reboot_title_hm">Redémarrer pour mettre à jour</string>
   <string name="open_now">Allumer</string>
   <string name="set_auto_msg">Télécharger automatiquement les mises à jour en Wi-Fi.</string>
   <string name="set_auto_update_title">Téléchargement automatique des mises à jour</string>
