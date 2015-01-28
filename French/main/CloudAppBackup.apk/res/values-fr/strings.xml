@@ -115,7 +115,7 @@
   <string name="start_whole_recovery">Lancer la restauration de \"%s\"</string>
   <string name="confirm_disable_backup">Désactiver et supprimer \"%s\"?</string>
   <string name="about_cloud_app_backup">A propos de la sauvegarde</string>
-  <string name="backup_size">Taille: %s</string>
+  <string name="backup_size">Taille : %s</string>
   <string name="button_continue">Continuer</string>
   <string name="button_stop">Arrêter</string>
   <string name="cancel_recover_settings">&lt;u&gt;Annuler&lt;/u&gt;</string>
@@ -130,7 +130,7 @@
   <string name="error_unknown">Quelque chose s\'est mal déroulé</string>
   <string name="explantion_of_data_size">Espace économisé en utilisant l\'appli Mi App Market</string>
   <string name="managespace_delete_backup">Supprimer la sauvegarde</string>
-  <string name="managespace_total_space">Espace total: %s</string>
+  <string name="managespace_total_space">Espace total : %s</string>
   <string name="menu_item_managespace">Gérer l\'espace</string>
   <string name="menu_item_sort">Trier par</string>
   <string name="menu_item_sort_name">Nom</string>

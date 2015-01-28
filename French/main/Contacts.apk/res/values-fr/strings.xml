@@ -1158,17 +1158,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="resource_trial_fail_title">Impossible de démarrer la session d\'essai</string>
   <string name="call_sim1_menu_title">Composer sur la SIM 1</string>
   <string name="call_sim2_menu_title">Composer sur la SIM 2</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider" />
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">default</string>
-  <string name="config_prohibited_phone_number_regexp" />
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
   <string name="lunar_leap">闰</string>
   <string name="lunar_yue">月</string>
   <string name="phone_info_divider">" ｜ "</string>
@@ -1202,6 +1191,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="sim_account_name">SIM</string>
   <string name="starred_yellowpage">Annuaires favoris</string>
   <string name="yellowpage_navigation_more_items_title">Plus de services</string>
-  <string name="yellowpage_navigation_search_result_average_price">RMB moyen %d</string>
+  <string name="yellowpage_navigation_search_result_average_price">Environ %d RMB </string>
   <string name="yellowpage_search_the_yellowpage">Chercher dans cet annuaire</string>
 </resources>
