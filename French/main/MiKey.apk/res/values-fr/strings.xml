@@ -239,15 +239,12 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="notify_content_sprite">Appuyer sur la croix pour quitter</string>
     <string name="notify_ticker_sprite">Assistant MiKey</string>
     <string name="notify_title_sprite">Assistant MiKey</string>
-    <string name="action_baidusearch">Recheche Baidu</string>
+    <string name="action_baidusearch">Recherche Baidu</string>
     <string name="action_key_vol">Touches de volume</string>
     <string name="action_key_vol_down">Hausse du volume</string>
-    <string name="action_key_vol_up">Baisse du volumne</string>
-    <string name="combo_customize_desc">"Packages can define their own
-    Set in its own good meters below the key page click into combo
-    OK it"</string>
-    <string name="combo_edit">Editer</string>
-    <string name="combo_edit_title">Editer le combo</string>
+    <string name="action_key_vol_up">Baisse du volume</string>
+    <string name="combo_edit">Éditer</string>
+    <string name="combo_edit_title">Éditer le combo</string>
     <string name="combo_saveas_already_saved_desc">Les réglages actuels ont été sauvegardés dans le combo</string>
     <string name="combo_saveas_desc">Description du combo</string>
     <string name="combo_saveas_name">Nom</string>
@@ -255,13 +252,11 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="combo_saveas_title">Saisir les informations du package</string>
     <string name="combo_speed_fast">Rapide</string>
     <string name="combo_speed_medium">Moyen</string>
-    <string name="combo_speed_prefix">Vitesse:</string>
+    <string name="combo_speed_prefix">Vitesse :</string>
     <string name="combo_speed_slow">Lent</string>
     <string name="combo_standard_text">Ce combo peut suffire au quotidien, en particulier si vous n\'avez pas d\'idée précise, le combo standard est un bon choix.</string>
     <string name="combo_standard_title">Combo Standard</string>
-    <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-    <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
-    <string name="dialog_content_mad_click">Clics continus:</string>
+    <string name="dialog_content_mad_click">Clics continus :</string>
     <string name="dialog_title_mad_click">Prompt</string>
     <string name="disable_mad_click">Désactiver le mode mad</string>
     <string name="enable_mad_click">Activer le mode mad</string>
@@ -287,11 +282,8 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="setting_key_mode_dust_cap">key_dust_cap</string>
     <string name="setting_key_mode_silent_open">key_silent_default</string>
     <string name="setting_key_silent">key_silent</string>
-    <string name="setting_proximity_desc">Utiliser le capteur de proximité pour verrouiller l\utilisation de MiKey une fois dans votre poche.</string>
+    <string name="setting_proximity_desc">Utiliser le capteur de proximité pour verrouiller l\'utilisation de MiKey une fois dans votre poche.</string>
     <string name="setting_proximity_text">Utiliser le capteur de proximité</string>
-    <string name="setting_speed_max_time">1000</string>
-    <string name="setting_speed_middle_time">500ms</string>
-    <string name="setting_speed_min_time">0</string>
     <string name="tab_combo">Combo</string>
     <string name="toast_audio_record_start">Démarrer l\'enregistrement</string>
     <string name="toast_audio_record_stop">Arrêter l\'enregistrement</string>
@@ -308,4 +300,9 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="wallpaper_no_more">Ne pas remplacer le fond d\'écran</string>
     <string name="webpage_input_title">Saisir une URL</string>
     <string name="webpage_title">Ouvrir une page</string>
+
+<!-- à traduire -->
+    <string name="combo_customize_desc">"Packages can define their own
+    Set in its own good meters below the key page click into combo
+    OK it"</string>
 </resources>

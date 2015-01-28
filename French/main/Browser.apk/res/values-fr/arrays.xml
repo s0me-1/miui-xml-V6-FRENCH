@@ -116,21 +116,11 @@
       <item>google</item>
       <item>yahoo</item>
       <item>bing</item>
-  </string-array>
-        <string-array name="bookmarks_cu_customization">
-      <item>沃门户</item>
-      <item>http://www.wo.com.cn</item>
-    </string-array>
     <string-array name="pref_text_zoom_choices">
       <item>Minuscule</item>
       <item>Petit</item>
       <item>Standard</item>
       <item>Grand</item>
-      <item>Enorme</item>
-    </string-array>
-    <string-array name="taobao_in_list">
-      <item>search_taobao</item>
-      <item>ic_search_engine_taobao</item>
-      <item>taobao</item>
+      <item>Énorme</item>
     </string-array>
 </resources>
