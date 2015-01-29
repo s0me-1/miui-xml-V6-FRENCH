@@ -608,7 +608,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="call_recording_setting">Appels enregistrés</string>
   <string name="call_recording_notification_summary">Afficher une notification dans la barre d\'état à la fin de l\'enregistrement</string>
   <string name="call_recording_notification_message_low_storage">Enregistrement stoppé : espace insuffisant.</string>
-  <string name="call_recording_notification_message">Appuyer pour afficher %s</string>
+  <string name="call_recording_notification_message">Appuyer pour écouter</string>
   <string name="call_recording_notification_message_sd_unmounted">Enregistrement stoppé : carte SD non détectée.</string>
   <string name="call_record_add_numbers">Ajouter des numéros</string>
   <string name="call_remove_exception_numbers_confirm">%d numéros vont être supprimés.</string>

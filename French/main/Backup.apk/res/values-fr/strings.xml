@@ -196,4 +196,5 @@
   <string name="sd_not_available">Aucun carte SD détectée</string>
   <string name="never">Jamais</string>
   <string name="every_day">Quotidiennement</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

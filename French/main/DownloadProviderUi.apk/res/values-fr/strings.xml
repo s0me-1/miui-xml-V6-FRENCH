@@ -129,9 +129,29 @@
   <string name="dialog_confirm_delete_checkbox_message">Supprimer les fichiers locaux</string>
   <string name="dialog_confirm_delete_downloads_message">Supprimer les %d téléchargements ?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Supprimer</string>
-<!-- à traduire  -->
-  <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
-  <string name="high_speed_channel">Highspeed channel</string>
+  <string name="vip_auto_speedup">Accélération directe pour les membres VIP Xunlei</string>
+  <string name="high_speed_channel">Canal à haute vitesse</string>
+  <string name="add_flow_fail_haveget_msg">La période d\'essai a expiré.</string>
+  <string name="add_flow_fail_vip_msg">L\'accélérateur Xunlei est actif</string>
+  <string name="add_flow_success_msg">%s ajouté(s) ce mois-ci</string>
+  <string name="download_filesize_unknown">inconnu</string>
+  <string name="download_speed_null" />
+  <string name="mi_money_">Mi Credits</string>
+  <string name="original_price">Prix</string>
+  <string name="privacy_tip_cancel">Annuler</string>
+  <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements ? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Utiliser l\'accélérateur Xunlei ?</string>
+  <string name="unbind_xunlei_2_success">Compte Xunlei ajouté</string>
+  <string name="unbind_xunlei_success">Déconnexion du compte Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+<!-- à traduire, non utilisé sauf tel en chinois probablement -->
   <string name="mi_money">Mi money</string>
   <string name="display_expire_netiv1">Month Owner</string>
+  <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
+  可在右上角设置中更改配置"</string>
+
+  <string name="xunlei_close_tips_button">立即加速</string>
+  <string name="xunlei_close_tips_content">95%用户已选择</string>
+  <string name="xunlei_close_tips_title">迅雷免费帮您提升下载速度</string>
 </resources>

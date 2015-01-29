@@ -107,14 +107,21 @@
       <item>Vert</item>
       <item>Bleu</item>
   </string-array>
-    <string-array name="search_bar_search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
+  <string-array name="search_bar_search_engines_rCN">
+      <item>google</item>
+      <item>yahoo</item>
+      <item>bing</item>
+  </string-array>
+  <string-array name="search_engines_rCN">
+      <item>google</item>
+      <item>yahoo</item>
+      <item>bing</item>
+     </string-array>   
+    <string-array name="pref_text_zoom_choices">
+      <item>Minuscule</item>
+      <item>Petit</item>
+      <item>Standard</item>
+      <item>Grand</item>
+      <item>Énorme</item>
     </string-array>
 </resources>

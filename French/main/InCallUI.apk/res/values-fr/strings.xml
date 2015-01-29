@@ -639,6 +639,17 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="upgrade_vt_tx_prompt">Voulez-vous passer de l\'appel vidéo à l\'appel vocal ?</string>
   <string name="upgrade_vt_rx_prompt">Voulez-vous recevoir uniquement l\'appel vocal à la place de l\'appel vidéo ?</string>
   <string name="vt_init_fail_str">L\'initialisation de la transmission vidéo a échoué. Déclassement de l\'appel à VoLTE\n</string>
+  <string name="jeejen_answer_call_text">Répondre</string>
+  <string name="jeejen_card_title_call_cancel">Appel annulé</string>
+  <string name="jeejen_card_title_call_ended">Appel terminé</string>
+  <string name="jeejen_card_title_dialing">Numérotation</string>
+  <string name="jeejen_card_title_in_call" />
+  <string name="jeejen_card_title_incoming_call">Appel entrant</string>
+  <string name="jeejen_card_title_on_hold" />
+  <string name="jeejen_end_call_text">Fin d\'appel</string>
+  <string name="jeejen_reject_call_text">Appel rejeté</string>
+  <string name="jeejen_toggle_dialpad_text">Clavier</string>
+  <string name="livetalk_waiting">En attente…</string>
 <!-- à traduire -->
   <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>

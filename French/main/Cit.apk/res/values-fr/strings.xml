@@ -281,6 +281,22 @@
   <string name="cit_tool_nfc_st_run">Test</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
   <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
+  <string name="cit_aud_spkcal">Calibrer</string>
+  <string name="cit_audio_cali_done">Calibrage réussi !</string>
+  <string name="cit_audio_cali_failed">Échec du calibrage, veuillez essayer à nouveau !</string>
+  <string name="cit_audio_cali_file_existed">La piste audio n\'existe pas, impossible de calibrer !</string>
+  <string name="cit_audio_cali_playing">Pressez le bouton pour calibrer</string>
+  <string name="cit_audio_cali_summary">Calibrer le haut-parleur PA</string>
+  <string name="cit_audio_cali_title">Test de calibrage du haut-parleur PA</string>
+  <string name="cit_audio_cali_valueC">Compteur:</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Ref_diff:</string>
+  <string name="cit_audio_cali_valueT">Temp_acc:</string>
+  <string name="cit_audio_calibrating">Calibrage en cours...</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">Lieu: %s</string>
+  <string name="cit_tool_bluetooth_le_tx_ch19">Entrer dans le mode de test de fréquence Bluetooth LE 2.440GHz</string>
+  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
 <!-- à traduire -->
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
@@ -309,5 +325,12 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
 1.Tap the calibration button below to enter Camera interface
 2.Press Back button to exit the camera interface
 3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
 
+  Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+
+  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+  <string name="cit_x5_audio_lb_top_to_speaker_title">Top mic speaker feedback test</string>
 </resources>

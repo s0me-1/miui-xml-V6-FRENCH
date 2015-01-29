@@ -46,4 +46,24 @@
       <item quantity="zero">%1$d élément</item>
       <item quantity="one">%1$d élément</item>
   </plurals>
+  <plurals name="how_many_pics">
+    <item quantity="other">%d photos</item>
+    <item quantity="one">%d photo</item>
+  </plurals>
+  <plurals name="how_many_sub_folders">
+    <item quantity="other">%d dossiers</item>
+    <item quantity="one">%d dossier</item>
+  </plurals>
+  <plurals name="how_many_videos">
+    <item quantity="other">%d vidéos</item>
+    <item quantity="one">%d vidéo</item>
+  </plurals>
+  <plurals name="message_no_delete_access_with_count">
+    <item quantity="other">"Vous n'avez pas les autorisations pour supprimer ces %d fichiers."</item>
+    <item quantity="one">"Vous n'avez pas les autorisations pour supprimer ce fichier."</item>
+  </plurals>
+  <plurals name="pick_with_limited_upper_bound_title">
+    <item quantity="other">Vous pouvez sélectionner %d éléments</item>
+    <item quantity="one">Vous pouvez sélectionner %d élément</item>
+  </plurals>
 </resources>
