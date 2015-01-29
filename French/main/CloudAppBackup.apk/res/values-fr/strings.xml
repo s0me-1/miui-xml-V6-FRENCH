@@ -86,7 +86,7 @@
   <string name="no_app_to_backup">Aucune application</string>
   <string name="latest_backup_time">Dernière sauvegarde : %s</string>
   <string name="latest_backup_time_loading">Chargement…</string>
-  <string name="already_deleted">(supprimé)</string>
+  <string name="already_deleted">%s (supprimé)</string>
   <string name="datasize_unknown">Inconnu</string>
   <string name="listview_empty_no_results">Aucun résultat</string>
   <string name="check_fail">Vérification échouée</string>

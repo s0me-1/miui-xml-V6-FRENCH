@@ -69,7 +69,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
   <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
-  <string name="resource_comment_entry_tips">Afficher les commentaires</string>
+  <string name="resource_comment_entry_tips">Commentaires (%1$s)</string>
   <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
@@ -157,7 +157,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_batch_update_dlg_content_single">Mettre à jour %1$s ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
   <string name="theme_batch_updating_text">Mise à jour (%1$d)…</string>
-  <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
+  <string name="theme_changed_failed_message">Échec de l\'application du thème</string>
   <string name="theme_changed_message">Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter…</string>
   <string name="theme_component_title_alarm">Alarme</string>

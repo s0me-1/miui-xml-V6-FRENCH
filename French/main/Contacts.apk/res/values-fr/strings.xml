@@ -802,7 +802,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
   <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
-  <string name="resource_comment_entry_tips">Afficher les commentaires</string>
+  <string name="resource_comment_entry_tips">Commentaires (%1$s)</string>
   <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>

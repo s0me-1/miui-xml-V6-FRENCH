@@ -140,7 +140,7 @@
   <string name="copy_message_text_success">Message copié avec succès !</string>
   <string name="copy_to_sdcard">Enregistrer le fichier</string>
   <string name="copy_to_sdcard_fail">Impossible enreg. pièce jointe.</string>
-  <string name="copy_to_sdcard_success">Pièce jointe enregistrée.</string>
+  <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
   <string name="database_corruption">Base de données corrompue, reconstruction…</string>
   <string name="delete">Supprimer</string>
   <string name="delete_bookmark">Supprimer des favoris</string>

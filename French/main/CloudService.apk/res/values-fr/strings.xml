@@ -124,7 +124,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="enable_cloud_service_notification">Vous n\'avez pas activé le service Mi Cloud</string>
   <string name="sync_item_calllog_title">Synchroniser le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
-  <string name="micloud_main_last_sync_time">"Dernière synchronisation "</string>
+  <string name="micloud_main_last_sync_time">"Dernière sync. : %s "</string>
   <string name="micloud_unlogin_for_time_title">Activer Mi Cloud</string>
   <string name="remind_later">Me rappeler plus tard</string>
   <string name="user_agreement">Contact utilisateur</string>
