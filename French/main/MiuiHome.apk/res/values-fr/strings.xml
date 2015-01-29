@@ -204,8 +204,8 @@
   <string name="current_preview">Aperçu</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_wallpaper_message">Supprimer %1$d fond d\'écran?</string>
-  <string name="delete_wallpapers_message">Supprimer %1$d fonds d'écran?</string>
+  <string name="delete_wallpaper_message">Supprimer %1$d fond d\'écran ?</string>
+  <string name="delete_wallpapers_message">Supprimer %1$d fonds d'écran ?</string>
   <string name="disable_wallpaper_scroll">Désactiver le défilement horizontal</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -225,7 +225,7 @@
   <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
   <string name="sharedUserId" />
   <string name="show_all">Afficher tous</string>
-  <string name="uninstall_dialog_title_multi_format" formatted="false">Désinstaller %s et %d autres applis?</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">Désinstaller %s et %d autres applis ?</string>
   <string name="uninstall_result_failed">"Impossible de désinstaller %s"</string>
   <string name="uninstall_result_multi_succeeded">%1$d applis désinstallées</string>
   <string name="uninstall_result_other_failed" formatted="false">"Impossible de désinstaller %s et %d autres applis"</string>

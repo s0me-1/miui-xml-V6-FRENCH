@@ -240,7 +240,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="get_this_month_gb">Obtenez %s d\'espace disque ce mois-ci</string>
   <string name="free_space_has_received">Vous avez déjà obtenu l`espace gratuit ce mois-ci</string>
   <string name="free_space_receive_fail">"Impossible de mettre à jour, ou déjà effectué"</string>
-  <string name="cloud_space_upgrade_title">Obtenez de l\'espace Cloud gratuit!</string>
+  <string name="cloud_space_upgrade_title">Obtenez de l\'espace Cloud gratuit !</string>
   
   <string name="find_device_status_ok">Trouvez votre appareil où que vous soyez sur i.mi.com</string>
   <string name="micloud_check_sim_notify_text">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous

@@ -283,7 +283,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="dlg_antispam_mode_delete_message">"Vous ne pouvez récupérer les règles personnalisées après leur suppression."</string>
   <string name="dlg_antispam_mode_delete_title">Suppression des règles personnalisées</string>
   <string name="dlg_antispam_using_mode_delete_message">"Supprimer le profil de liste noire actuellement utilisé, et basculer sur le profil par défaut ? Cette action est irréversible !"</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">"Supprimer le profil de liste noire actuellement utilisé, et basculer sur le profil par défaut? Cette action est irréversible !"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Supprimer le profil de liste noire actuellement utilisé, et basculer sur le profil par défaut ? Cette action est irréversible !"</string>
   <string name="SMS_SERVICE">Liste noire SMS</string>
   <string name="button_text_delete">Supprimer</string>
   <string name="call_transfer_block">Bloquer le transfert d\'appel</string>

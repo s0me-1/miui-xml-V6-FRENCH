@@ -283,7 +283,7 @@
   <string name="cit_audio_lb_phonecall_title">Test de simulation d\'appel</string>
   <string name="cit_aud_spkcal">Calibrer</string>
   <string name="cit_audio_cali_done">Calibrage réussi !</string>
-  <string name="cit_audio_cali_failed">Échec du calibrage, veuillez essayer à nouveau!</string>
+  <string name="cit_audio_cali_failed">Échec du calibrage, veuillez essayer à nouveau !</string>
   <string name="cit_audio_cali_file_existed">La piste audio n\'existe pas, impossible de calibrer !</string>
   <string name="cit_audio_cali_playing">Pressez le bouton pour calibrer</string>
   <string name="cit_audio_cali_summary">Calibrer le haut-parleur PA</string>

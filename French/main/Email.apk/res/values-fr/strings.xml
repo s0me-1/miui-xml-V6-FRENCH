@@ -793,7 +793,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_type_exchange">Exchange</string>
   <string name="account_type_imap">IMAP</string>
   <string name="account_type_pop3">POP3</string>
-  <string name="att_file_not_exists">Fichier %s introuvable!</string>
+  <string name="att_file_not_exists">Fichier %s introuvable !</string>
   <string name="attachment_bar_title">Pièces jointes</string>
   <string name="attachment_canceling">Annulation en cours, veuillez patienter.</string>
   <string name="attachment_decoding">Pièce jointe téléchargée, décodage en cours, veuillez patienter.</string>
@@ -830,7 +830,7 @@ Taille du patch Delta : %2$s"</string>
 \u0009 (Vérifiez que le réglage est 'Synchro temps auto')"</string>
   <string name="account_cache_provider">Cache fournisseur du compte</string>
   <string name="account_setup_not_disturb_title">Ne pas déranger</string>
-  <string name="add_pre_message_attachments">Ajouter les pièces-jointes du pré-message?</string>
+  <string name="add_pre_message_attachments">Ajouter les pièces-jointes du pré-message ?</string>
   <string name="add_pre_message_attachments_no">Non</string>
   <string name="add_pre_message_attachments_yes">Ajouter</string>
   <string name="attachment_stop_all">Stop</string>
@@ -843,7 +843,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="donot_disturb_starttime_title">Jusqu'à</string>
   <string name="donot_disturb_summary">Votre téléphone ne recevra pas de nouveaux messages durant la période spécifiée</string>
   <string name="donot_disturb_title">Ne pas déranger durant la nuit</string>
-  <string name="downlaod_nonWifi_confirm_title">Télécharger cette pièce-jointe?</string>
+  <string name="downlaod_nonWifi_confirm_title">Télécharger cette pièce-jointe ?</string>
   <string name="download_cancel_confirm_message">Le téléchargement sera interrompu</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="file_not_found_redownload">"Fichier non trouvé"</string>

@@ -139,7 +139,7 @@
   <string name="mi_money_">Mi Credits</string>
   <string name="original_price">Prix</string>
   <string name="privacy_tip_cancel">Annuler</string>
-  <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
+  <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements ? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utiliser l\'accélérateur Xunlei ?</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei ajouté</string>

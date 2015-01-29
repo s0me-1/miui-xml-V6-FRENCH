@@ -124,7 +124,7 @@
   <string name="desktop_installing">Installation</string>
   <string name="desktop_recovering">Récupération</string>
   <string name="desktop_waiting">En attente</string>
-  <string name="device_delete_prompt">Supprimer la sauvegarde de %s?</string>
+  <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="download_settings">Télécharger les réglages de l\'écran d\'accueil</string>
   <string name="error_unknown">Quelque chose s\'est mal déroulé</string>

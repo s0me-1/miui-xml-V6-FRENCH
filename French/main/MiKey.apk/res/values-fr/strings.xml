@@ -287,7 +287,7 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="tab_combo">Combo</string>
     <string name="toast_audio_record_start">Démarrer l\'enregistrement</string>
     <string name="toast_audio_record_stop">Arrêter l\'enregistrement</string>
-    <string name="unsupport_content">Veuillez mettre à jour votre système avec la dernière version de développement de MIUI, pour supporter cette fonction!</string>
+    <string name="unsupport_content">Veuillez mettre à jour votre système avec la dernière version de développement de MIUI, pour supporter cette fonction !</string>
     <string name="unsupport_title">Cette fonction n\'est pas supportée</string>
     <string name="wallpaper_action">Changer le fond d\'écran</string>
     <string name="wallpaper_change_both">Accueil + Verrouillage</string>
