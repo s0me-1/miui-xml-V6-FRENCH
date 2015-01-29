@@ -42,10 +42,14 @@
   <string name="locale_picker_title">Sélectionnez un pays</string>
   <string name="setting_locale">Application des paramètres de localisation...</string>
   <string name="terms_of_use_label">Vous devez accepter le Contrat d\'utilisateur et la Politique de confidentialité avant d\'utiliser MIUI</string>
- <!-- à traduire -->
-  <string name="ime_privacy_policy_no_network">"Can't connect to the internet. View the Privacy Policy for this keyboard at %s."</string>
-  <string name="network_access_warning">Need network connectivity when active your device</string>
-  <string name="miui_privacy_policy_no_network">No network connection. View the Privacy Policy at %s</string>
-  <string name="miui_terms_no_network">No network connection. View the Terms of Service at %s</string>
-
+  <string name="ime_privacy_policy_no_network">"Pas de connexion à Internet. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
+  <string name="network_access_warning">Connexion réseau requise pour activer ce périphérique</string>
+  <string name="miui_privacy_policy_no_network">Pas de connexion réseau. Consultez la politique de confidentialité sur %s</string>
+  <string name="miui_terms_no_network">Pas de connexion réseau. Consultez les termes du service sur %s</string>  
+  <string name="install_preinstall_app">Chargement…</string>
+  <string name="page_layout_label">Ajustez la taille du texte et la mise en place pour votre écran d\'accueil, menu de notifications, clavier numérique, et plus.</string>
+  <string name="page_layout_title">Mise en place système</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Redémarrer</string>
+  <string name="title_congratulation">"Tout est fin prêt ;-)!"</string>
 </resources>
