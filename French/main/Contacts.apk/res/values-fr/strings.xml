@@ -1192,4 +1192,5 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="yellowpage_navigation_more_items_title">Plus de services</string>
   <string name="yellowpage_navigation_search_result_average_price">Environ %d RMB </string>
   <string name="yellowpage_search_the_yellowpage">Chercher dans cet annuaire</string>
+  <string name="yellowpage_navigation_clear_search_history">Effacer l\'historique</string>
 </resources>

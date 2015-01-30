@@ -190,7 +190,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_name">%1$s</string>
   <string name="theme_select_others">Autres</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
-  <string name="title_component">Modifier le thème</string>
+  <string name="title_component">Personnalisation du thème</string>
   <string name="title_system_resource">Ressources locales</string>
   <string name="wallpaper_crop">Rogner</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
@@ -271,4 +271,11 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_comment_rating_star_tips">Touchez les étoiles :</string>
   <string name="resource_trial_fail_title">Impossible de démarrer la session d\'essai</string>
   <string name="resource_trial_fail_message">Assurez vous que l\'heure de votre appareil est correctement paramétrée.</string>
+  <string name="resource_title_category">Catégories</string>
+  <string name="resource_title_hot_subject">Populaire</string>
+  <string name="resource_title_local">Local</string>
+  <string name="resource_title_rank">Populaire</string>
+  <string name="resource_title_subject">Sélection</string>
+  <string name="theme_multiple_button_title_customize">Personnaliser</string>
+  <string name="theme_user_agreement_exit">Quitter</string>
 </resources>
