@@ -186,7 +186,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
   <string name="theme_immediately_apply_tip">Appliquer la mise à jour ?</string>
-  <string name="theme_import_from_sdcard">Importer depuis la carte SD</string>
+  <string name="theme_import_from_sdcard">Importer…</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_select_others">Autres</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>

@@ -43,7 +43,8 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="download_error">Échec</string>
   <string name="download_running_percent">En cours, %d%%</string>
   <string name="download_percent">%d%%</string>
-  <string name="notif_text_engine_off">L\'accélérateur Xunlei est désactivé.</string>
+  <!-- notif_text_engine_off masque texte inutile pour non résidents chinois-->
+  <string name="notif_text_engine_off">" "</string>
   <string name="notif_text_engine_on">Accélération…</string>
   <string name="notif_title_file_size">共%1$d个文件</string>
   <string name="notif_title_multiple_downloading">正在下载%1$d个文件</string>

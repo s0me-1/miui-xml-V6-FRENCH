@@ -211,7 +211,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_main_space_full">Espace saturé</string>
   <string name="micloud_main_space_risk">Il y a %d de données à synchroniser. Merci d\'ajuster l\'espace de stockage.</string>
   <string name="micloud_main_sync_pause">Suspendre la synchronisation</string>
-  <string name="micloud_main_synced_data_count">%d de données ont été synchronisées</string>
+  <string name="micloud_main_synced_data_count">%d éléments ont été synchronisés</string>
   <string name="micloud_main_syncing">Synchronisation...</string>
   <string name="micloud_main_update_space">Ajuster l\'espace de stockage</string>
   <string name="micloud_main_wlan_sync_data_count">%d de données seront synchronisées via Wi-Fi</string>

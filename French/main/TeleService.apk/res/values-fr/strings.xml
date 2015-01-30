@@ -701,7 +701,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="connect_disconnect_vibrate_title">Vibreur</string>
   <string name="connect_disconnect_vibrate_summary">"Vibre quand la personne que vous appelez répond à l'appel"</string>
   <string name="connect_disconnect_vibrate_none">Aucune vibration</string>
-  <string name="connect_disconnect_vibrate_normal">Vibreur</string>
+  <string name="connect_disconnect_vibrate_normal">Vibration normale</string>
   <string name="connect_disconnect_vibrate_weak">Vibration faible</string>
   <string name="lable_call_barring">Interdiction d\'appel</string>
   <string name="lable_all_outgoing">Tous les appels sortants</string>

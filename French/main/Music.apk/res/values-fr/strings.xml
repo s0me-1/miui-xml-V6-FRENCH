@@ -49,10 +49,10 @@
   <string name="artist_view">Artiste</string>
   <string name="audio_picker_title">Choisir une chanson</string>
   <string name="dialog_button_create_playlist">Créer une playlist</string>
-  <string name="dialog_button_find_music">Découvrir de nouvelles musiques</string>
+  <string name="dialog_button_find_music">Découvrir des chansons</string>
   <string name="dialog_button_login">Connectez-vous et synchronisez votre musique</string>
   <string name="dialog_button_scan_tracks">Rechercher des chansons sur cet appareil</string>
-  <string name="dialog_hint_music_error">Aucun chanson. Vous pouvez…</string>
+  <string name="dialog_hint_music_error">Liste vide. Vous pouvez…</string>
   <string name="dialog_delete_descript">Supprimer %s ?</string>
   <string name="dialog_hint_network_error">Connexion de données indisponible.</string>
   <string name="dialog_title_add_playlist">Ajouter une playlist</string>

@@ -430,7 +430,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="import_contact_card_button">Importer</string>
   <string name="import_failure_no_vcard_file">Aucune carte de visite dans le stockage</string>
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
-  <string name="import_from_sdcard">Importer depuis la carte SD</string>
+  <string name="import_from_sdcard">Importer…</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>
   <string name="import_from_sim2">Importer depuis la carte SIM 2</string>
   <string name="import_from_sim1">Importer depuis la carte SIM 1</string>
@@ -579,7 +579,6 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">Vous devez posséder un compte pour créer des groupes.</string>
-  <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Xiaomi, Google et Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Mi</string>
   <string name="noContacts">Aucun contact</string>
   <string name="noContactsHelpText">"Vous n\'avez pas encore de contacts à afficher. 
