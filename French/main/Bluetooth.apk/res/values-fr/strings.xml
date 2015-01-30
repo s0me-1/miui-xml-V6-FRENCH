@@ -148,11 +148,11 @@
   <string name="disconnect">Déconnecter</string>
   <string name="mi_band_vibrate_alarm">Vibrer lors de l\'alarme</string>
   <string name="mi_band_vibrate_incall">Vibrer en sonnant</string>
-  <string name="mi_band_vibrate_incall_in_contacts">Vibrer en sonnant pour les appels d\'un contacts</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Vibrer en sonnant pour les appels d\'un contact</string>
   <string name="mi_band_vibrate_incall_no_contacts">Vibrer en sonnant pour les appels inconnus</string>
   <string name="mi_band_vibrate_sms">Vibrer à la réception d\'un SMS</string>
-  <string name="mi_band_vibrate_sms_in_contacts">Vibrer à la réception d\'un SMS d\'un de vos contacts</string>
-  <string name="mi_band_vibrate_sms_no_contacts">Vibrer à la réception d\'un SMS d\'un numéro inconnu</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibrer à la réception d\'un SMS d\'un contact</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Vibrer à la réception d\'un SMS inconnu</string>
   <string name="mi_key_alert_dialog_message">Touchez OK pour éteindre l\'alarme.</string>
   <string name="mi_key_alert_dialog_title">Alerte Mi-Key</string>
   <string name="mi_key_find_mikey">Trouver Mi-Key</string>
