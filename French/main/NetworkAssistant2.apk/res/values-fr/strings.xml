@@ -396,7 +396,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="tc_sms_report_get_sms_timeout">Expiration de la requête</string>
   <string name="tc_sms_report_get_success">"Rapport d\'utilisation des données reçu. Vérifiez qu'il soit cohérent avant de nous le transmettre."</string>
   <string name="tc_sms_report_get_success_notify_body">Vérifiez la cohérence de ce rapport et transmettez le à MIUI.</string>
-  <string name="tc_sms_report_get_success_notify_title">SMS de rapport d\utilisation des données reçu</string>
+  <string name="tc_sms_report_get_success_notify_title">SMS de rapport d\'utilisation des données reçu</string>
   <string name="tc_sms_report_geting_sms">Lecture du SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Allez dans l\'appli Moniteur réseau dans le Centre de Sécurité et essayez manuellement.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Impossible de mettre à jour l'utilisation des données"</string>

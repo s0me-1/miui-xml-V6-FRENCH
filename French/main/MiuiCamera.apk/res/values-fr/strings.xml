@@ -505,8 +505,6 @@
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
   <string name="pref_audio_focus_title">Focus Audio</string>
-  <string name="pref_audio_indicator_entry_off">Audio off</string>
-  <string name="pref_audio_indicator_entry_on">Audio on</string>
   <string name="pref_camera_asd_night_title">Amélioration auto des photos de nuit</string>
   <string name="pref_camera_asd_popup_title">Ouvrir un popup lorsque le flash est requis</string>
   <string name="pref_camera_delay_capture_title">Compte à rebours</string>
@@ -524,4 +522,8 @@
   <string name="pref_camera_flashmode_entry_torch">Torche</string>
   <string name="pref_camera_hdr_entry_off">Inactif</string>
   <string name="do_not_save">Ne pas enregistrer</string>
+  
+ <!-- à traduire  trouver bonne formule, affiché sur mipad seulement ?-->
+  <string name="pref_audio_indicator_entry_off">Audio off</string>
+  <string name="pref_audio_indicator_entry_on">Audio on</string>
 </resources>

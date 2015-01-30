@@ -33,7 +33,6 @@
      <string name="minute_picker_description">Minutes circular slider</string>
      <string name="no_results_found">No results found</string>
      <string name="palestine_display_name">Palestine</string>
-     <string name="prefDefault_alerts_vibrate_true">always</string>
      <string name="preferences_debug_category">Debugging</string>
      <string name="preferences_default_reminder_default">10</string>
      <string name="preferences_experimental_category">Experimental</string>
