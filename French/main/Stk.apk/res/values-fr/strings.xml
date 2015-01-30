@@ -42,4 +42,6 @@
   <string name="stk_dialog_reject">NON</string>
   <string name="app_name2">Services SIM2</string>
   <string name="default_setup_call_msg">Appel en cours de paramétrage</string>
+  <string name="app_name3">Services SIM3</string>
+  <string name="default_tone_dialog_msg">Sonnerie en cours…</string>
 </resources>
