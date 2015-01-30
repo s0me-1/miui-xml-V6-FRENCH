@@ -63,4 +63,9 @@
   <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
   <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
  -->
+  <string name="mediasize_default">ISO_A4</string>
+  <string name="mediasize_standard_china">3</string>
+  <string name="mediasize_standard_iso">0</string>
+  <string name="mediasize_standard_japan">2</string>
+  <string name="mediasize_standard_north_america">1</string>
 </resources>
