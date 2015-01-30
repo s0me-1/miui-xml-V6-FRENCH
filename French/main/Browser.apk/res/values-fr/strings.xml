@@ -664,8 +664,8 @@
   <string name="action_menu_text_share">Partager</string>
   <string name="action_menu_text_history">Favoris/Historique</string>
   <string name="action_menu_text_nightmode">Mode nuit</string>
-  <string name="action_menu_text_nightmode_on">Mode nuit</string>
-  <string name="action_menu_text_nightmode_off">Mode nuit</string>
+  <string name="action_menu_text_nightmode_on">Mode nuit on</string>
+  <string name="action_menu_text_nightmode_off">Mode nuit off</string>
   <string name="action_menu_text_exit">Quitter</string>
   <string name="action_menu_text_setting">Paramètres</string>
   <string name="url_suggest_indicator_hoturl">Populaires</string>
