@@ -151,7 +151,7 @@
   <string name="mi_band_vibrate_incall_in_contacts">Vibrer avec la sonnerie pour les appels de l\'un de vos contacts</string>
   <string name="mi_band_vibrate_incall_no_contacts">Vibrer avec la sonnerie pour les appels de numéros inconnus</string>
   <string name="mi_band_vibrate_sms">Vibrer à la réception d\'un SMS</string>
-  <string name="mi_band_vibrate_sms_in_contacts">Vibrer à la réception d\'un SMS de l'un de vos contacts</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibrer à la réception d\'un SMS de l\'un de vos contacts</string>
   <string name="mi_band_vibrate_sms_no_contacts">Vibrer à la réception d\'un SMS d\'un numéro inconnu</string>
   <string name="mi_key_alert_dialog_message">Touchez OK pour éteindre l\'alarme.</string>
   <string name="mi_key_alert_dialog_title">Alerte Mi-Key</string>

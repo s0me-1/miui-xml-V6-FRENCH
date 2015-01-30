@@ -749,7 +749,7 @@
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="data_traffic_prompt_change">Utiliser les données mobiles pour visionner les vidéos augmentera votre consommation de données. Si vous dépassez votre limite autorisée, vous encourrez des frais supplémentaires par votre opérateur.</string>
   <string name="data_traffic_prompt_message">Utiliser les données mobiles pour naviguer augmentera votre consommation de données. Si vous dépassez votre limite autorisée, vous encourrez des frais supplémentaires par votre opérateur.</string>
-  <string name="data_traffic_prompt_title">Alerte d'utilisation des données</string>
+  <string name="data_traffic_prompt_title">Alerte d\'utilisation des données</string>
   <string name="enter_developer_mode">Passer en mode développeur</string>
   <string name="find_on_page_cancel">Annuler</string>
   <string name="find_on_page_next">Suivant</string>
