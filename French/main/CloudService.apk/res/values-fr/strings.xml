@@ -127,7 +127,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_main_last_sync_time">"Dernière sync. : %s "</string>
   <string name="micloud_unlogin_for_time_title">Activer Mi Cloud</string>
   <string name="remind_later">Me rappeler plus tard</string>
-  <string name="user_agreement">Contact utilisateur</string>
+  <string name="user_agreement">Conditions d\'utilisation</string>
   <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
   <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>
@@ -211,7 +211,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_main_space_full">Espace saturé</string>
   <string name="micloud_main_space_risk">Il y a %d de données à synchroniser. Merci d\'ajuster l\'espace de stockage.</string>
   <string name="micloud_main_sync_pause">Suspendre la synchronisation</string>
-  <string name="micloud_main_synced_data_count">%d de données ont été synchronisées</string>
+  <string name="micloud_main_synced_data_count">%d éléments ont été synchronisés</string>
   <string name="micloud_main_syncing">Synchronisation...</string>
   <string name="micloud_main_update_space">Ajuster l\'espace de stockage</string>
   <string name="micloud_main_wlan_sync_data_count">%d de données seront synchronisées via Wi-Fi</string>
@@ -268,7 +268,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="sync_dspt_entrance_provision_2">En savoir plus</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">" Si vous changez vos cartes SIM, votre opérateur peut potentiellement vous facturer un SMS pour la réactivation du service."</string>
-  <string name="user_agreement_title">"Termes du Service Mi Cloud"</string>
+  <string name="user_agreement_title">"Conditions d\'utilisation Mi Cloud"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xmpp_server_addr" />
 </resources>

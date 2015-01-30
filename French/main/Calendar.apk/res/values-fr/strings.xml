@@ -295,7 +295,7 @@
   <string name="repeat_label_week">Semaine</string>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
-  
+  <string name="repeat_end_times_unit">" fois"</string>
   <!-- utilisé seulement si telephone en chinois -->
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="subscribe_all">全部订阅</string>

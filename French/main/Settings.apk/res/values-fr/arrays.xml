@@ -643,4 +643,14 @@
       <item>1 heure</item>
       <item>Illimité</item>
   </string-array>
+     <string-array name="screen_optimize_summary">
+        <item>Optimiser le contraste en fonction de la lumière ambiante</item>
+        <item>Augmente le contraste de l\'écran</item>
+        <item>Le contraste restera constant</item>
+     </string-array>
+     <string-array name="screen_optimize_title">
+        <item>Contraste automatique</item>
+        <item>Contraste augmenté</item>
+        <item>Standard</item>
+     </string-array>
 </resources>

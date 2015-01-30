@@ -118,7 +118,7 @@
   <string name="backup_size">Taille : %s</string>
   <string name="button_continue">Continuer</string>
   <string name="button_stop">Arrêter</string>
-  <string name="cancel_recover_settings">&lt;u&gt;Annuler&lt;/u&gt;</string>
+  <string name="cancel_recover_settings"><u>Annuler</u></string>
   <string name="cloud_app_backup_already">" a été sauvegardé"</string>
   <string name="desktop_downloading">Téléchargement</string>
   <string name="desktop_installing">Installation</string>

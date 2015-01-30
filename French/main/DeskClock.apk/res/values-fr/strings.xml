@@ -138,4 +138,6 @@
   <string name="timer_message_00">%1$d minute et %2$d seconde</string>
   <string name="timer_message_01">%1$d minute et %2$d secondes</string>
   <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
+  <string name="menu_item_sort_by_gmt_offset">Trier par fuseau horaire</string>
+  <string name="menu_item_sort_by_name">Trier par nom</string>
 </resources>

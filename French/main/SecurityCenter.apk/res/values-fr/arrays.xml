@@ -38,4 +38,40 @@
       <item>Vibrer en mode silencieux</item>
       <item>Toujours vibrer</item>
   </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Une fois</item>
+        <item>Tous les jours</item>
+        <item>Les jours de travail</item>
+        <item>Le week-end</item>
+        <item>Personnalisé</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Une fois</item>
+        <item>Tous les jours</item>
+        <item>Les jours de travail</item>
+        <item>Le week-end</item>
+        <item>Personnalisé</item>
+     </string-array>
+       <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Tous les jours</item>
+        <item>Tous les 3 jours</item>
+        <item>Tous les 7 jours</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>Dans 1 minute</item>
+        <item>Dans 5 minutes</item>
+        <item>Dans 10 minutes</item>
+        <item>Jamais</item>
+     </string-array>
+       <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Désactiver</item>
+        <item>Activer</item>
+        <item>Ne pas modifier</item>
+     </string-array>
 </resources>

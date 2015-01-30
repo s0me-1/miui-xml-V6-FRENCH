@@ -112,7 +112,7 @@
   <string name="apk_filter">APK</string>
   <string name="media_filter">MÉDIA</string>
   <string name="doc_filter">DOCUMENTS</string>
-  <string name="package_filter">PAQUETS</string>
+  <string name="package_filter">ARCHIVES</string>
   <string name="other_filter">AUTRES</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Paiement effectué</string>
   <string name="choose_open_time">Veuillez sélectionner la durée</string>

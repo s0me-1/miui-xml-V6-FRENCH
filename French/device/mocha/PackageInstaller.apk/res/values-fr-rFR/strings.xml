@@ -6,8 +6,8 @@
   <string name="button_cancel">Annuler</string>
   <string name="button_continue">Continuer</string>
   <string name="button_continue_install">Installer</string>
-  <string name="button_install_lastest">Télécharger et installer la nouvelle version</string>
-  <string name="button_install_official">Télécharger et installer la version officielle</string>
+  <string name="button_install_lastest">Accéder à la nouvelle version</string>
+  <string name="button_install_official">Accéder à la version officielle</string>
   <string name="button_next">Suivant</string>
   <string name="button_remove">Supprimer</string>
   <string name="installer_name">Source : %1$s</string>
