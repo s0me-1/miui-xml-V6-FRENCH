@@ -704,7 +704,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="summary_miui_update">Mise à jour disponible pour %s.</string>
   <string name="summary_network_switch">Autoriser l\'application à se connecter à Internet</string>
   <string name="summary_never_flow_verify">"Cette forme n'a pas été validée avec votre opérateur"</string>
-  <string name="summary_permission_root">Votre appareil et vos données personnelles seront vulnérables à partir d\'applis ayant les permissions root</string>
+  <string name="summary_permission_root">Les applications ayant un accès root peuvent compromettre la sécurité de votre appareil et vos données personnelles</string>
   <string name="summary_power_optimizer">"Réduisez les performances de votre appareil lorsque la batterie est faible"</string>
   <string name="summary_saving_switch">Restreindre l\'accès aux données mobiles pour les applications</string>
   <string name="summary_show_notification">"Placer les contrôles du Centre de Sécurité sur le menu de notification"</string>
