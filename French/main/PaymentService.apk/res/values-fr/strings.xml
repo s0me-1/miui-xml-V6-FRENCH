@@ -318,7 +318,7 @@ Service client : 400-100-5678"</string>
   <string name="msg_telecom_picker_hint_2_1">Votre fournisseur d\'accès a été contacté!</string>
   <string name="msg_telecom_picker_hint_1_2">Contacter automatiquement votre fournisseur d\'accès.</string>
   <string name="msg_telecom_picker_hint_1_1">Après avoir appuyé sur Confirmer l\'achat, votre téléphone va..</string>
-  <string name="msg_send_parameter_error">"Echec d'envoi du message，il y a une erreur dans le contenu."</string>
+  <string name="msg_send_parameter_error">"Échec d'envoi du message, il y a une erreur dans le contenu."</string>
   <string name="illegal_intent">Requête invalide</string>
   <string name="button_count_down_finish">OK(%1$s)</string>
   <string name="button_custom_service_phone">J\'ai compris</string>
@@ -327,21 +327,20 @@ Service client : 400-100-5678"</string>
   <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="giftcard_expire_notification_prime_title">Le code va bientôt expirer…</string>
   <string name="giftcard_expire_notification_sub_title">La carte cadeau Mi Credit expire le %1$s</string>
-  <string name="hfb_retry_query">再查一次</string>
-  <string name="hfb_step_2">按照提示进行回复</string>
-  <string name="hfb_step_3">点击“购买完成”</string>
-  <string name="hfb_succ_service_phone_tip">支付服务客服：4006125880</string>
-  <string name="lockpattern_need_to_unlock_footer" />
-  <string name="lockpattern_need_to_unlock_wrong_footer" />
   <string name="payment_recharge_group_familiar">Choisir la méthode de rechargement</string>
   <string name="payment_recharge_group_favorite">Méthodes de rechargement</string>
   <string name="payment_success_label">"Vous avez payé %1$s MiCredit"</string>
   <string name="payment_success_title">Paiement reçu</string>
   <string name="payment_title">Confirmer les infos de paiement</string>
   <string name="payment_with_login_title">Entrez le mot de passe votre compte Mi</string>
-  <string name="process_expired">"Où êtes-vous partis? Cette opération est maintenant expirée."</string>
+  <string name="process_expired">"Où êtes-vous partis ? Cette opération est maintenant expirée."</string>
   <string name="recharge_grid_item_more">Plus</string>
   <string name="sms_code_empty">Entrez le code de vérification que vous avez reçu.</string>
   <string name="summary_custom_service_phone">Tél:</string>
   <string name="title_custom_service_phone">Contacter le service clients</string>
+  
+  <string name="hfb_retry_query">再查一次</string>
+  <string name="hfb_step_2">按照提示进行回复</string>
+  <string name="hfb_step_3">点击“购买完成”</string>
+  <string name="hfb_succ_service_phone_tip">支付服务客服：4006125880</string>
 </resources>

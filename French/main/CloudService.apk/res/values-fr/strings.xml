@@ -127,7 +127,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_main_last_sync_time">"Dernière sync. : %s "</string>
   <string name="micloud_unlogin_for_time_title">Activer Mi Cloud</string>
   <string name="remind_later">Me rappeler plus tard</string>
-  <string name="user_agreement">Contact utilisateur</string>
+  <string name="user_agreement">Conditions d\'utilisation</string>
   <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
   <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>

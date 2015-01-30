@@ -254,8 +254,8 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous a plu, vous pouvez l\'acheter.</string>
   <string name="resource_trial_end_restore">Terminer l\'essai</string>
   <string name="resource_trial_end_purchase">Acheter</string>
-  <string name="theme_user_agreement_content1">"Avant d\'utiliser cette application, merci de lire le "</string>
-  <string name="theme_user_agreement_content2">Contrat d\'utilisation</string>
+  <string name="theme_user_agreement_content1">"Avant d\'utiliser cette application, merci de lire les "</string>
+  <string name="theme_user_agreement_content2">Conditions d\'utilisation</string>
   <string name="theme_user_agreement_content3">" et les "</string>
   <string name="theme_user_agreement_content4">Règles de confidentialité</string>
   <string name="theme_user_agreement_content5">.</string>

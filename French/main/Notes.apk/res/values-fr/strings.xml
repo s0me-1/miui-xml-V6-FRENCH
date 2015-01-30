@@ -101,7 +101,7 @@
   <string name="sina_token_invalid_warning">Le compte Weibo est non valide, veuillez vous reconnecter</string>
   <string name="sns_title_send">Envoyer un message</string>
   <string name="sina_share_fail_content_repeat">"Partage impossible, le contenu existe déjà…"</string>
-  <string name="sns_hint_content">"Qu'avez-vous en tête?"</string>
+  <string name="sns_hint_content">"Qu'avez-vous en tête ?"</string>
   <string name="sns_message_building">Création du billet…</string>
   <string name="sns_message_sending">Publication…</string>
   <string name="sns_toast_empty">"Impossible d'envoyer un billet vide"</string>

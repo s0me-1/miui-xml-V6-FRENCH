@@ -273,7 +273,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="pref_data_usage_ignore_settings">Ignorer l\'utilisation des données</string>
   <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>
   <string name="input_used_max_hint">Saisir le montant(moins de %s)</string>
-  <string name="datausage_purchase_order_failure">Echec de l\'achat</string>
+  <string name="datausage_purchase_order_failure">Échec de l\'achat</string>
   <string name="datausage_purchase_order_failure_cause">Votre achat a échoué car…</string>
   <string name="main_primary_message_traffic_enough">Sous la limite de données</string>
   <string name="main_primary_message_traffic_warning">Proche de la limite de données</string>
@@ -282,7 +282,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="main_primary_message_traffic_purchase">Vous devez augmenter votre quota</string>
   <string name="main_primary_message_traffic_cur_normal">Sous la limite de données</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Avertissement conso données</string>
-  <string name="main_primary_message_traffic_cur_normal_overlimit">Limite conso dépasée</string>
+  <string name="main_primary_message_traffic_cur_normal_overlimit">Limite conso dépassée</string>
   <string name="main_primary_message_traffic_cur_leisure">Heures creuses</string>
   <string name="main_secondary_message_traffic_used_normal">%s utilisés en heures de pointe</string>
   <string name="main_secondary_message_traffic_used_leisure">%s utilisés en heures creuses</string>
@@ -301,7 +301,7 @@ Heures creuses: %1$s restants | %2$s utilisés"</string>
   <string name="setting_traffic_pkg">Définir le quota</string>
   <string name="traffic_config_alert_title">%s correction</string>
   <string name="traffic_config_alert_body">"Votre opérateur indique que vous avez consommé %s
-Mettre à jour vos informations de consommation?"</string>
+Mettre à jour vos informations de consommation ?"</string>
   <string name="traffic_config_alert_body_normal">"
 Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
   <string name="traffic_config_alert_body_leisure">"Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
@@ -319,7 +319,7 @@ Votre opérateur indique qu'il vous reste %s de données en heures creuses. Vous
   <string name="datausage_purchase_pay_captcha_tips">Après réception de votre code de validation, saisissez-le dans le champ et tapez \"Acheter\" pour terminer votre achat. Ce code sera valable durant 10 minutes seulement.</string>
   <string name="datausage_purchase_get_captcha">Récupérer le code de validation(%d)</string>
   <string name="datausage_purchase_get_captcha_again">Envoyer un nouveau code</string>
-  <string name="datausage_purchase_get_captcha_failed">"Echec de récupération du code. Vérifiez votre connexion de données et essayez à nouveau."</string>
+  <string name="datausage_purchase_get_captcha_failed">"Échec de récupération du code. Vérifiez votre connexion de données et essayez à nouveau."</string>
   <string name="datausage_purchase_confirm_tip">Votre commande:</string>
   <string name="datausage_purchase_ordering">Achat en cours…</string>
   <string name="datausage_purchase_result_ok">"Vous avez acheté %s
@@ -330,16 +330,16 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="datausage_purchase_pkglist_nodata">"Il y a un conflit entre votre pack actuel et le pack que vous souhaitez acheter.
  Contactez votre fournisseur d\'accès pour plus d\'informations."</string>
   <string name="datausage_purchase_pkglist_networkerror">"Pas de connexion réseau. Vérifiez votre connexion de données et essayez à nouveau."</string>
-  <string name="datausage_purchase_pkglist_servererror">Oups! Quelque chose cloche avec votre serveur.</string>
+  <string name="datausage_purchase_pkglist_servererror">Oups ! Quelque chose cloche avec votre serveur.</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="add_to_whitelist_button">Gérer les exceptions</string>
   <string name="add_white_list">Ajouter</string>
-  <string name="alter_dialog_message">Utiliser les données en itinérances peut engendrer des frais conséquents de la part de votre opérateur. Autoriser les applis dans la liste d\'exceptions à utiliser les données en itinérance?</string>
+  <string name="alter_dialog_message">Utiliser les données en itinérances peut engendrer des frais conséquents de la part de votre opérateur. Autoriser les applis dans la liste d\'exceptions à utiliser les données en itinérance ?</string>
   <string name="daily_limit_network_available_body">Toucher pour voir les stats d\'utilisation de données.</string>
   <string name="daily_limit_over_message">"Vous avez dépassé votre limite de données quotidienne."</string>
-  <string name="dialog_app_roaming_message">"En itinérance, seules les applis ajoutées à la liste d\'exceptions peuvent utiliser les données. %1$s ne fait pas partie de cette liste. Voir la liste maintenant?"</string>
+  <string name="dialog_app_roaming_message">"En itinérance, seules les applis ajoutées à la liste d\'exceptions peuvent utiliser les données. %1$s ne fait pas partie de cette liste. Voir la liste maintenant ?"</string>
   <string name="dialog_app_roaming_title">"Itinérance désactivée pour %1$s"</string>
-  <string name="dialog_roaming_message">Les applis de la liste d\'exceptions pourront utiliser les données en itinérance. Ajouter cette application à la liste?</string>
+  <string name="dialog_roaming_message">Les applis de la liste d\'exceptions pourront utiliser les données en itinérance. Ajouter cette application à la liste ?</string>
   <string name="dialog_roaming_title">Itinérance</string>
   <string name="firewall_rule_group_title_roaming">Itinérance</string>
   <string name="five_percent_total_pkg">%s (5%% de vos données mobiles mensuelles)</string>
@@ -348,13 +348,11 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="lock_screen_setting_summary">Afficher une notification après consommation de 100KB</string>
   <string name="lock_screen_traffic_notify_body">Verrouillé pour %1$s | %2$s de données mobile utilisées</string>
   <string name="main_alert_message_month_limit_error">La limite de données saisie est incorrecte</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Tapez pour saisir la limite.</string>
   <string name="notify_daily_limit_body">%s utilisés cette semaine. Tapez pour saisir la limite.</string>
   <string name="notify_daily_limit_title">Entrez une limite de données quotidienne</string>
   <string name="notify_month_traffic_body">%s utilisés ce mois-ci. Tapez pour saisir la limite.</string>
   <string name="notify_setting_pkg_title">Entrez une limite de données mensuelle</string>
-  <string name="notify_weekly_pkg_body">%s used this week. Tapez pour saisir la limite.</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -374,7 +372,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="privacy_declare_dialog_message">"En utilisant ce service, vous acceptes les &lt;a href=%s&gt; Termes et Conditions&lt;/a&gt; d'Opera ."</string>
   <string name="privacy_declare_dialog_title">Termes et Conditions</string>
   <string name="privacy_prompt_tc_sms_report_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour mettre à jour vos informations de consommation de données."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour metre à jour les modèles de requêtes SMS et vérifier la disponibilité de cette fonction dans votre pays."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour mettre à jour les modèles de requêtes SMS et vérifier la disponibilité de cette fonction dans votre pays."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour obtenir plus d'informations sur l'achat de données."</string>
   <string name="privacy_prompt_upload">Notification de confidentialité</string>
   <string name="reach_daily_limit_value_body">Réduisez votre consommation de données.</string>
@@ -407,7 +405,6 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="tc_sms_report_notify_get_timeout_body">Expiration. Vérifiez auprès de votre opérateur que le code fourni par SMS est correct.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Impossible de récupérer le rapport"</string>
   <string name="tc_sms_report_receive_content">Contenu du rapport d\'utilisation de données (à confirmer)</string>
-  <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">Numéro du destinataire</string>
   <string name="tc_sms_report_send_num">Numéro de l\'opérateur</string>
   <string name="tc_sms_report_summary">Aidez-nous à améliorer cette fonction en envoyant un rapport si vos informations de connexion sont incorrectes ou non mises à jour</string>
@@ -415,10 +412,9 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="tc_sms_report_tips_dialog_title">SMS de rapport conso</string>
   <string name="tc_sms_report_title">Soumettre un bogue de la conso de données</string>
   <string name="tc_sms_report_toast_text">Récupération…</string>
-  <string name="tc_sms_report_upload_success">"Le SMS conso a été envoyé. Nous l'exploiterons prochainement!"</string>
-  <string name="tc_sms_report_upload_when_net">Merci pour votre retour!</string>
+  <string name="tc_sms_report_upload_success">"Le SMS conso a été envoyé. Nous l'exploiterons prochainement !"</string>
+  <string name="tc_sms_report_upload_when_net">Merci pour votre retour !</string>
   <string name="ten_percent_total_pkg">%s (10%% de vos données mobiles mensuelles)</string>
-  <string name="text_day" />
   <string name="three_percent_total_pkg">%s (3%% de vos données mobiles mensuelles)</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
@@ -435,7 +431,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_over_purchase_body">Touchez pour voir les détails.</string>
   <string name="traffic_over_purchase_link">"Vous avez atteint votre limite conso mobile planifiée.&lt;br/&gt;Si vous dépassez cette limite, vous risquez des frais d'opérateur supplémentaires.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Augmenter maintenant et économiser 50%.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Limite conso dépassée</string>
-  <string name="traffic_purchase_body">Economiser 50% en augmentant maintenant.</string>
+  <string name="traffic_purchase_body">Économiser 50% en augmentant maintenant.</string>
   <string name="traffic_purchse_suggestion">Il est temps d\'augmenter les données</string>
   <string name="traffic_setting_app_count">%d applis</string>
   <string name="traffic_setting_completed">OK</string>
@@ -446,6 +442,11 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_setting_extra_traffic_title">Paramètres additionnels</string>
   <string name="traffic_setting_open">Actif</string>
   <string name="traffic_setting_step_num">Réglage de la planification de données</string>
-  <string name="traffic_setting_update_template_falure">"Echec de connexion au réseau"</string>
+  <string name="traffic_setting_update_template_falure">"Échec de connexion au réseau"</string>
   <string name="traffic_warning_purchase_title">Le solde restant est inférieur à %d%%</string>
+
+<!-- à traduire -->
+  <string name="notify_weekly_pkg_body">%s used this week. Tapez pour saisir la limite.</string>
+  <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
+  
 </resources>

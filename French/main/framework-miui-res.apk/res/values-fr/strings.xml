@@ -22,8 +22,8 @@
   <string name="today">Aujourd\'hui</string>
   <string name="tomorrow">Demain</string>
   <string name="unknown">Numéro inconnu</string>
-  <string name="user_agreement1">Vous allez utiliser le système et les services en ligne fournis par Xiaomi, merci de lire le "</string>
-  <string name="user_agreement2">"Contrat d'utilisateur"</string>
+  <string name="user_agreement1">Vous allez utiliser le système et les services en ligne fournis par Xiaomi, merci de lire les "</string>
+  <string name="user_agreement2">"Conditions d\'utilisation"</string>
   <string name="user_agreement3">" et la "</string>
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
