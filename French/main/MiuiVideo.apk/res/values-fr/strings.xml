@@ -181,10 +181,10 @@
   <string name="my_favorite">Favoris</string>
   <string name="my_offline">Hors-ligne</string>
   <string name="play_history">Lu récemment</string>
-  <string name="share_device">Périphérique partagé</string>
+  <string name="share_device">Périphériques partagés</string>
   <string name="not_login">Non connecté</string>
   <string name="click_to_login">Appuyer pour se connecter</string>
-  <string name="count_ge_device">%d périphériques</string>
+  <string name="count_ge_device">%d</string>
   <string name="play_his_empty_hint">Vide</string>
   <string name="yesterday">Hier</string>
   <string name="device_empty_hint">Vide</string>
