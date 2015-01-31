@@ -74,4 +74,9 @@
         <item>Activer</item>
         <item>Ne pas modifier</item>
      </string-array>
+     <string-array name="auto_process_mode">
+        <item>Demander avec une notification</item>
+        <item>Nettoyer en arrière-plan</item>
+        <item>Afficher une notification après le nettoyage</item>
+     </string-array>
 </resources>
