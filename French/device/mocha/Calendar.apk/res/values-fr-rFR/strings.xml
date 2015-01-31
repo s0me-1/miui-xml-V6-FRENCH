@@ -4,7 +4,7 @@
    <string name="accessibility_pick_recurrence">Répéter</string>
      <string name="event_color_picker_dialog_title">Couleur de l\'événement</string>
      <string name="event_color_set_to_default">Utiliser la couleur par défaut</string>
-
+     <string name="choose_event_color_label">Couleur de l\'événement</string>
 
 <!-- à traduire ?? affichées sur mipad ou non?? à vérifier... -->
      <string name="accessibility_email_notification">Email guests</string>
@@ -12,7 +12,6 @@
      <string name="calendar_color_picker_dialog_title">Calendar Color</string>
      <string name="calendar_square_color_picker_description">Color picker</string>
      <string name="call_label">Call</string>
-     <string name="choose_event_color_label">Choose event color</string>
      <string name="color_picker_default_title">Select a Color</string>
      <string name="color_swatch_description">Color %1$d</string>
      <string name="color_swatch_description_selected">Color %1$d selected</string>
