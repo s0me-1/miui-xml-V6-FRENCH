@@ -297,7 +297,6 @@
   <string name="cit_gps_location">Lieu: %s</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Entrer dans le mode de test de fréquence Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-<!-- à traduire -->
   <string name="cit_tool_enable_3A_log">Activer la journalisation 3A</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Test de réaction du haut-parleur micro principal</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Test de réaction du haut-parleur micro arrière</string>
