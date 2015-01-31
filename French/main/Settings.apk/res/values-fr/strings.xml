@@ -2894,7 +2894,7 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
      <string name="cmcc_dm_settings_disable_summary">Désactiver le démarrage automatique</string>
      <string name="cmcc_dm_settings_enable_summary">Activer le démarrage automatique</string>
      <string name="cmcc_dm_settings_title">Gestion des permissions de l'appareil</string>
-     <string name="free_wifi_agreement_remind_never">"Ne plus montrer"</string>
+     <string name="free_wifi_agreement_remind_never">"Ne plus afficher"</string>
      <string name="free_wifi_user_agreement">Lorsque vous utilisez WiWide pour vous connecter à un réseau, votre numéro de téléphone sera utilisé pour vérifier votre identité.</string>
      <string name="free_wifi_user_agreement_allow">Accepter</string>
      <string name="free_wifi_user_agreement_title">Conditions d'utilisation</string>
