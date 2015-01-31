@@ -2883,19 +2883,19 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
  
   
 <!-- à traduire -->
-  <string name="wifi_type_approval_title">Type Approval</string>
-  <string name="miracast_menu_teardown">Teardown</string>
-  <string name="bugreport_tool_log">Capture Bugreport</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Start Capturing</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Stop Capturing</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-     <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
-     <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
-     <string name="cmcc_dm_settings_title">Device Management Permission</string>
-     <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
-     <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
-     <string name="free_wifi_user_agreement_allow">Agree</string>
-     <string name="free_wifi_user_agreement_title">Terms of Use</string>
+  <string name="wifi_type_approval_title">Certification</string>
+  <string name="miracast_menu_teardown">Développer</string>
+  <string name="bugreport_tool_log">Capture d\'un rapport de bug</string>
+  <string name="modem_tool_log">Capture des fichiers journaux du Modem</string>
+  <string name="modem_tool_log_start">Démarrage de la capture</string>
+  <string name="modem_tool_log_start_toast">"Démarrer la sauvegarde du fichier journal du modem sur %s"</string>
+  <string name="modem_tool_log_stop">Arrêt de la capture</string>
+  <string name="modem_tool_log_stop_toast">"Arrêter la sauvegarde du fichier journal du modem sur %s"</string>
+     <string name="cmcc_dm_settings_disable_summary">Désactiver le démarrage automatique</string>
+     <string name="cmcc_dm_settings_enable_summary">Activer le démarrage automatique</string>
+     <string name="cmcc_dm_settings_title">Gestion des permissions de l'appareil</string>
+     <string name="free_wifi_agreement_remind_never">"Ne plus montrer"</string>
+     <string name="free_wifi_user_agreement">Lorsque vous utilisez WiWide pour vous connecter à un réseau, votre numéro de téléphone sera utilisé pour vérifier votre identité.</string>
+     <string name="free_wifi_user_agreement_allow">Accepter</string>
+     <string name="free_wifi_user_agreement_title">Conditions d'utilisation</string>
 </resources>
