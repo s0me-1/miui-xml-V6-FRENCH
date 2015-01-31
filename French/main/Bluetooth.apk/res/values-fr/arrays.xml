@@ -10,6 +10,6 @@
     <string-array name="ble_profile_mi_key">
         <item>Prendre une photo</item>
         <item>Trouver le téléphone</item>
-        <item>Trouver Mi-Key</item>
+        <item>Trouver votre Mi-Key</item>
     </string-array>
 </resources>

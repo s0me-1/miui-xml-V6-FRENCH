@@ -309,5 +309,5 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_title_sim_unknown">Inconnu</string>
   <string name="call_delete_title">Supprimer l\'appel</string>
   <string name="info_antispam_close">AntiSpam désactivé</string>
-  <string name="sms_delete_title">Supprimer message</string>
+  <string name="sms_delete_title">Supprimer le message</string>
 </resources>

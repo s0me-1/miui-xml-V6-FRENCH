@@ -155,7 +155,7 @@
   <string name="mi_band_vibrate_sms_no_contacts">Vibrer à la réception d\'un SMS inconnu</string>
   <string name="mi_key_alert_dialog_message">Touchez OK pour éteindre l\'alarme.</string>
   <string name="mi_key_alert_dialog_title">Alerte Mi-Key</string>
-  <string name="mi_key_find_mikey">Trouver Mi-Key</string>
+  <string name="mi_key_find_mikey">Trouver votre Mi-Key</string>
   <string name="mi_key_find_phone">Trouver le téléphone</string>
   <string name="mi_key_take_photo">Prendre une photo</string>
   <string name="progress_scanning">Recherche…</string>
