@@ -62,7 +62,7 @@
   <string name="aperture">"Ouverture "</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">Aucune photo</string>
-  <string name="appwidget_title">Galerie photo</string>
+  <string name="appwidget_title">Galerie</string>
   <string name="auto">Automatique</string>
   <string name="auto_create_recent_album">Création automatique d\'album</string>
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>

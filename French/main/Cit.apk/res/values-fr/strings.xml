@@ -157,7 +157,7 @@
   <string name="cit_OTG_plugout_check_title">OTG retiré</string>
   <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB OTG.</string>
   <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>
-  <string name="cit_pass">Passer</string>
+  <string name="cit_pass">Passé</string>
   <string name="cit_play_sd_mp3_summary">Ce test lancera music.mp3 situé dans le dossier racine de la carte SD</string>
   <string name="cit_play_sd_mp3_hifi_summary">Ce test utilisera la sortie Hi-Fi pour lancer music.mp3 situé dans le dossier racine de la carte SD</string>
   <string name="cit_play_sd_mp3_title">Test de lecture MP3</string>
@@ -297,40 +297,39 @@
   <string name="cit_gps_location">Lieu: %s</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Entrer dans le mode de test de fréquence Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-<!-- à traduire -->
-  <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+  <string name="cit_tool_enable_3A_log">Activer la journalisation 3A</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Test de réaction du haut-parleur micro principal</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Test de réaction du haut-parleur micro arrière</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Test de réaction du haut-parleur micro du haut</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test de réaction du micro principal au haut-parleur frontal.
 
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, vous devriez entendre votre voix dans le haut-parleur frontal."</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Test de réaction du micro arrière au haut-parleur. 
 
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+Tournez le téléphone, parlez au micro arrière, vous devriez entendre votre voix dans le haut parleur."</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Test de réaction du micro du haut au haut-parleur.
 
- Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+Tournez le téléphone, parlez au micro du haut, vous devriez entendre votre voix dans le haut parleur."</string>
+  <string name="cit_audio_lb_summary_phonecall">"Test de simulation d'appel.
 
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-  <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
-  <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test (2.480GHz) mode</string>
-  <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test (2.402GHz) mode</string>
-  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
-  <string name="cit_camera_calibration_summary">"Test instructions:
+Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, vous devriez entendre votre voix dans le haut-parleur frontal. Faite le test dans un environnement calme"</string>
+  <string name="cit_tool_bluetooth_dut">Activation du mode de test Bluetooth</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Activation du mode bluetooth de dissipation à faible puissance (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Activation du mode bluetooth de dissipation à faible puissance (2.402GHz)</string>
+  <string name="cit_tool_bluetooth_tx_h">Activation du mode de test bluetooth de simple son (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_tx_l">Activation du mode de test bluetooth de simple son (2.402GHz)</string>
+  <string name="cit_tool_cal_camera">Outil de calibration de l\'appareil photo</string>
+  <string name="cit_camera_calibration_summary">"Instructions du test:
 
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+1.Appuyez sur le bouton de calibration ci-dessous pour entrer dans l\'interface de l\'appareil photo
+2.Appuyez sur le bouton Retour pour quitter l\'interface de l\'appareil photo
+3.Un message apparaîtra pour indiquer que l\'OIS a été calibré"</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Test de réaction du microphone avant</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test de réaction du microphone avant au haut-parleur.
 
-  Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+  Tournez le téléphone, parlez au microphone se situant près du haut-parleur frontal, vous devriez entendre votre voix dans le haut-parleur"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Test de réaction du microphone du haut au haut-parleur. 
 
-  Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_top_to_speaker_title">Top mic speaker feedback test</string>
+  Tournez le téléphone, parlez au microphone du haut, vous devriez entendre votre voix dans le haut-parleur"</string>
+  <string name="cit_x5_audio_lb_top_to_speaker_title">Test de réaction du microphone du haut</string>
 </resources>

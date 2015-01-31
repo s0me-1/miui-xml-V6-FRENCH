@@ -550,7 +550,6 @@
   <string name="mx_dspt_provision">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement. Votre opérateur peut vous facturer le prix d\'un SMS pour activer ce service.</string>
   <string name="mx_type_guide">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement</string>
   <string name="playing_failed">"Impossible de lire"</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
   <string name="press_recording">Appuyez et maintenez la touche Micro pour enregistrer</string>
   <string name="recording_failed">"Impossible d'enregistrer"</string>
   <string name="release_cancel">Relâcher pour annuler</string>
@@ -559,5 +558,5 @@
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="warning_show">Envoyer dans %ds</string>
- <string name="pref_title_ringtone_repeat_summary">Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint:</string>
+ <string name="pref_title_ringtone_repeat_summary">Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint :</string>
 </resources>
