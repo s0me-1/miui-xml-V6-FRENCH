@@ -653,4 +653,9 @@
         <item>Contraste augmenté</item>
         <item>Standard</item>
      </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 pouces</item>
+        <item>4.0 pouces</item>
+        <item>3.5 pouces</item>
+    </string-array>
 </resources>
