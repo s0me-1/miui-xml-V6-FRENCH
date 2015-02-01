@@ -50,7 +50,7 @@
   <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
-  <string name="activity_not_found_uri">Pas de programme approprié trouvé</string>
+  <string name="activity_not_found_uri">Aucun programme approprié trouvé</string>
   <string name="addBlackList">Ajouter à la liste noire</string>
   <string name="add_bookmark">Favoris</string>
   <string name="add_contact">Contact</string>

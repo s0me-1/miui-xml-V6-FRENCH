@@ -42,7 +42,7 @@
   <string name="locale_picker_title">Sélectionnez un pays</string>
   <string name="setting_locale">Application des paramètres de localisation...</string>
   <string name="terms_of_use_label">Vous devez accepter le Contrat d\'utilisateur et la Politique de confidentialité avant d\'utiliser MIUI</string>
-  <string name="ime_privacy_policy_no_network">"Pas de connexion à Internet. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
+  <string name="ime_privacy_policy_no_network">"Pas de connexion à internet. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
   <string name="network_access_warning">Connexion réseau requise pour activer ce périphérique</string>
   <string name="miui_privacy_policy_no_network">Pas de connexion réseau. Consultez la politique de confidentialité sur %s</string>
   <string name="miui_terms_no_network">Pas de connexion réseau. Consultez les termes du service sur %s</string>  
