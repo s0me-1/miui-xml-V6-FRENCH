@@ -232,7 +232,6 @@
   <string name="song_not_find">"Impossible d\'obtenir un résultat. Vérifiez votre connexion et réessayez."</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">"Votre période d'essai ou abonnement a expiré. Veuillez sélectionner une autre qualité de téléchargement."</string>
   <string name="order_process_fail">"Erreur d\'authentification. Veuillez patienter quelques minutes et réessayer."</string>  
-  <!-- à traduire ? -->
   <string name="period_format">%1$s-%2$s</string>
   <string name="action_item_hide">Masquer</string>
   <string name="album_name">Album</string>
@@ -241,7 +240,7 @@
   <string name="bluetooth_device">Appareil Bluetooth</string>
   <string name="can_not_find_resource">"Impossible de trouver les ressources"</string>
   <string name="channel_list_fragment_title">Radio</string>
-  <string name="click_modify">Tapez pour éditer les paroles.</string>
+  <string name="click_modify">Appuyer pour éditer les paroles.</string>
   <string name="delete_file_as_well">Supprimer également le fichier local</string>
   <string name="delete_file_end">Supprimer définitivement</string>
   <string name="delete_file_start">Supprimer les fichiers sélectionnés</string>
@@ -258,16 +257,14 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_folder">Par dossier</string>
   <string name="filter_by_folder_summary">Sélectionnez les dossiers à afficher</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">2Mo</string>
+  <string name="filter_by_size_min">0Ko</string>
   <string name="format_not_support">"Ce format n'est pas supporté."</string>
   <string name="in_searching_please_wait">Recherche…</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
-  <string name="lyric">Lyrics</string>
+  <string name="lyric">Paroles</string>
   <string name="lyric_is_empty">Pas de paroles</string>
   <string name="lyric_setting">Réglages des paroles</string>
-  <string name="max_sleep_time">90</string>
-  <string name="min_sleep_time">1</string>
   <string name="modify_lyric">Modifier les paroles</string>
   <string name="modify_progress">Modifier la vitesse de déroulement des paroles</string>
   <string name="modify_progress_helper">Glisser en haut ou en bas pour ajuster la progression des paroles.</string>
@@ -294,5 +291,5 @@
   <string name="similar_songs">Chansons similaires</string>
   <string name="song_name">Chanson</string>
   <string name="start_to_play">Lecture</string>
-  <string name="stream_quality">qualité du flux</string>
+  <string name="stream_quality">Qualité du flux</string>
 </resources>
