@@ -22,7 +22,7 @@
     <string name="action_key_power_long">Power (Appui long)</string>
     <string name="action_search">Recherche</string>
     <string name="category_0">App</string>
-    <string name="category_1">Paramètres système</string>
+    <string name="category_1">Paramètres</string>
     <string name="category_2">Touches</string>
     <string name="super_difficult_click">"Résistance : "</string>
     <string name="key_direction_down">Bas</string>
