@@ -249,10 +249,10 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="combo_saveas_desc">Description du combo</string>
     <string name="combo_saveas_name">Nom</string>
     <string name="combo_saveas_name_empty">Pas de nom</string>
-    <string name="combo_saveas_title">Saisir les informations du package</string>
+    <string name="combo_saveas_title">Saisir les informations du combo</string>
     <string name="combo_speed_fast">Rapide</string>
     <string name="combo_speed_medium">Moyen</string>
-    <string name="combo_speed_prefix">Vitesse :</string>
+    <string name="combo_speed_prefix">"Vitesse : "</string>
     <string name="combo_speed_slow">Lent</string>
     <string name="combo_standard_text">Ce combo peut suffire au quotidien, en particulier si vous n\'avez pas d\'idée précise, le combo standard est un bon choix.</string>
     <string name="combo_standard_title">Combo Standard</string>
