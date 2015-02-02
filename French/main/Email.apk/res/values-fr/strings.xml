@@ -834,7 +834,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="add_pre_message_attachments_no">Non</string>
   <string name="add_pre_message_attachments_yes">Ajouter</string>
   <string name="attachment_stop_all">Stop</string>
-  <string name="bottom_bar_no_quickreply_toast">Pas de réponse rapide</string>
+  <string name="bottom_bar_no_quickreply_toast">Aucune réponse rapide</string>
   <string name="changepw_dialog_tips">Veuillez saisir à nouveau le mot de passe pour \"%s\"</string>
   <string name="confirm_delete_conversation_title">Supprimer</string>
   <string name="contact_content_provider">Contacter le fournisseur de contenu</string>

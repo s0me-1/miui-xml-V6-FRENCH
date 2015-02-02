@@ -132,7 +132,7 @@
   <string name="cit_keyboard_current">Clavier : %s</string>
   <string name="cit_keyboard_menu">Test du bouton: MENU</string>
   <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton Accueil</string>
-  <string name="cit_keyboard_test_title">Test du clavier</string>
+  <string name="cit_keyboard_test_title">Test des touches</string>
   <string name="cit_label">Détection du matériel</string>
   <string name="cit_lcdlight_brightness">Rétro-éclairage</string>
   <string name="cit_lcdlight_brightness_max">Max</string>
@@ -246,12 +246,12 @@
   <string name="cit_touch_calib_pass">"Le calibrage de l'écran effectué avec succès"</string>
   <string name="cit_touch_calib_summary">"Les étapes suivantes vont compléter le calibrage de l'écran, veuillez appuyer sur OK, ne touchez pas à l'écran jusqu'à ce que l'étalonnage soit terminé"</string>
   <string name="cit_touch_calib_title">"Calibrage de l'écran"</string>
-  <string name="cit_usb_OTG_in">Périphérique USB OTG connecté.</string>
-  <string name="cit_usb_OTG_out">Équipement USB OTG démonté.</string>
+  <string name="cit_usb_OTG_in">Périphérique USB OTG connecté</string>
+  <string name="cit_usb_OTG_out">Périphérique USB OTG déconnecté</string>
   <string name="cit_usb_charger_in">Chargeur USB connecté</string>
-  <string name="cit_usb_charger_out">Le chargeur USB est déconnecté</string>
-  <string name="cit_version_check_summary">Versions trouvées du matériel et du logiciel</string>
-  <string name="cit_version_check_title">Version d\'évaluation</string>
+  <string name="cit_usb_charger_out">Chargeur USB déconnecté</string>
+  <string name="cit_version_check_summary">Versions/N° de série logiciel/matériel</string>
+  <string name="cit_version_check_title">Informations sur l\'appareil</string>
   <string name="cit_vga_camera_capture">Prendre une photo</string>
   <string name="cit_vga_camera_capture_fail">Impossible de prendre une photo</string>
   <string name="cit_vga_camera_delete">Supprimer la photo</string>
@@ -264,7 +264,7 @@
   <string name="cit_vibrator_load_up_pattern">Profil montant</string>
   <string name="cit_vibrator_long">Vibration longue</string>
   <string name="cit_vibrator_play_touch_pattern">Profil de vibration</string>
-  <string name="cit_vibrator_short">vibration courte</string>
+  <string name="cit_vibrator_short">Vibration courte</string>
   <string name="cit_vibrator_show_advanced">Options avancées</string>
   <string name="cit_wifi_address_check_summary">Le test affichera l\'état actuel de la connexion Wi-Fi</string>
   <string name="cit_wifi_address_check_title">Test IP Wi-Fi</string>
