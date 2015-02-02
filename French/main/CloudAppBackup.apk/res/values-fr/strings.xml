@@ -137,9 +137,9 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
-  <string name="open_wifi">Activer le WIFI maintenant</string>
-  <string name="open_wifi_description">Se connecter à un réseau WIFI pour restaurer les données applicatives</string>
-  <string name="open_wifi_setting">Réglages WIFI</string>
+  <string name="open_wifi">Activer le Wi-Fi</string>
+  <string name="open_wifi_description">Se connecter à un réseau Wi-Fi pour restaurer les données applicatives</string>
+  <string name="open_wifi_setting">Réglages Wi-Fi</string>
   <string name="recover_from_micloud">Restaurer via Mi Cloud</string>
   <string name="recover_settings">Restaurer les réglages de l\'écran d\'accueil</string>
   <string name="recover_settings_description">Maintenir l\'appareil allumé</string>

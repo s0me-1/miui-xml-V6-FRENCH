@@ -252,7 +252,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_setting_gallery_summary">Photos et vidéos</string>
   <string name="micloud_setting_music_summary">Listes de lecture et favoris</string>
   <string name="micloud_setting_sms_summary">Messages SMS et MMS</string>
-  <string name="micloud_setting_wifi_summary">Réglages WIFI</string>
+  <string name="micloud_setting_wifi_summary">Réglages Wi-Fi</string>
   <string name="micloud_web_discription_international">Allez sur www.mi.com/micloud</string>
   <string name="mx_dspt_provision_privacy">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut potentiellement vous facturer un SMS pour son activation.
 

@@ -2865,7 +2865,7 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="status_bar_settings_long_click_sort">Appui long pour déplacer</string>
-  <string name="status_bar_settings_toggle_position">Changer disposition</string>
+  <string name="status_bar_settings_toggle_position">Disposition des commutateurs</string>
   <string name="supl_not_set">&lt;Non défini&gt;</string>
   <string name="title_font">Police</string>
   <string name="title_font_current">Police du système</string>
