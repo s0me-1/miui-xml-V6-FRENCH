@@ -246,10 +246,10 @@
   <string name="cit_touch_calib_pass">"Le calibrage de l'écran effectué avec succès"</string>
   <string name="cit_touch_calib_summary">"Les étapes suivantes vont compléter le calibrage de l'écran, veuillez appuyer sur OK, ne touchez pas à l'écran jusqu'à ce que l'étalonnage soit terminé"</string>
   <string name="cit_touch_calib_title">"Calibrage de l'écran"</string>
-  <string name="cit_usb_OTG_in">Périphérique USB OTG connecté.</string>
-  <string name="cit_usb_OTG_out">Équipement USB OTG démonté.</string>
+  <string name="cit_usb_OTG_in">Périphérique USB OTG connecté</string>
+  <string name="cit_usb_OTG_out">Périphérique USB OTG déconnecté</string>
   <string name="cit_usb_charger_in">Chargeur USB connecté</string>
-  <string name="cit_usb_charger_out">Le chargeur USB est déconnecté</string>
+  <string name="cit_usb_charger_out">Chargeur USB déconnecté</string>
   <string name="cit_version_check_summary">Versions/N° de série logiciel/matériel</string>
   <string name="cit_version_check_title">Informations sur l\'appareil</string>
   <string name="cit_vga_camera_capture">Prendre une photo</string>
