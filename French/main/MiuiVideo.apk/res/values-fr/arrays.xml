@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Recommandé</item>
+        <item>Classement</item>
+        <item>Populaire</item>
+        <item>Nouveautés</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Recommandé</item>
+        <item>Populaire</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Populaire</item>
+        <item>Classement</item>
+        <item>Nouveautés</item>
+    </string-array>
+</resources>
