@@ -5,6 +5,7 @@
      <string name="event_color_picker_dialog_title">Couleur de l\'événement</string>
      <string name="event_color_set_to_default">Utiliser la couleur par défaut</string>
      <string name="choose_event_color_label">Couleur de l\'événement</string>
+     <string name="recurrence_dialog_title">Répétition</string>
 
 <!-- à traduire ?? affichées sur mipad ou non?? à vérifier... -->
      <string name="accessibility_email_notification">Email guests</string>
@@ -42,7 +43,6 @@
      <string name="preferences_reminders_quiet_hours_start">Quiet hours start time</string>
      <string name="preferences_reminders_responded_dialog">Skip Reminders</string>
      <string name="preferences_reminders_responded_label">Skip Reminders</string>
-     <string name="recurrence_dialog_title">Repeat</string>
      <string name="recurrence_dialog_title_never">Never repeats</string>
      <string name="recurrence_end_continously">Forever</string>
      <string name="recurrence_end_count_label">For a number of events</string>
