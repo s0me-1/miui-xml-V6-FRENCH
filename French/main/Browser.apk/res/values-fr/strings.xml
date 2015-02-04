@@ -385,7 +385,7 @@
   <string name="pref_set_homepage_to">Adresse Web</string>
   <string name="pref_setting_title">Paramètres de pagination</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
-  <string name="pref_ua_string">Choisir l\'User agent</string>
+  <string name="pref_ua_string">Définir l\'User-Agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo…</string>
   <string name="pref_video_preload_summary">Autoriser le navigateur de précharger la vidéo lorsque le serveur le supporte</string>
@@ -664,8 +664,8 @@
   <string name="action_menu_text_share">Partager</string>
   <string name="action_menu_text_history">Favoris/Historique</string>
   <string name="action_menu_text_nightmode">Mode nuit</string>
-  <string name="action_menu_text_nightmode_on">Mode nuit</string>
-  <string name="action_menu_text_nightmode_off">Mode nuit</string>
+  <string name="action_menu_text_nightmode_on">Mode nuit on</string>
+  <string name="action_menu_text_nightmode_off">Mode nuit off</string>
   <string name="action_menu_text_exit">Quitter</string>
   <string name="action_menu_text_setting">Paramètres</string>
   <string name="url_suggest_indicator_hoturl">Populaires</string>

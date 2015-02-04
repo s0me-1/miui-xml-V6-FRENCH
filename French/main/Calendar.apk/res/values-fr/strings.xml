@@ -50,11 +50,11 @@
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Invités</string>
   <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
-  <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s !</string>
-  <string name="birthday_notification_text_three_days_later">3 jours avant son anniversaire (%3$s)</string>
+  <string name="birthday_event_description">Aujourd\'hui c\'est l\'%4$s de %1$s !</string>
+  <string name="birthday_notification_text_three_days_later">3 jours avant l\'%3$s de %4$s</string>
   <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
-  <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
-  <string name="birthday_notification_title_today">Anniversaire de %1$s</string>
+  <string name="birthday_notification_title_three_days_later">L\'%2$s de %1$s arrive bientôt.</string>
+  <string name="birthday_notification_title_today">%3$s de %1$s</string>
   <string name="calendar_refresh">Actualiser</string>
   <string name="change_response_title">Modifier la réponse</string>
   <string name="copy_db">Envoyer la base de données</string>
@@ -64,7 +64,7 @@
 
 • Accédez-y depuis n\'importe quel navigateur Web.
 • Sauvegardez vos événements en toute sécurité."</string>
-  <string name="creating_event">Événement créé.</string>
+  <string name="creating_event">Événement créé</string>
   <string name="creating_event_with_guest">Les invitations vont être envoyées.</string>
   <string name="custom">Personnalisé (non paramétrable depuis le téléphone)</string>
   <string name="daily">Quotidien</string>
@@ -74,7 +74,7 @@
   <string name="delete_label">Supprimer</string>
   <string name="delete_recurring_event_title">Supprimer l\'événement \"%s\" ?</string>
   <string name="delete_this_event_title">Supprimer cet événement ?</string>
-  <string name="description_label">Description</string>
+  <string name="description_label">"Description : "</string>
   <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
   <string name="discard_label">Annuler</string>
   <string name="dismiss_all_label">Tout supprimer</string>
@@ -91,7 +91,7 @@
   <string name="email_guests_label">Envoyer un mail aux invités</string>
   <string name="email_picker_label">Envoyer un mail via</string>
   <string name="email_subject_prefix">"Re : "</string>
-  <string name="empty_event">Événement vide non créé.</string>
+  <string name="empty_event">Aucun événement créé</string>
   <string name="event_create">Nouvel événement</string>
   <string name="event_delete">Supprimer l\'événement</string>
   <string name="event_edit">Modifier l\'événement</string>
@@ -114,7 +114,7 @@
   <string name="loading">Chargement…</string>
   <string name="local_calendar_display_name">Calendrier local</string>
   <string name="local_owner_account_name">Compte local</string>
-  <string name="menu_about_preferences">À propos de Google Agenda</string>
+  <string name="menu_about_preferences">À propos de l\'Agenda</string>
   <string name="menu_general_preferences">Paramètres généraux</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="menu_select_visible_calendars">Agendas à afficher</string>
@@ -184,10 +184,10 @@
   <string name="response_no">Non</string>
   <string name="response_yes">Oui</string>
   <string name="save_label">OK</string>
-  <string name="saving_event">Événement enregistré.</string>
-  <string name="saving_event_with_guest">Les mises à jour vont être envoyées.</string>
+  <string name="saving_event">Événement enregistré</string>
+  <string name="saving_event_with_guest">Les mises à jour vont être envoyées</string>
   <string name="search">Rechercher</string>
-  <string name="search_history_cleared">Historique des recherches effacé.</string>
+  <string name="search_history_cleared">Historique des recherches effacé</string>
   <string name="search_title">Rechercher dans mes agendas</string>
   <string name="select_synced_calendars_button">Agendas à synchroniser</string>
   <string name="select_synced_calendars_title">Agendas à synchroniser</string>
@@ -206,14 +206,14 @@
   <string name="today_at_time_fmt">Aujourd\'hui %s</string>
   <string name="tomorrow">Demain</string>
   <string name="tomorrow_at_time_fmt">Demain à %s</string>
-  <string name="view_event_calendar_label">Agenda :</string>
-  <string name="view_event_organizer_label">Organisateur :</string>
+  <string name="view_event_calendar_label">"Agenda : "</string>
+  <string name="view_event_organizer_label">"Organisateur : "</string>
   <string name="view_event_response_label">Participer ?</string>
   <string name="week_view">Semaine</string>
   <string name="weekly">Hebdomadaire (chaque %s)</string>
-  <string name="what_label">Objet</string>
-  <string name="when_label">Date</string>
-  <string name="where_label">Lieu</string>
+  <string name="what_label">"Objet : "</string>
+  <string name="when_label">"Date : "</string>
+  <string name="where_label">"Lieu : "</string>
   <string name="yearly">Annuel (le %s)</string>
   <string name="yearly_plain">Tous les ans</string>
   <string name="account_and_calendar">Compte et Calendrier</string>

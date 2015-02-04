@@ -37,7 +37,7 @@
   <string name="input_valid_url">Veuillez saisir une URL valide</string>
   <string name="quicklink_management_title">Ajouter à la page de démarrage</string>
   <string name="quicklinks_top_suggest">Recommandé</string>
-  <string name="setting_menu_advance">Avancer</string>
+  <string name="setting_menu_advance">Paramètres avancés</string>
   <string name="setting_menu_general_setting">Paramètres généraux</string>
   <string name="setting_menu_gesture">Gestes</string>
   <string name="setting_menu_website_data">Contenu Web</string>
@@ -73,9 +73,6 @@
   <string name="add_homepage">Ajouter sur page de démar.</string>
   <string name="add_lancher">Ajouter sur l\'accueil</string>
   <string name="bookmark">Favoris</string>
-<!-- à traduire -->
-
-
   <string name="bookmark_action_bar_add_group_title">Ajouter un groupe</string>
   <string name="bookmark_action_bar_new_group_title">Nouveau groupe</string>
   <string name="bookmark_menu_add_group_txt">Ajouter un groupe</string>
@@ -87,7 +84,7 @@
   <string name="bookmark_select_all">Tout sélectionner</string>
   <string name="bookmark_unselect_all">Tout désélectionner</string>
   <string name="browser_filechooser_title">Choisir un fichier à uploader</string>
-  <string name="browser_no_more_tab">Plus d'onglet</string>
+  <string name="browser_no_more_tab">Plus d\'onglet</string>
   <string name="change_mode">Changer les modes</string>
   <string name="download_fail">";Téléchargement échoué";</string>
   <string name="download_managent">Téléchargements</string>

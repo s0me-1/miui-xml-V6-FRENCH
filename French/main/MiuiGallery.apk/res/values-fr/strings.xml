@@ -62,7 +62,7 @@
   <string name="aperture">"Ouverture "</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">Aucune photo</string>
-  <string name="appwidget_title">Galerie photo</string>
+  <string name="appwidget_title">Galerie</string>
   <string name="auto">Automatique</string>
   <string name="auto_create_recent_album">Création automatique d\'album</string>
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>
@@ -565,7 +565,7 @@
   <string name="alert_secret_album_set_pattern">Définir un schéma de verrouillage</string>
   <string name="alert_secret_album_title">Ajouté à l\'album caché</string>
   <string name="auto_upload_album_comfirm_to_share">Cet album sera transféré automatiquement.</string>
-  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Transfère automatiquement vos photos d\'autres applis vers Mi Cloud. Voir les réglages dans &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Paramètres Galerie&amp;gt;Paramètres de l\'album Mi Cloud&amp;gt;Transférer automatiquement&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_msssage">" "<Data> Transfère automatiquement vos photos d\'autres applis vers Mi Cloud. Paramètres accessibles dans &lt;font color=#323232>&lt;b>Paramètres Galerie&amp;gt;Paramètres de l\'album Mi Cloud&amp;gt;Transférer automatiquement&lt;/b>&lt;/font>. </Data>" "</string>
   <string name="auto_upload_guide_title">Transférer automatiquement</string>
   <string name="auto_upload_title">Transférer automatiquement</string>
   <string name="choose_cloud_album">Sélectionner un album</string>

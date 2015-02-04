@@ -50,7 +50,7 @@
   <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
-  <string name="activity_not_found_uri">Pas de programme approprié trouvé</string>
+  <string name="activity_not_found_uri">Aucun programme approprié trouvé</string>
   <string name="addBlackList">Ajouter à la liste noire</string>
   <string name="add_bookmark">Favoris</string>
   <string name="add_contact">Contact</string>
@@ -539,7 +539,6 @@
   <string name="cannot_resend_audio">"Impossible d\'envoyer l\'enregistrement"</string>
   <string name="downloading_file_can_not_play">Attendez la fin du téléchargement de cet enregistrement</string>
   <string name="festival_networking_title">Remarque</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="guild_msim_switcher">Touchez pour basculer les cartes SIM</string>
   <string name="hms_uri_param_err">"L'URL ne peut être vide"</string>
   <string name="left_cancel">Glisser à gauche pour annuler</string>
@@ -551,10 +550,6 @@
   <string name="mx_dspt_provision">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement. Votre opérateur peut vous facturer le prix d\'un SMS pour activer ce service.</string>
   <string name="mx_type_guide">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement</string>
   <string name="playing_failed">"Impossible de lire"</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
-  <string name="prefDefault_vibrate_true">always</string>
   <string name="press_recording">Appuyez et maintenez la touche Micro pour enregistrer</string>
   <string name="recording_failed">"Impossible d'enregistrer"</string>
   <string name="release_cancel">Relâcher pour annuler</string>
@@ -563,4 +558,5 @@
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="warning_show">Envoyer dans %ds</string>
+ <string name="pref_title_ringtone_repeat_summary">Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint :</string>
 </resources>

@@ -41,15 +41,14 @@
      <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Tous les jours</item>
-        <item>Les jours de travail</item>
-        <item>Le week-end</item>
+        <item>Jours ouvrés</item>
+        <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Une fois</item>
         <item>Tous les jours</item>
-        <item>Les jours de travail</item>
-        <item>Le week-end</item>
+        <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
      </string-array>
        <string-array name="auto_clean_size">
@@ -73,5 +72,10 @@
         <item>Désactiver</item>
         <item>Activer</item>
         <item>Ne pas modifier</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Demander avec une notification</item>
+        <item>Nettoyer en arrière-plan</item>
+        <item>Afficher une notification après le nettoyage</item>
      </string-array>
 </resources>

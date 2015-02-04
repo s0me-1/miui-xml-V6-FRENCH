@@ -603,12 +603,12 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="text_optimizer">Utiliser le moteur d\'analyse en ligne</string>
   <string name="title_antivirus">Anti-virus</string>
   <string name="title_optimizer">Nettoyeur</string>
-  <string name="header_antivirus">"En utilisant cette fonction, vous acceptez les "<a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">conditions d\'utilisation</a> de Tencent.</string>
-  <string name="header_optimizer">"En utilisant cette fonction, vous acceptez les "<a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">conditions d\'utilisation</a> de Clean Master.</string>
+  <string name="header_antivirus">En utilisant cette fonction, vous acceptez les %s</string>
+  <string name="header_optimizer">En utilisant cette fonction, vous acceptez les %s</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Envoi et compare les noms de fichiers inconnus avec les définitions en ligne</string>
   <string name="pref_title_open_optimizer_cloud_scan">Utiliser le moteur d\'analyse en ligne</string>
   <string name="menu_item_control_app_permissions">Demande votre permission avant d\'autoriser les applications à lire vos contacts, voir votre historique d\'appel, changer un paramètre système, accéder à la caméra ou autre ressource</string>
-  <string name="permission_close_permission_control_dialog_msg">"Quand le Gestionaire de permissions est désactivé, les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource."</string>
+  <string name="permission_close_permission_control_dialog_msg">"Quand le Gestionnaire de permissions est désactivé, les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource."</string>
   <string name="permission_close_permission_control_dialog_title">Désactiver le Gestionnaire de permissions ?</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne demanderont pas votre permission avant de lire vos contacts, voir votre historique d'appel, changer un paramètre système, accéder à la caméra ou autre ressource. Vous pouvez activer cette fonctionnalité dans les paramètres de Permissions."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Le gestionnaire de permissions est désactivé</string>
@@ -702,7 +702,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="summary_flow_verify">"Pas de synchro des données de l'opérateur depuis %d jours"</string>
   <string name="summary_garbage_lib">Utilise les dernières définitions pour supprimer les spywares, adwares, et autres logiciels espions</string>
   <string name="summary_miui_update">Mise à jour disponible pour %s.</string>
-  <string name="summary_network_switch">Autoriser l\'application à se connecter à Internet</string>
+  <string name="summary_network_switch">Autoriser l\'application à se connecter à internet</string>
   <string name="summary_never_flow_verify">"Cette forme n'a pas été validée avec votre opérateur"</string>
   <string name="summary_permission_root">Les applications ayant un accès root peuvent compromettre la sécurité de votre appareil et vos données personnelles</string>
   <string name="summary_power_optimizer">"Réduisez les performances de votre appareil lorsque la batterie est faible"</string>
@@ -724,7 +724,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="title_flow_verify">Comparer les rapports</string>
   <string name="title_garbage_lib">Mises à jour automatiques</string>
   <string name="title_miui_update">Mise à jour disponible</string>
-  <string name="title_network_switch">Autoriser l\'accès à Internet</string>
+  <string name="title_network_switch">Autoriser l\'accès à internet</string>
   <string name="title_permission_root">Avertissement d\'accès Root</string>
   <string name="title_power_optimizer">Économiseur de batterie</string>
   <string name="title_saving_switch">Économiseur de données</string>
@@ -734,7 +734,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="toast_cleaner_cloudscan">L\'outil utiliser les définitions en ligne</string>
   <string name="toast_flow_notification">Notifications d\'utilisation de données activées</string>
   <string name="toast_garbage_lib">Mise à jour automatique de l\'outil Nettoyage</string>
-  <string name="toast_network_switch">Cette application peut se connecter à Internet</string>
+  <string name="toast_network_switch">Cette application peut se connecter à internet</string>
   <string name="toast_show_notification">Placé sur le menu des notifications</string>
   <string name="toast_virus_cloudscan">L\'analyse des virus utilisera les définitions en ligne</string>
 </resources>
